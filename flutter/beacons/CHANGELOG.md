@@ -1,3 +1,5 @@
 ## [0.0.1] - TODO: Add release date.
 
-* TODO: Describe initial release.
+- Initial release:
+
+* Adds codegen script to generate `IconData` for each Beacon Cryptowatch supports.
