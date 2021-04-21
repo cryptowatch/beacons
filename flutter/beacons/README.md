@@ -1,4 +1,4 @@
-# beacons
+# Cryptowatch Beacons
 
 A beautiful crypto font pack for Flutter by Cryptowatch.
 
