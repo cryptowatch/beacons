@@ -8,9 +8,9 @@ Install beacons from pub.dev and import.
 
 `import 'package:beacons/beacons.dart'`
 
-`Beacon` is an `Icon` and can be rendered anywhere an `Icon` can be rendered.
+`Beacon` extends `Icon` and can be rendered anywhere an `Icon` can be rendered.
 
-### Usage
+### `Beacon` Usage
 
 Simply:
 
@@ -29,3 +29,9 @@ Use a circular icon style.
 ```
 Beacon('btc', symbol: false);
 ```
+
+### Using `Beacons` instead
+
+You might want to pass one of the static `Beacons` properties to `Icon` for more control, or so that you don't rely on strings. You can accomplish this as follows:
+
+`Icon(Beacons.sym_btc)`
