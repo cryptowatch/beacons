@@ -13,7 +13,7 @@ class Beacon extends Icon {
   final Color? color;
 
   /// Override default `size` of `18`.
-  final double size;
+  final double? size;
 
   /// Semantic label as per [Icon].
   final String semanticLabel;
@@ -33,7 +33,7 @@ class Beacon extends Icon {
     this.key,
     this.color,
     bool symbol = true,
-    this.size = 18,
+    this.size,
     this.semanticLabel = '',
     this.textDirection = TextDirection.ltr,
   }) : super(
@@ -55,7 +55,7 @@ class Beacon extends Icon {
     this.key,
     this.color,
     bool symbol = true,
-    this.size = 18,
+    this.size,
     this.semanticLabel = '',
     this.textDirection = TextDirection.ltr,
   }) : super(
@@ -77,7 +77,7 @@ class Beacon extends Icon {
     this.key,
     this.color,
     bool symbol = true,
-    this.size = 18,
+    this.size,
     this.semanticLabel = '',
     this.textDirection = TextDirection.ltr,
   }) : super(
@@ -95,14 +95,16 @@ class Beacon extends Icon {
 
   @override
   Widget build(BuildContext context) {
+    final IconThemeData iconTheme = IconTheme.of(context);
+
     return Padding(
       padding: EdgeInsets.only(bottom: 2),
       child: Icon(
-        this.icon,
-        size: this.size,
-        color: this.color,
-        semanticLabel: this.semanticLabel,
-        textDirection: this.textDirection,
+        icon,
+        size: size ?? iconTheme.size,
+        color: color ?? iconTheme.color,
+        semanticLabel: semanticLabel,
+        textDirection: textDirection,
       ),
     );
   }

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import '../generator.dart';
+import '../../tools/beacon_generator.dart';
 
 const List<String> testInputs = [
   'sym-default: f002',
@@ -35,7 +35,7 @@ void main() {
       var matcher = testResults[i];
       expect(iconData.staticName, matcher[0]);
       expect(iconData.name, matcher[1]);
-      expect(iconData.codePoint, matcher[2]);
+      expect(int.parse(iconData.codePoint as String), matcher[2]);
     }
   });
 

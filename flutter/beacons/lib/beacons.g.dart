@@ -1,4 +1,4 @@
-/// This is generated file, please to not edit by hand! 
+/// Warning: This is generated file, please to not edit. 
 
 /// ======================================== 
 
@@ -1811,10783 +1811,10783 @@ class Beacons {
   };
 
   static const sym_default = IconData(
-    61442,
+    0xf002,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_default_s = IconData(
-    57346,
+    0xe002,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_o = IconData(
-    61444,
+    0xf004,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_o_s = IconData(
-    57348,
+    0xe004,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_c = IconData(
-    61445,
+    0xf005,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_c_s = IconData(
-    57349,
+    0xe005,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_d = IconData(
-    61442,
+    0xf002,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_d_s = IconData(
-    57346,
+    0xe002,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_1st = IconData(
-    62236,
+    0xf31c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_1st_s = IconData(
-    58140,
+    0xe31c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aac = IconData(
-    62655,
+    0xf4bf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aac_s = IconData(
-    58559,
+    0xe4bf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aave = IconData(
-    62714,
+    0xf4fa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aave_s = IconData(
-    58618,
+    0xe4fa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_abbc = IconData(
-    62433,
+    0xf3e1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_abbc_s = IconData(
-    58337,
+    0xe3e1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_abt = IconData(
-    62434,
+    0xf3e2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_abt_s = IconData(
-    58338,
+    0xe3e2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_abyss = IconData(
-    62237,
+    0xf31d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_abyss_s = IconData(
-    58141,
+    0xe31d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_acat = IconData(
-    62238,
+    0xf31e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_acat_s = IconData(
-    58142,
+    0xe31e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_act = IconData(
-    61652,
+    0xf0d4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_act_s = IconData(
-    57556,
+    0xe0d4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ada = IconData(
-    61456,
+    0xf010,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ada_s = IconData(
-    57360,
+    0xe010,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adel = IconData(
-    62709,
+    0xf4f5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adel_s = IconData(
-    58613,
+    0xe4f5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adh = IconData(
-    62345,
+    0xf389,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adh_s = IconData(
-    58249,
+    0xe389,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adm = IconData(
-    62435,
+    0xf3e3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adm_s = IconData(
-    58339,
+    0xe3e3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adt = IconData(
-    62321,
+    0xf371,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adt_s = IconData(
-    58225,
+    0xe371,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adx = IconData(
-    61590,
+    0xf096,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_adx_s = IconData(
-    57494,
+    0xe096,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ae = IconData(
-    61653,
+    0xf0d5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ae_s = IconData(
-    57557,
+    0xe0d5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aeon = IconData(
-    61624,
+    0xf0b8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aeon_s = IconData(
-    57528,
+    0xe0b8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aergo = IconData(
-    62501,
+    0xf425,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aergo_s = IconData(
-    58405,
+    0xe425,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_agi = IconData(
-    61591,
+    0xf097,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_agi_s = IconData(
-    57495,
+    0xe097,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_akro = IconData(
-    62625,
+    0xf4a1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_akro_s = IconData(
-    58529,
+    0xe4a1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aid = IconData(
-    62502,
+    0xf426,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aid_s = IconData(
-    58406,
+    0xe426,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aion = IconData(
-    61580,
+    0xf08c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aion_s = IconData(
-    57484,
+    0xe08c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_algo = IconData(
-    62578,
+    0xf472,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_algo_s = IconData(
-    58482,
+    0xe472,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_amb = IconData(
-    61654,
+    0xf0d6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_amb_s = IconData(
-    57558,
+    0xe0d6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_amlt = IconData(
-    62436,
+    0xf3e4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_amlt_s = IconData(
-    58340,
+    0xe3e4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_amp = IconData(
-    61457,
+    0xf011,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_amp_s = IconData(
-    57361,
+    0xe011,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ampl = IconData(
-    62677,
+    0xf4d5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ampl_s = IconData(
-    58581,
+    0xe4d5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_anct = IconData(
-    61978,
+    0xf21a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_anct_s = IconData(
-    57882,
+    0xe21a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ankr = IconData(
-    62503,
+    0xf427,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ankr_s = IconData(
-    58407,
+    0xe427,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ant = IconData(
-    61577,
+    0xf089,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ant_s = IconData(
-    57481,
+    0xe089,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_apis = IconData(
-    62386,
+    0xf3b2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_apis_s = IconData(
-    58290,
+    0xe3b2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_appc = IconData(
-    61655,
+    0xf0d7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_appc_s = IconData(
-    57559,
+    0xe0d7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ar = IconData(
-    62680,
+    0xf4d8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ar_s = IconData(
-    58584,
+    0xe4d8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ardr = IconData(
-    61458,
+    0xf012,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ardr_s = IconData(
-    57362,
+    0xe012,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ark = IconData(
-    61459,
+    0xf013,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ark_s = IconData(
-    57363,
+    0xe013,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_arn = IconData(
-    61656,
+    0xf0d8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_arn_s = IconData(
-    57560,
+    0xe0d8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_arpa = IconData(
-    62633,
+    0xf4a9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_arpa_s = IconData(
-    58537,
+    0xe4a9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_art = IconData(
-    62239,
+    0xf31f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_art_s = IconData(
-    58143,
+    0xe31f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aspt = IconData(
-    62710,
+    0xf4f6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aspt_s = IconData(
-    58614,
+    0xe4f6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ast = IconData(
-    61657,
+    0xf0d9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ast_s = IconData(
-    57561,
+    0xe0d9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_at = IconData(
-    62563,
+    0xf463,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_at_s = IconData(
-    58467,
+    0xe463,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_atom = IconData(
-    62437,
+    0xf3e5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_atom_s = IconData(
-    58341,
+    0xe3e5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_atm = IconData(
-    61658,
+    0xf0da,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_atm_s = IconData(
-    57562,
+    0xe0da,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_atp = IconData(
-    62631,
+    0xf4a7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_atp_s = IconData(
-    58535,
+    0xe4a7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aud = IconData(
-    61956,
+    0xf204,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_aud_s = IconData(
-    57860,
+    0xe204,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_auto = IconData(
-    61659,
+    0xf0db,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_auto_s = IconData(
-    57563,
+    0xe0db,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_avax = IconData(
-    62728,
+    0xf508,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_avax_s = IconData(
-    58632,
+    0xe508,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_avt = IconData(
-    61460,
+    0xf014,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_avt_s = IconData(
-    57364,
+    0xe014,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_axp = IconData(
-    62240,
+    0xf320,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_axp_s = IconData(
-    58144,
+    0xe320,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_b = IconData(
-    57344,
+    0xe000,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_b2g = IconData(
-    62438,
+    0xf3e6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_b2g_s = IconData(
-    58342,
+    0xe3e6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bab = IconData(
-    62374,
+    0xf3a6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bab_s = IconData(
-    58278,
+    0xe3a6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bal = IconData(
-    62692,
+    0xf4e4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bal_s = IconData(
-    58596,
+    0xe4e4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_banca = IconData(
-    62241,
+    0xf321,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_banca_s = IconData(
-    58145,
+    0xe321,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_band = IconData(
-    62639,
+    0xf4af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_band_s = IconData(
-    58543,
+    0xe4af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bat = IconData(
-    61461,
+    0xf015,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bat_s = IconData(
-    57365,
+    0xe015,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bay = IconData(
-    61588,
+    0xf094,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bay_s = IconData(
-    57492,
+    0xe094,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bbc = IconData(
-    62439,
+    0xf3e7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bbc_s = IconData(
-    58343,
+    0xe3e7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcc = IconData(
-    61462,
+    0xf016,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcc_s = IconData(
-    57366,
+    0xe016,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcd = IconData(
-    61660,
+    0xf0dc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcd_s = IconData(
-    57564,
+    0xe0dc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bch = IconData(
-    61463,
+    0xf017,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bch_s = IconData(
-    57367,
+    0xe017,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bci = IconData(
-    62242,
+    0xf322,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bci_s = IconData(
-    58146,
+    0xe322,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcn = IconData(
-    61464,
+    0xf018,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcn_s = IconData(
-    57368,
+    0xe018,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcpt = IconData(
-    61619,
+    0xf0b3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcpt_s = IconData(
-    57523,
+    0xe0b3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcu = IconData(
-    62373,
+    0xf3a5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcu_s = IconData(
-    58277,
+    0xe3a5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcv = IconData(
-    62387,
+    0xf3b3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcv_s = IconData(
-    58291,
+    0xe3b3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcy = IconData(
-    61465,
+    0xf019,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bcy_s = IconData(
-    57369,
+    0xe019,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bdg = IconData(
-    62322,
+    0xf372,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bdg_s = IconData(
-    58226,
+    0xe372,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_beam = IconData(
-    62504,
+    0xf428,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_beam_s = IconData(
-    58408,
+    0xe428,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_beet = IconData(
-    62505,
+    0xf429,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_beet_s = IconData(
-    58409,
+    0xe429,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bela = IconData(
-    61466,
+    0xf01a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bela_s = IconData(
-    57370,
+    0xe01a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_berry = IconData(
-    62323,
+    0xf373,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_berry_s = IconData(
-    58227,
+    0xe373,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_betr = IconData(
-    62243,
+    0xf323,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_betr_s = IconData(
-    58147,
+    0xe323,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bez = IconData(
-    62324,
+    0xf374,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bez_s = IconData(
-    58228,
+    0xe374,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bft = IconData(
-    61607,
+    0xf0a7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bft_s = IconData(
-    57511,
+    0xe0a7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bfx = IconData(
-    62372,
+    0xf3a4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bfx_s = IconData(
-    58276,
+    0xe3a4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bhd = IconData(
-    62659,
+    0xf4c3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bhd_s = IconData(
-    58563,
+    0xe4c3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bht = IconData(
-    62590,
+    0xf47e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bht_s = IconData(
-    58494,
+    0xe47e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bitb = IconData(
-    61637,
+    0xf0c5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bitb_s = IconData(
-    57541,
+    0xe0c5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bix = IconData(
-    62440,
+    0xf3e8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bix_s = IconData(
-    58344,
+    0xe3e8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bkx = IconData(
-    62325,
+    0xf375,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bkx_s = IconData(
-    58229,
+    0xe375,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_blk = IconData(
-    61467,
+    0xf01b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_blk_s = IconData(
-    57371,
+    0xe01b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_block = IconData(
-    61468,
+    0xf01c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_block_s = IconData(
-    57372,
+    0xe01c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_blt = IconData(
-    61621,
+    0xf0b5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_blt_s = IconData(
-    57525,
+    0xe0b5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_blz = IconData(
-    61661,
+    0xf0dd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_blz_s = IconData(
-    57565,
+    0xe0dd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bmc = IconData(
-    62244,
+    0xf324,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bmc_s = IconData(
-    58148,
+    0xe324,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bnb = IconData(
-    61662,
+    0xf0de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bnb_s = IconData(
-    57566,
+    0xe0de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bnk = IconData(
-    62591,
+    0xf47f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bnk_s = IconData(
-    58495,
+    0xe47f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bnt = IconData(
-    61469,
+    0xf01d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bnt_s = IconData(
-    57373,
+    0xe01d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bora = IconData(
-    62635,
+    0xf4ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bora_s = IconData(
-    58539,
+    0xe4ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bos = IconData(
-    61663,
+    0xf0df,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bos_s = IconData(
-    57567,
+    0xe0df,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_box = IconData(
-    62388,
+    0xf3b4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_box_s = IconData(
-    58292,
+    0xe3b4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_brd = IconData(
-    62245,
+    0xf325,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_brd_s = IconData(
-    58149,
+    0xe325,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_brick = IconData(
-    62706,
+    0xf4f2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_brick_s = IconData(
-    58610,
+    0xe4f2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bsd = IconData(
-    61641,
+    0xf0c9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bsd_s = IconData(
-    57545,
+    0xe0c9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bsv = IconData(
-    62375,
+    0xf3a7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bsv_s = IconData(
-    58279,
+    0xe3a7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bt1 = IconData(
-    62370,
+    0xf3a2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bt1_s = IconData(
-    58274,
+    0xe3a2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bt2 = IconData(
-    62371,
+    0xf3a3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bt2_s = IconData(
-    58275,
+    0xe3a3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btc = IconData(
-    61470,
+    0xf01e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btc_s = IconData(
-    57374,
+    0xe01e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btcd = IconData(
-    61471,
+    0xf01f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btcd_s = IconData(
-    57375,
+    0xe01f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btcp = IconData(
-    61664,
+    0xf0e0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btcp_s = IconData(
-    57568,
+    0xe0e0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btcfx = IconData(
-    61472,
+    0xf020,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btcfx_s = IconData(
-    57376,
+    0xe020,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btg = IconData(
-    61601,
+    0xf0a1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btg_s = IconData(
-    57505,
+    0xe0a1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btm = IconData(
-    61474,
+    0xf022,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btm_s = IconData(
-    57378,
+    0xe022,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btn = IconData(
-    62389,
+    0xf3b5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btn_s = IconData(
-    58293,
+    0xe3b5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bto = IconData(
-    62390,
+    0xf3b6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bto_s = IconData(
-    58294,
+    0xe3b6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bts = IconData(
-    61475,
+    0xf023,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bts_s = IconData(
-    57379,
+    0xe023,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btt = IconData(
-    62441,
+    0xf3e9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btt_s = IconData(
-    58345,
+    0xe3e9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btu = IconData(
-    62442,
+    0xf3ea,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btu_s = IconData(
-    58346,
+    0xe3ea,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btx = IconData(
-    61665,
+    0xf0e1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_btx_s = IconData(
-    57569,
+    0xe0e1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_busd = IconData(
-    61980,
+    0xf21c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_busd_s = IconData(
-    57884,
+    0xe21c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_burst = IconData(
-    61476,
+    0xf024,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_burst_s = IconData(
-    57380,
+    0xe024,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bwx = IconData(
-    62506,
+    0xf42a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bwx_s = IconData(
-    58410,
+    0xe42a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bz = IconData(
-    61721,
+    0xf119,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bz_s = IconData(
-    57625,
+    0xe119,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bzrx = IconData(
-    62688,
+    0xf4e0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_bzrx_s = IconData(
-    58592,
+    0xe4e0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_c20 = IconData(
-    62246,
+    0xf326,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_c20_s = IconData(
-    58150,
+    0xe326,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cad = IconData(
-    61959,
+    0xf207,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cad_s = IconData(
-    57863,
+    0xe207,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cas = IconData(
-    62247,
+    0xf327,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cas_s = IconData(
-    58151,
+    0xe327,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cat = IconData(
-    62327,
+    0xf377,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cat_s = IconData(
-    58231,
+    0xe377,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cbc = IconData(
-    62326,
+    0xf376,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cbc_s = IconData(
-    58230,
+    0xe376,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cbt = IconData(
-    62248,
+    0xf328,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cbt_s = IconData(
-    58152,
+    0xe328,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cdt = IconData(
-    61666,
+    0xf0e2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cdt_s = IconData(
-    57570,
+    0xe0e2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cel = IconData(
-    62667,
+    0xf4cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cel_s = IconData(
-    58571,
+    0xe4cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_celo = IconData(
-    62695,
+    0xf4e7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_celo_s = IconData(
-    58599,
+    0xe4e7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_celr = IconData(
-    62507,
+    0xf42b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_celr_s = IconData(
-    58411,
+    0xe42b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cennz = IconData(
-    62249,
+    0xf329,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cennz_s = IconData(
-    58153,
+    0xe329,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cfi = IconData(
-    61581,
+    0xf08d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cfi_s = IconData(
-    57485,
+    0xe08d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chat = IconData(
-    62508,
+    0xf42c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chat_s = IconData(
-    58412,
+    0xe42c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chf = IconData(
-    61979,
+    0xf21b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chf_s = IconData(
-    57883,
+    0xe21b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chp = IconData(
-    62250,
+    0xf32a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chp_s = IconData(
-    58154,
+    0xe32a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chr = IconData(
-    62652,
+    0xf4bc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chr_s = IconData(
-    58556,
+    0xe4bc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chsb = IconData(
-    62251,
+    0xf32b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chsb_s = IconData(
-    58155,
+    0xe32b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chx = IconData(
-    62443,
+    0xf3eb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chx_s = IconData(
-    58347,
+    0xe3eb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chz = IconData(
-    62592,
+    0xf480,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_chz_s = IconData(
-    58496,
+    0xe480,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_clam = IconData(
-    61477,
+    0xf025,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_clam_s = IconData(
-    57381,
+    0xe025,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cln = IconData(
-    62328,
+    0xf378,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cln_s = IconData(
-    58232,
+    0xe378,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_clo = IconData(
-    62444,
+    0xf3ec,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_clo_s = IconData(
-    58348,
+    0xe3ec,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cloak = IconData(
-    61589,
+    0xf095,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cloak_s = IconData(
-    57493,
+    0xe095,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ckb = IconData(
-    62669,
+    0xf4cd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ckb_s = IconData(
-    58573,
+    0xe4cd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cmct = IconData(
-    62252,
+    0xf32c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cmct_s = IconData(
-    58156,
+    0xe32c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cmt = IconData(
-    61667,
+    0xf0e3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cmt_s = IconData(
-    57571,
+    0xe0e3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cnd = IconData(
-    61668,
+    0xf0e4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cnd_s = IconData(
-    57572,
+    0xe0e4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cnn = IconData(
-    62392,
+    0xf3b8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cnn_s = IconData(
-    58296,
+    0xe3b8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cnx = IconData(
-    61669,
+    0xf0e5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cnx_s = IconData(
-    57573,
+    0xe0e5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cny = IconData(
-    61961,
+    0xf209,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cny_s = IconData(
-    57865,
+    0xe209,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cocos = IconData(
-    62593,
+    0xf481,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cocos_s = IconData(
-    58497,
+    0xe481,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_comp = IconData(
-    62673,
+    0xf4d1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_comp_s = IconData(
-    58577,
+    0xe4d1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cos = IconData(
-    62594,
+    0xf482,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cos_s = IconData(
-    58498,
+    0xe482,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cosm = IconData(
-    62445,
+    0xf3ed,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cosm_s = IconData(
-    58349,
+    0xe3ed,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_coss = IconData(
-    62253,
+    0xf32d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_coss_s = IconData(
-    58157,
+    0xe32d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_coti = IconData(
-    62664,
+    0xf4c8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_coti_s = IconData(
-    58568,
+    0xe4c8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cov = IconData(
-    62254,
+    0xf32e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cov_s = IconData(
-    58158,
+    0xe32e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cova = IconData(
-    62509,
+    0xf42d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cova_s = IconData(
-    58413,
+    0xe42d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cpt = IconData(
-    62255,
+    0xf32f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cpt_s = IconData(
-    58159,
+    0xe32f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cpx = IconData(
-    62393,
+    0xf3b9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cpx_s = IconData(
-    58297,
+    0xe3b9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cre = IconData(
-    62595,
+    0xf483,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cre_s = IconData(
-    58499,
+    0xe483,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cro = IconData(
-    62446,
+    0xf3ee,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cro_s = IconData(
-    58350,
+    0xe3ee,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_crpt = IconData(
-    61670,
+    0xf0e6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_crpt_s = IconData(
-    57574,
+    0xe0e6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_crv = IconData(
-    62686,
+    0xf4de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_crv_s = IconData(
-    58590,
+    0xe4de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_crw = IconData(
-    61644,
+    0xf0cc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_crw_s = IconData(
-    57548,
+    0xe0cc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cs = IconData(
-    62509,
+    0xf42d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cs_s = IconData(
-    58413,
+    0xe42d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ctc = IconData(
-    62666,
+    0xf4ca,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ctc_s = IconData(
-    58570,
+    0xe4ca,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ctsi = IconData(
-    62658,
+    0xf4c2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ctsi_s = IconData(
-    58562,
+    0xe4c2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ctxc = IconData(
-    62380,
+    0xf3ac,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ctxc_s = IconData(
-    58284,
+    0xe3ac,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvc = IconData(
-    61478,
+    0xf026,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvc_s = IconData(
-    57382,
+    0xe026,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvcoin = IconData(
-    62340,
+    0xf384,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvcoin_s = IconData(
-    58244,
+    0xe384,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvnt = IconData(
-    62447,
+    0xf3ef,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvnt_s = IconData(
-    58351,
+    0xe3ef,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvt = IconData(
-    62329,
+    0xf379,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cvt_s = IconData(
-    58233,
+    0xe379,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cw = IconData(
-    62377,
+    0xf3a9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_cw_s = IconData(
-    58281,
+    0xe3a9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dac = IconData(
-    62448,
+    0xf3f0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dac_s = IconData(
-    58352,
+    0xe3f0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dacs = IconData(
-    62449,
+    0xf3f1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dacs_s = IconData(
-    58353,
+    0xe3f1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dadi = IconData(
-    62256,
+    0xf330,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dadi_s = IconData(
-    58160,
+    0xe330,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dag = IconData(
-    62579,
+    0xf473,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dag_s = IconData(
-    58483,
+    0xe473,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dai = IconData(
-    61615,
+    0xf0af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dai_s = IconData(
-    57519,
+    0xe0af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dao = IconData(
-    62342,
+    0xf386,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dao_s = IconData(
-    58246,
+    0xe386,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dash = IconData(
-    61479,
+    0xf027,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dash_s = IconData(
-    57383,
+    0xe027,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dat = IconData(
-    61575,
+    0xf087,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dat_s = IconData(
-    57479,
+    0xe087,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_data = IconData(
-    61579,
+    0xf08B,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_data_s = IconData(
-    57483,
+    0xe08B,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_datx = IconData(
-    62257,
+    0xf331,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_datx_s = IconData(
-    58161,
+    0xe331,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dbc = IconData(
-    62511,
+    0xf42f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dbc_s = IconData(
-    58415,
+    0xe42f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dbet = IconData(
-    62258,
+    0xf332,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dbet_s = IconData(
-    58162,
+    0xe332,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dbix = IconData(
-    62259,
+    0xf333,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dbix_s = IconData(
-    58163,
+    0xe333,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dcn = IconData(
-    61671,
+    0xf0e7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dcn_s = IconData(
-    57575,
+    0xe0e7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dcr = IconData(
-    61480,
+    0xf028,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dcr_s = IconData(
-    57384,
+    0xe028,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dct = IconData(
-    61626,
+    0xf0ba,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dct_s = IconData(
-    57530,
+    0xe0ba,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ddd = IconData(
-    62512,
+    0xf430,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ddd_s = IconData(
-    58416,
+    0xe430,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dent = IconData(
-    61672,
+    0xf0e8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dent_s = IconData(
-    57576,
+    0xe0e8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgb = IconData(
-    61481,
+    0xf029,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgb_s = IconData(
-    57385,
+    0xe029,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgd = IconData(
-    61673,
+    0xf0e9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgd_s = IconData(
-    57577,
+    0xe0e9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgtx = IconData(
-    62450,
+    0xf3f2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgtx_s = IconData(
-    58354,
+    0xe3f2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgx = IconData(
-    62394,
+    0xf3ba,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dgx_s = IconData(
-    58298,
+    0xe3ba,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dice = IconData(
-    62260,
+    0xf334,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dice_s = IconData(
-    58164,
+    0xe334,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dim = IconData(
-    62261,
+    0xf335,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dim_s = IconData(
-    58165,
+    0xe335,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dlt = IconData(
-    61674,
+    0xf0ea,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dlt_s = IconData(
-    57578,
+    0xe0ea,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dmd = IconData(
-    61639,
+    0xf0c7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dmd_s = IconData(
-    57543,
+    0xe0c7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dmt = IconData(
-    61633,
+    0xf0c1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dmt_s = IconData(
-    57537,
+    0xe0c1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dnt = IconData(
-    61604,
+    0xf0a4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dnt_s = IconData(
-    57508,
+    0xe0a4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dock = IconData(
-    62395,
+    0xf3bb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dock_s = IconData(
-    58299,
+    0xe3bb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_doge = IconData(
-    61482,
+    0xf02a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_doge_s = IconData(
-    57386,
+    0xe02a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dot = IconData(
-    62654,
+    0xf4be,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dot_s = IconData(
-    58558,
+    0xe4be,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dpy = IconData(
-    62513,
+    0xf431,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dpy_s = IconData(
-    58417,
+    0xe431,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drep = IconData(
-    62650,
+    0xf4ba,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drep_s = IconData(
-    58554,
+    0xe4ba,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dream = IconData(
-    62637,
+    0xf4ad,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dream_s = IconData(
-    58541,
+    0xe4ad,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drg = IconData(
-    62596,
+    0xf484,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drg_s = IconData(
-    58500,
+    0xe484,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drgn = IconData(
-    62379,
+    0xf3ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drgn_s = IconData(
-    58283,
+    0xe3ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drt = IconData(
-    62330,
+    0xf37a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_drt_s = IconData(
-    58234,
+    0xe37a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dta = IconData(
-    62341,
+    0xf385,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dta_s = IconData(
-    58245,
+    0xe385,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dtb = IconData(
-    61645,
+    0xf0cd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dtb_s = IconData(
-    57549,
+    0xe0cd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dtr = IconData(
-    62451,
+    0xf3f3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dtr_s = IconData(
-    58355,
+    0xe3f3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dusk = IconData(
-    62597,
+    0xf485,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dusk_s = IconData(
-    58501,
+    0xe485,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dx = IconData(
-    62514,
+    0xf432,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dx_s = IconData(
-    58418,
+    0xe432,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dyn = IconData(
-    62331,
+    0xf37b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_dyn_s = IconData(
-    58235,
+    0xe37b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ecom = IconData(
-    62396,
+    0xf3bc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ecom_s = IconData(
-    58300,
+    0xe3bc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edc = IconData(
-    62515,
+    0xf433,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edc_s = IconData(
-    58419,
+    0xe433,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edg = IconData(
-    61483,
+    0xf02b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edg_s = IconData(
-    57387,
+    0xe02b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edo = IconData(
-    61484,
+    0xf02c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edo_s = IconData(
-    57388,
+    0xe02c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edr = IconData(
-    62382,
+    0xf3ae,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_edr_s = IconData(
-    58286,
+    0xe3ae,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_egld = IconData(
-    62698,
+    0xf4ea,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_egld_s = IconData(
-    58602,
+    0xe4ea,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_egt = IconData(
-    62598,
+    0xf486,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_egt_s = IconData(
-    58502,
+    0xe486,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eko = IconData(
-    62262,
+    0xf336,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eko_s = IconData(
-    58166,
+    0xe336,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ekt = IconData(
-    62397,
+    0xf3bd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ekt_s = IconData(
-    58301,
+    0xe3bd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ela = IconData(
-    62398,
+    0xf3be,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ela_s = IconData(
-    58302,
+    0xe3be,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_elec = IconData(
-    62263,
+    0xf337,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_elec_s = IconData(
-    58167,
+    0xe337,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_elf = IconData(
-    61485,
+    0xf02d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_elf_s = IconData(
-    57389,
+    0xe02d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_em = IconData(
-    62643,
+    0xf4b3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_em_s = IconData(
-    58547,
+    0xe4b3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_emc = IconData(
-    61486,
+    0xf02e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_emc_s = IconData(
-    57390,
+    0xe02e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_emc2 = IconData(
-    61487,
+    0xf02f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_emc2_s = IconData(
-    57391,
+    0xe02f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eng = IconData(
-    61488,
+    0xf030,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eng_s = IconData(
-    57392,
+    0xe030,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_enj = IconData(
-    61675,
+    0xf0eb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_enj_s = IconData(
-    57579,
+    0xe0eb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eos = IconData(
-    61489,
+    0xf031,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eos_s = IconData(
-    57393,
+    0xe031,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eosdac = IconData(
-    62516,
+    0xf434,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eosdac_s = IconData(
-    58420,
+    0xe434,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_erd = IconData(
-    62599,
+    0xf487,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_erd_s = IconData(
-    58503,
+    0xe487,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_esd = IconData(
-    62722,
+    0xf502,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_esd_s = IconData(
-    58626,
+    0xe502,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_etc = IconData(
-    61490,
+    0xf032,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_etc_s = IconData(
-    57394,
+    0xe032,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eth = IconData(
-    61491,
+    0xf033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eth_s = IconData(
-    57395,
+    0xe033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eth2 = IconData(
-    61491,
+    0xf033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eth2_s = IconData(
-    57395,
+    0xe033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eth2s = IconData(
-    61491,
+    0xf033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eth2s_s = IconData(
-    57395,
+    0xe033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_etn = IconData(
-    62384,
+    0xf3b0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_etn_s = IconData(
-    58288,
+    0xe3b0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_etp = IconData(
-    61492,
+    0xf034,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_etp_s = IconData(
-    57396,
+    0xe034,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eur = IconData(
-    61493,
+    0xf035,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eur_s = IconData(
-    57397,
+    0xe035,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eurs = IconData(
-    62452,
+    0xf3f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eurs_s = IconData(
-    58356,
+    0xe3f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eurt = IconData(
-    61556,
+    0xf074,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_eurt_s = IconData(
-    57460,
+    0xe074,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_evn = IconData(
-    62264,
+    0xf338,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_evn_s = IconData(
-    58168,
+    0xe338,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_evx = IconData(
-    61676,
+    0xf0ec,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_evx_s = IconData(
-    57580,
+    0xe0ec,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ewt = IconData(
-    62696,
+    0xf4e8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ewt_s = IconData(
-    58600,
+    0xe4e8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_exp = IconData(
-    61494,
+    0xf036,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_exp_s = IconData(
-    57398,
+    0xe036,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_exy = IconData(
-    62517,
+    0xf435,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_exy_s = IconData(
-    58421,
+    0xe435,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fair = IconData(
-    62453,
+    0xf3f5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fair_s = IconData(
-    58357,
+    0xe3f5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fct = IconData(
-    61495,
+    0xf037,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fct_s = IconData(
-    57399,
+    0xe037,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fdz = IconData(
-    62265,
+    0xf339,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fdz_s = IconData(
-    58169,
+    0xe339,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fee = IconData(
-    61697,
+    0xf101,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fee_s = IconData(
-    57601,
+    0xe101,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fet = IconData(
-    62518,
+    0xf436,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fet_s = IconData(
-    58422,
+    0xe436,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fil = IconData(
-    62678,
+    0xf4d6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fil_s = IconData(
-    58582,
+    0xe4d6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fldc = IconData(
-    61496,
+    0xf038,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fldc_s = IconData(
-    57400,
+    0xe038,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_flo = IconData(
-    61497,
+    0xf039,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_flo_s = IconData(
-    57401,
+    0xe039,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_flow = IconData(
-    62708,
+    0xf4f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_flow_s = IconData(
-    58612,
+    0xe4f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fluz = IconData(
-    62454,
+    0xf3f6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fluz_s = IconData(
-    58358,
+    0xe3f6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fnb = IconData(
-    62644,
+    0xf4b4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fnb_s = IconData(
-    58548,
+    0xe4b4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_foam = IconData(
-    62399,
+    0xf3bf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_foam_s = IconData(
-    58303,
+    0xe3bf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_for = IconData(
-    62600,
+    0xf488,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_for_s = IconData(
-    58504,
+    0xe488,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fota = IconData(
-    62266,
+    0xf33a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fota_s = IconData(
-    58170,
+    0xe33a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_frax = IconData(
-    62729,
+    0xf509,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_frax_s = IconData(
-    58633,
+    0xe509,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fsn = IconData(
-    61677,
+    0xf0ed,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fsn_s = IconData(
-    57581,
+    0xe0ed,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftc = IconData(
-    61584,
+    0xf090,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftc_s = IconData(
-    57488,
+    0xe090,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fti = IconData(
-    62565,
+    0xf465,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fti_s = IconData(
-    58469,
+    0xe465,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftm = IconData(
-    62564,
+    0xf464,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftm_s = IconData(
-    58468,
+    0xe464,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftt = IconData(
-    62626,
+    0xf4a2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftt_s = IconData(
-    58530,
+    0xe4a2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftx = IconData(
-    62519,
+    0xf437,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ftx_s = IconData(
-    58423,
+    0xe437,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fuel = IconData(
-    61678,
+    0xf0ee,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fuel_s = IconData(
-    57582,
+    0xe0ee,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fun = IconData(
-    61498,
+    0xf03a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fun_s = IconData(
-    57402,
+    0xe03a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fx = IconData(
-    62566,
+    0xf466,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fx_s = IconData(
-    58470,
+    0xe466,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fxc = IconData(
-    62601,
+    0xf489,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fxc_s = IconData(
-    58505,
+    0xe489,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fxt = IconData(
-    62267,
+    0xf33b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_fxt_s = IconData(
-    58171,
+    0xe33b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_game = IconData(
-    61499,
+    0xf03b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_game_s = IconData(
-    57403,
+    0xe03b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gard = IconData(
-    62520,
+    0xf438,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gard_s = IconData(
-    58424,
+    0xe438,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gas = IconData(
-    61500,
+    0xf03c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gas_s = IconData(
-    57404,
+    0xe03c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbc = IconData(
-    62400,
+    0xf3c0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbc_s = IconData(
-    58304,
+    0xe3c0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbp = IconData(
-    61958,
+    0xf206,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbp_s = IconData(
-    57862,
+    0xe206,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbyte = IconData(
-    61501,
+    0xf03d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbyte_s = IconData(
-    57405,
+    0xe03d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbx = IconData(
-    62361,
+    0xf399,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gbx_s = IconData(
-    58265,
+    0xe399,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gcc = IconData(
-    62521,
+    0xf439,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gcc_s = IconData(
-    58425,
+    0xe439,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gen = IconData(
-    62401,
+    0xf3c1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gen_s = IconData(
-    58305,
+    0xe3c1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_get = IconData(
-    62455,
+    0xf3f7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_get_s = IconData(
-    58359,
+    0xe3f7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_glc = IconData(
-    62522,
+    0xf43a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_glc_s = IconData(
-    58426,
+    0xe43a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gld = IconData(
-    62402,
+    0xf3c2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gld_s = IconData(
-    58306,
+    0xe3c2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gmat = IconData(
-    62602,
+    0xf48a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gmat_s = IconData(
-    58506,
+    0xe48a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gno = IconData(
-    61502,
+    0xf03e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gno_s = IconData(
-    57406,
+    0xe03e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gnt = IconData(
-    61503,
+    0xf03f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gnt_s = IconData(
-    57407,
+    0xe03f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gnx = IconData(
-    62268,
+    0xf33c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gnx_s = IconData(
-    58172,
+    0xe33c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_go = IconData(
-    62403,
+    0xf3c3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_go_s = IconData(
-    58307,
+    0xe3c3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_got = IconData(
-    62456,
+    0xf3f8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_got_s = IconData(
-    58360,
+    0xe3f8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grc = IconData(
-    61504,
+    0xf040,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grc_s = IconData(
-    57408,
+    0xe040,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grin = IconData(
-    62457,
+    0xf3f9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grin_s = IconData(
-    58361,
+    0xe3f9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grs = IconData(
-    61587,
+    0xf093,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grs_s = IconData(
-    57491,
+    0xe093,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grt = IconData(
-    62716,
+    0xf4fc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_grt_s = IconData(
-    58620,
+    0xe4fc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gsc = IconData(
-    62523,
+    0xf43b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gsc_s = IconData(
-    58427,
+    0xe43b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gt = IconData(
-    62627,
+    0xf4a3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gt_s = IconData(
-    58531,
+    0xe4a3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gtc = IconData(
-    62458,
+    0xf3fa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gtc_s = IconData(
-    58362,
+    0xe3fa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gto = IconData(
-    61649,
+    0xf0d1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gto_s = IconData(
-    57553,
+    0xe0d1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gup = IconData(
-    61629,
+    0xf0bd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gup_s = IconData(
-    57533,
+    0xe0bd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gusd = IconData(
-    61708,
+    0xf10c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gusd_s = IconData(
-    57612,
+    0xe10c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gvt = IconData(
-    61679,
+    0xf0ef,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gvt_s = IconData(
-    57583,
+    0xe0ef,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gxc = IconData(
-    62459,
+    0xf3fb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gxc_s = IconData(
-    58363,
+    0xe3fb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gxs = IconData(
-    61680,
+    0xf0f0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_gxs_s = IconData(
-    57584,
+    0xe0f0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hbar = IconData(
-    62630,
+    0xf4a6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hbar_s = IconData(
-    58534,
+    0xe4a6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hc = IconData(
-    62368,
+    0xf3a0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hc_s = IconData(
-    58272,
+    0xe3a0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hedg = IconData(
-    62603,
+    0xf48b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hedg_s = IconData(
-    58507,
+    0xe48b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hex = IconData(
-    62694,
+    0xf4e6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hex_s = IconData(
-    58598,
+    0xe4e6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hive = IconData(
-    62649,
+    0xf4b9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hive_s = IconData(
-    58553,
+    0xe4b9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hkd = IconData(
-    61963,
+    0xf20b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hkd_s = IconData(
-    57867,
+    0xe20b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hot = IconData(
-    62363,
+    0xf39b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hot_s = IconData(
-    58267,
+    0xe39b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hmq = IconData(
-    61617,
+    0xf0b1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hmq_s = IconData(
-    57521,
+    0xe0b1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hns = IconData(
-    62681,
+    0xf4d9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hns_s = IconData(
-    58585,
+    0xe4d9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hpb = IconData(
-    62404,
+    0xf3c4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hpb_s = IconData(
-    58308,
+    0xe3c4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hpc = IconData(
-    62460,
+    0xf3fc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hpc_s = IconData(
-    58364,
+    0xe3fc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hpt = IconData(
-    62628,
+    0xf4a4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hpt_s = IconData(
-    58532,
+    0xe4a4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hsc = IconData(
-    62524,
+    0xf43c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hsc_s = IconData(
-    58428,
+    0xe43c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hsr = IconData(
-    62269,
+    0xf33d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hsr_s = IconData(
-    58173,
+    0xe33d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hst = IconData(
-    62525,
+    0xf43d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hst_s = IconData(
-    58429,
+    0xe43d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ht = IconData(
-    61720,
+    0xf118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ht_s = IconData(
-    57624,
+    0xe118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_html = IconData(
-    62270,
+    0xf33e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_html_s = IconData(
-    58174,
+    0xe33e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_huc = IconData(
-    61505,
+    0xf041,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_huc_s = IconData(
-    57409,
+    0xe041,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_husd = IconData(
-    61720,
+    0xf118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_husd_s = IconData(
-    57624,
+    0xe118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hvn = IconData(
-    62271,
+    0xf33f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hvn_s = IconData(
-    58175,
+    0xe33f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hxro = IconData(
-    62526,
+    0xf43e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hxro_s = IconData(
-    58430,
+    0xe43e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hyc = IconData(
-    62405,
+    0xf3c5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hyc_s = IconData(
-    58309,
+    0xe3c5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hydra = IconData(
-    62604,
+    0xf48c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hydra_s = IconData(
-    58508,
+    0xe48c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hydro = IconData(
-    62406,
+    0xf3c6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_hydro_s = IconData(
-    58310,
+    0xe3c6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_icn = IconData(
-    61506,
+    0xf042,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_icn_s = IconData(
-    57410,
+    0xe042,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_icos = IconData(
-    62350,
+    0xf38e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_icos_s = IconData(
-    58254,
+    0xe38e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_icx = IconData(
-    61507,
+    0xf043,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_icx_s = IconData(
-    57411,
+    0xe043,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_idh = IconData(
-    62272,
+    0xf340,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_idh_s = IconData(
-    58176,
+    0xe340,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_idr = IconData(
-    61964,
+    0xf20c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_idr_s = IconData(
-    57868,
+    0xe20c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ift = IconData(
-    62273,
+    0xf341,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ift_s = IconData(
-    58177,
+    0xe341,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ignis = IconData(
-    61592,
+    0xf098,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ignis_s = IconData(
-    57496,
+    0xe098,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ihf = IconData(
-    62567,
+    0xf467,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ihf_s = IconData(
-    58471,
+    0xe467,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iht = IconData(
-    62274,
+    0xf342,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iht_s = IconData(
-    58178,
+    0xe342,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ilc = IconData(
-    62527,
+    0xf43f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ilc_s = IconData(
-    58431,
+    0xe43f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ioc = IconData(
-    61636,
+    0xf0c4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ioc_s = IconData(
-    57540,
+    0xe0c4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ion = IconData(
-    61594,
+    0xf09a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ion_s = IconData(
-    57498,
+    0xe09a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iot = IconData(
-    61508,
+    0xf044,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iot_s = IconData(
-    57412,
+    0xe044,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iota = IconData(
-    61508,
+    0xf044,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iota_s = IconData(
-    57412,
+    0xe044,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iotx = IconData(
-    62275,
+    0xf343,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iotx_s = IconData(
-    58179,
+    0xe343,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_incnt = IconData(
-    61646,
+    0xf0ce,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_incnt_s = IconData(
-    57550,
+    0xe0ce,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ind = IconData(
-    62461,
+    0xf3fd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ind_s = IconData(
-    58365,
+    0xe3fd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_inj = IconData(
-    62721,
+    0xf501,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_inj_s = IconData(
-    58625,
+    0xe501,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ink = IconData(
-    61681,
+    0xf0f1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ink_s = IconData(
-    57585,
+    0xe0f1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_inr = IconData(
-    61965,
+    0xf20d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_inr_s = IconData(
-    57869,
+    0xe20d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ins = IconData(
-    61682,
+    0xf0f2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ins_s = IconData(
-    57586,
+    0xe0f2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_int = IconData(
-    62407,
+    0xf3c7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_int_s = IconData(
-    58311,
+    0xe3c7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iost = IconData(
-    61683,
+    0xf0f3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iost_s = IconData(
-    57587,
+    0xe0f3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iris = IconData(
-    62568,
+    0xf468,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_iris_s = IconData(
-    58472,
+    0xe468,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_itc = IconData(
-    62462,
+    0xf3fe,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_itc_s = IconData(
-    58366,
+    0xe3fe,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ivy = IconData(
-    62358,
+    0xf396,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ivy_s = IconData(
-    58262,
+    0xe396,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ixt = IconData(
-    62276,
+    0xf344,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ixt_s = IconData(
-    58180,
+    0xe344,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_jnt = IconData(
-    61684,
+    0xf0f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_jnt_s = IconData(
-    57588,
+    0xe0f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_jpy = IconData(
-    61954,
+    0xf202,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_jpy_s = IconData(
-    57858,
+    0xe202,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_jst = IconData(
-    62682,
+    0xf4da,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_jst_s = IconData(
-    58586,
+    0xe4da,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kan = IconData(
-    62463,
+    0xf3ff,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kan_s = IconData(
-    58367,
+    0xe3ff,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kava = IconData(
-    62645,
+    0xf4b5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kava_s = IconData(
-    58549,
+    0xe4b5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kbc = IconData(
-    62605,
+    0xf48d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kbc_s = IconData(
-    58509,
+    0xe48d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kcash = IconData(
-    62528,
+    0xf440,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kcash_s = IconData(
-    58432,
+    0xe440,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_keep = IconData(
-    62712,
+    0xf4f8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_keep_s = IconData(
-    58616,
+    0xe4f8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_key = IconData(
-    62353,
+    0xf391,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_key_s = IconData(
-    58257,
+    0xe391,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kick = IconData(
-    62277,
+    0xf345,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kick_s = IconData(
-    58181,
+    0xe345,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kin = IconData(
-    61685,
+    0xf0f5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kin_s = IconData(
-    57589,
+    0xe0f5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kmd = IconData(
-    61509,
+    0xf045,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kmd_s = IconData(
-    57413,
+    0xe045,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_knc = IconData(
-    61608,
+    0xf0a8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_knc_s = IconData(
-    57512,
+    0xe0a8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kore = IconData(
-    62529,
+    0xf441,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_kore_s = IconData(
-    58433,
+    0xe441,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_krm = IconData(
-    62332,
+    0xf37c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_krm_s = IconData(
-    58236,
+    0xe37c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ksm = IconData(
-    62689,
+    0xf4e1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ksm_s = IconData(
-    58593,
+    0xe4e1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_krw = IconData(
-    61955,
+    0xf203,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_krw_s = IconData(
-    57859,
+    0xe203,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_la = IconData(
-    62278,
+    0xf346,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_la_s = IconData(
-    58182,
+    0xe346,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lamb = IconData(
-    62464,
+    0xf400,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lamb_s = IconData(
-    58368,
+    0xe400,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_latx = IconData(
-    62279,
+    0xf347,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_latx_s = IconData(
-    58183,
+    0xe347,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lba = IconData(
-    62408,
+    0xf3c8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lba_s = IconData(
-    58312,
+    0xe3c8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lbc = IconData(
-    61510,
+    0xf046,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lbc_s = IconData(
-    57414,
+    0xe046,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lcc = IconData(
-    62349,
+    0xf38d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lcc_s = IconData(
-    58253,
+    0xe38d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lend = IconData(
-    61686,
+    0xf0f6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lend_s = IconData(
-    57590,
+    0xe0f6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_leo = IconData(
-    62409,
+    0xf3c9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_leo_s = IconData(
-    58313,
+    0xe3c9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_leoc = IconData(
-    62580,
+    0xf474,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_leoc_s = IconData(
-    58484,
+    0xe474,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_let = IconData(
-    62465,
+    0xf401,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_let_s = IconData(
-    58369,
+    0xe401,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_life = IconData(
-    62280,
+    0xf348,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_life_s = IconData(
-    58184,
+    0xe348,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_link = IconData(
-    61511,
+    0xf047,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_link_s = IconData(
-    57415,
+    0xe047,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lmc = IconData(
-    61643,
+    0xf0cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lmc_s = IconData(
-    57547,
+    0xe0cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lml = IconData(
-    62410,
+    0xf3ca,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lml_s = IconData(
-    58314,
+    0xe3ca,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lnc = IconData(
-    62357,
+    0xf395,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lnc_s = IconData(
-    58261,
+    0xe395,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lnd = IconData(
-    62466,
+    0xf402,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lnd_s = IconData(
-    58370,
+    0xe402,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_loc = IconData(
-    62281,
+    0xf349,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_loc_s = IconData(
-    58185,
+    0xe349,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_loom = IconData(
-    62282,
+    0xf34a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_loom_s = IconData(
-    58186,
+    0xe34a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lpt = IconData(
-    62467,
+    0xf403,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lpt_s = IconData(
-    58371,
+    0xe403,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lrc = IconData(
-    61512,
+    0xf048,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lrc_s = IconData(
-    57416,
+    0xe048,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lrn = IconData(
-    62530,
+    0xf442,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lrn_s = IconData(
-    58434,
+    0xe442,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lsk = IconData(
-    61513,
+    0xf049,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lsk_s = IconData(
-    57417,
+    0xe049,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ltc = IconData(
-    61514,
+    0xf04a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ltc_s = IconData(
-    57418,
+    0xe04a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lto = IconData(
-    62656,
+    0xf4c0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lto_s = IconData(
-    58560,
+    0xe4c0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lun = IconData(
-    61609,
+    0xf0a9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lun_s = IconData(
-    57513,
+    0xe0a9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_luna = IconData(
-    62629,
+    0xf4a5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_luna_s = IconData(
-    58533,
+    0xe4a5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lxt = IconData(
-    62531,
+    0xf443,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lxt_s = IconData(
-    58435,
+    0xe443,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lym = IconData(
-    62283,
+    0xf34b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_lym_s = IconData(
-    58187,
+    0xe34b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_maid = IconData(
-    61515,
+    0xf04b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_maid_s = IconData(
-    57419,
+    0xe04b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_man = IconData(
-    62284,
+    0xf34c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_man_s = IconData(
-    58188,
+    0xe34c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mana = IconData(
-    61516,
+    0xf04c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mana_s = IconData(
-    57420,
+    0xe04c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_matic = IconData(
-    62532,
+    0xf444,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_matic_s = IconData(
-    58436,
+    0xe444,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mbl = IconData(
-    62581,
+    0xf475,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mbl_s = IconData(
-    58485,
+    0xe475,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mco = IconData(
-    61517,
+    0xf04d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mco_s = IconData(
-    57421,
+    0xe04d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mda = IconData(
-    61687,
+    0xf0f7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mda_s = IconData(
-    57591,
+    0xe0f7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mds = IconData(
-    62468,
+    0xf404,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mds_s = IconData(
-    58372,
+    0xe404,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mdt = IconData(
-    62533,
+    0xf445,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mdt_s = IconData(
-    58437,
+    0xe445,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_med = IconData(
-    62411,
+    0xf3cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_med_s = IconData(
-    58315,
+    0xe3cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_medx = IconData(
-    62411,
+    0xf3cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_medx_s = IconData(
-    58315,
+    0xe3cb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mer = IconData(
-    61647,
+    0xf0cf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mer_s = IconData(
-    57551,
+    0xe0cf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_met = IconData(
-    62412,
+    0xf3cc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_met_s = IconData(
-    58316,
+    0xe3cc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_meta = IconData(
-    62469,
+    0xf405,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_meta_s = IconData(
-    58373,
+    0xe405,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mft = IconData(
-    62338,
+    0xf382,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mft_s = IconData(
-    58242,
+    0xe382,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mgo = IconData(
-    62366,
+    0xf39e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mgo_s = IconData(
-    58270,
+    0xe39e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mhc = IconData(
-    62535,
+    0xf447,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mhc_s = IconData(
-    58439,
+    0xe447,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mith = IconData(
-    61688,
+    0xf0f8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mith_s = IconData(
-    57592,
+    0xe0f8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mitx = IconData(
-    62470,
+    0xf406,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mitx_s = IconData(
-    58374,
+    0xe406,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mln = IconData(
-    61518,
+    0xf04e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mln_s = IconData(
-    57422,
+    0xe04e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mkr = IconData(
-    61605,
+    0xf0a5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mkr_s = IconData(
-    57509,
+    0xe0a5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mnx = IconData(
-    62471,
+    0xf407,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mnx_s = IconData(
-    58375,
+    0xe407,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_moac = IconData(
-    62413,
+    0xf3cd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_moac_s = IconData(
-    58317,
+    0xe3cd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mobi = IconData(
-    62414,
+    0xf3ce,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mobi_s = IconData(
-    58318,
+    0xe3ce,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_moc = IconData(
-    62415,
+    0xf3cf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_moc_s = IconData(
-    58319,
+    0xe3cf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mod = IconData(
-    61689,
+    0xf0f9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mod_s = IconData(
-    57593,
+    0xe0f9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_moon = IconData(
-    62707,
+    0xf4f3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_moon_s = IconData(
-    58611,
+    0xe4f3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mona = IconData(
-    61519,
+    0xf04f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mona_s = IconData(
-    57423,
+    0xe04f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_morph = IconData(
-    62285,
+    0xf34d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_morph_s = IconData(
-    58189,
+    0xe34d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mrk = IconData(
-    62416,
+    0xf3d0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mrk_s = IconData(
-    58320,
+    0xe3d0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_msp = IconData(
-    62286,
+    0xf34e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_msp_s = IconData(
-    58190,
+    0xe34e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mta = IconData(
-    62693,
+    0xf4e5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mta_s = IconData(
-    58597,
+    0xe4e5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtc = IconData(
-    62287,
+    0xf34f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtc_s = IconData(
-    58191,
+    0xe34f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mth = IconData(
-    61690,
+    0xf0fa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mth_s = IconData(
-    57594,
+    0xe0fa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtl = IconData(
-    61691,
+    0xf0fb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtl_s = IconData(
-    57595,
+    0xe0fb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtn = IconData(
-    61616,
+    0xf0b0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtn_s = IconData(
-    57520,
+    0xe0b0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtx = IconData(
-    62359,
+    0xf397,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mtx_s = IconData(
-    58263,
+    0xe397,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mue = IconData(
-    61638,
+    0xf0c6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mue_s = IconData(
-    57542,
+    0xe0c6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mx = IconData(
-    62642,
+    0xf4b2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mx_s = IconData(
-    58546,
+    0xe4b2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mxc = IconData(
-    62472,
+    0xf408,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mxc_s = IconData(
-    58376,
+    0xe408,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mxn = IconData(
-    61977,
+    0xf219,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mxn_s = IconData(
-    57881,
+    0xe219,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mxm = IconData(
-    62473,
+    0xf409,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_mxm_s = IconData(
-    58377,
+    0xe409,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_myr = IconData(
-    61968,
+    0xf210,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_myr_s = IconData(
-    57872,
+    0xe210,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nanj = IconData(
-    62288,
+    0xf350,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nanj_s = IconData(
-    58192,
+    0xe350,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nano = IconData(
-    61599,
+    0xf09f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nano_s = IconData(
-    57503,
+    0xe09f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nas = IconData(
-    62336,
+    0xf380,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nas_s = IconData(
-    58240,
+    0xe380,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_naut = IconData(
-    62369,
+    0xf3a1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_naut_s = IconData(
-    58273,
+    0xe3a1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nav = IconData(
-    61520,
+    0xf050,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nav_s = IconData(
-    57424,
+    0xe050,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ncash = IconData(
-    61692,
+    0xf0fc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ncash_s = IconData(
-    57596,
+    0xe0fc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nct = IconData(
-    62474,
+    0xf40a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nct_s = IconData(
-    58378,
+    0xe40a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_near = IconData(
-    62717,
+    0xf4fd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_near_s = IconData(
-    58621,
+    0xe4fd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nebl = IconData(
-    61693,
+    0xf0fd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nebl_s = IconData(
-    57597,
+    0xe0fd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nec = IconData(
-    62582,
+    0xf476,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nec_s = IconData(
-    58486,
+    0xe476,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_neo = IconData(
-    61521,
+    0xf051,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_neo_s = IconData(
-    57425,
+    0xe051,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_neos = IconData(
-    61522,
+    0xf052,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_neos_s = IconData(
-    57426,
+    0xe052,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nest = IconData(
-    62701,
+    0xf4ed,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nest_s = IconData(
-    58605,
+    0xe4ed,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_neu = IconData(
-    62289,
+    0xf351,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_neu_s = IconData(
-    58193,
+    0xe351,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_new = IconData(
-    62536,
+    0xf448,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_new_s = IconData(
-    58440,
+    0xe448,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nexo = IconData(
-    62290,
+    0xf352,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nexo_s = IconData(
-    58194,
+    0xe352,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ngc = IconData(
-    61628,
+    0xf0bc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ngc_s = IconData(
-    57532,
+    0xe0bc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ngn = IconData(
-    61969,
+    0xf211,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ngn_s = IconData(
-    57873,
+    0xe211,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nim = IconData(
-    62475,
+    0xf40b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nim_s = IconData(
-    58379,
+    0xe40b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nkn = IconData(
-    62476,
+    0xf40c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nkn_s = IconData(
-    58380,
+    0xe40c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nlc2 = IconData(
-    61694,
+    0xf0fe,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nlc2_s = IconData(
-    57598,
+    0xe0fe,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nlg = IconData(
-    61622,
+    0xf0b6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nlg_s = IconData(
-    57526,
+    0xe0b6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nmc = IconData(
-    61523,
+    0xf053,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nmc_s = IconData(
-    57427,
+    0xe053,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nmr = IconData(
-    61631,
+    0xf0bf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nmr_s = IconData(
-    57535,
+    0xe0bf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_noah = IconData(
-    62335,
+    0xf37f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_noah_s = IconData(
-    58239,
+    0xe37f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_note = IconData(
-    62343,
+    0xf387,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_note_s = IconData(
-    58247,
+    0xe387,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nplc = IconData(
-    62477,
+    0xf40d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nplc_s = IconData(
-    58381,
+    0xe40d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_npxs = IconData(
-    62337,
+    0xf381,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_npxs_s = IconData(
-    58241,
+    0xe381,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nrg = IconData(
-    62668,
+    0xf4cc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nrg_s = IconData(
-    58572,
+    0xe4cc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ntk = IconData(
-    62291,
+    0xf353,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ntk_s = IconData(
-    58195,
+    0xe353,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nu = IconData(
-    62720,
+    0xf500,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nu_s = IconData(
-    58624,
+    0xe500,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nuls = IconData(
-    61695,
+    0xf0ff,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nuls_s = IconData(
-    57599,
+    0xe0ff,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nvc = IconData(
-    62334,
+    0xf37e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nvc_s = IconData(
-    58238,
+    0xe37e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nxc = IconData(
-    61524,
+    0xf054,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nxc_s = IconData(
-    57428,
+    0xe054,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nxs = IconData(
-    61525,
+    0xf055,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nxs_s = IconData(
-    57429,
+    0xe055,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nxt = IconData(
-    61526,
+    0xf056,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_nxt_s = IconData(
-    57430,
+    0xe056,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_oax = IconData(
-    62208,
+    0xf300,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_oax_s = IconData(
-    58112,
+    0xe300,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ocean = IconData(
-    62569,
+    0xf469,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ocean_s = IconData(
-    58473,
+    0xe469,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ocn = IconData(
-    61651,
+    0xf0d3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ocn_s = IconData(
-    57555,
+    0xe0d3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ode = IconData(
-    61582,
+    0xf08e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ode_s = IconData(
-    57486,
+    0xe08e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ogn = IconData(
-    62657,
+    0xf4c1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ogn_s = IconData(
-    58561,
+    0xe4c1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ogo = IconData(
-    62583,
+    0xf477,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ogo_s = IconData(
-    58487,
+    0xe477,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ok = IconData(
-    62570,
+    0xf46a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ok_s = IconData(
-    58474,
+    0xe46a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_okb = IconData(
-    62640,
+    0xf4b0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_okb_s = IconData(
-    58544,
+    0xe4b0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_omg = IconData(
-    61527,
+    0xf057,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_omg_s = IconData(
-    57431,
+    0xe057,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_omni = IconData(
-    61528,
+    0xf058,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_omni_s = IconData(
-    57432,
+    0xe058,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_one = IconData(
-    62584,
+    0xf478,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_one_s = IconData(
-    58488,
+    0xe478,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ong = IconData(
-    62665,
+    0xf4c9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ong_s = IconData(
-    58569,
+    0xe4c9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_onot = IconData(
-    62537,
+    0xf449,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_onot_s = IconData(
-    58441,
+    0xe449,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ont = IconData(
-    62209,
+    0xf301,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ont_s = IconData(
-    58113,
+    0xe301,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_orbs = IconData(
-    62571,
+    0xf46b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_orbs_s = IconData(
-    58475,
+    0xe46b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_orme = IconData(
-    62292,
+    0xf354,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_orme_s = IconData(
-    58196,
+    0xe354,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ors = IconData(
-    62606,
+    0xf48e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ors_s = IconData(
-    58510,
+    0xe48e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ost = IconData(
-    62210,
+    0xf302,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ost_s = IconData(
-    58114,
+    0xe302,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_otn = IconData(
-    62362,
+    0xf39a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_otn_s = IconData(
-    58266,
+    0xe39a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_oxt = IconData(
-    62653,
+    0xf4bd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_oxt_s = IconData(
-    58557,
+    0xe4bd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_oxy = IconData(
-    62585,
+    0xf479,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_oxy_s = IconData(
-    58489,
+    0xe479,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pai = IconData(
-    62333,
+    0xf37d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pai_s = IconData(
-    58237,
+    0xe37d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pal = IconData(
-    62478,
+    0xf40e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pal_s = IconData(
-    58382,
+    0xe40e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_part = IconData(
-    61529,
+    0xf059,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_part_s = IconData(
-    57433,
+    0xe059,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pasc = IconData(
-    61530,
+    0xf05a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pasc_s = IconData(
-    57434,
+    0xe05a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pat = IconData(
-    62294,
+    0xf356,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pat_s = IconData(
-    58198,
+    0xe356,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pax = IconData(
-    62365,
+    0xf39d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pax_s = IconData(
-    58269,
+    0xe39d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_paxg = IconData(
-    62624,
+    0xf4a0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_paxg_s = IconData(
-    58528,
+    0xe4a0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pay = IconData(
-    61531,
+    0xf05b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pay_s = IconData(
-    57435,
+    0xe05b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pbt = IconData(
-    62586,
+    0xf47a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pbt_s = IconData(
-    58490,
+    0xe47a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pcl = IconData(
-    62293,
+    0xf355,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pcl_s = IconData(
-    58197,
+    0xe355,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_perl = IconData(
-    62607,
+    0xf48f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_perl_s = IconData(
-    58511,
+    0xe48f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_phx = IconData(
-    62417,
+    0xf3d1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_phx_s = IconData(
-    58321,
+    0xe3d1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_php = IconData(
-    61966,
+    0xf20e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_php_s = IconData(
-    57870,
+    0xe20e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pi = IconData(
-    62538,
+    0xf44a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pi_s = IconData(
-    58442,
+    0xe44a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pink = IconData(
-    61532,
+    0xf05c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pink_s = IconData(
-    57436,
+    0xe05c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pivx = IconData(
-    61533,
+    0xf05d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pivx_s = IconData(
-    57437,
+    0xe05d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pkt = IconData(
-    62356,
+    0xf394,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pkt_s = IconData(
-    58260,
+    0xe394,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pla = IconData(
-    62479,
+    0xf40f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pla_s = IconData(
-    58383,
+    0xe40f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_plbt = IconData(
-    62295,
+    0xf357,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_plbt_s = IconData(
-    58199,
+    0xe357,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pln = IconData(
-    61967,
+    0xf20f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pln_s = IconData(
-    57871,
+    0xe20f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_plr = IconData(
-    62211,
+    0xf303,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_plr_s = IconData(
-    58115,
+    0xe303,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ply = IconData(
-    62418,
+    0xf3d2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ply_s = IconData(
-    58322,
+    0xe3d2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pma = IconData(
-    62419,
+    0xf3d3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pma_s = IconData(
-    58323,
+    0xe3d3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_poa = IconData(
-    61610,
+    0xf0aa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_poa_s = IconData(
-    57514,
+    0xe0aa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_poe = IconData(
-    62212,
+    0xf304,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_poe_s = IconData(
-    58116,
+    0xe304,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_poly = IconData(
-    61598,
+    0xf09e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_poly_s = IconData(
-    57502,
+    0xe09e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pot = IconData(
-    61534,
+    0xf05e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pot_s = IconData(
-    57438,
+    0xe05e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_powr = IconData(
-    61535,
+    0xf05f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_powr_s = IconData(
-    57439,
+    0xe05f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pnt = IconData(
-    62420,
+    0xf3d4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pnt_s = IconData(
-    58324,
+    0xe3d4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ppc = IconData(
-    61536,
+    0xf060,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ppc_s = IconData(
-    57440,
+    0xe060,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ppt = IconData(
-    62213,
+    0xf305,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ppt_s = IconData(
-    58117,
+    0xe305,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pra = IconData(
-    62608,
+    0xf490,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pra_s = IconData(
-    58512,
+    0xe490,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pre = IconData(
-    62296,
+    0xf358,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pre_s = IconData(
-    58200,
+    0xe358,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_prg = IconData(
-    62351,
+    0xf38f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_prg_s = IconData(
-    58255,
+    0xe38f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pro = IconData(
-    61620,
+    0xf0b4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pro_s = IconData(
-    57524,
+    0xe0b4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pst = IconData(
-    62539,
+    0xf44b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pst_s = IconData(
-    58443,
+    0xe44b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pton = IconData(
-    62540,
+    0xf44c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pton_s = IconData(
-    58444,
+    0xe44c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pvt = IconData(
-    62609,
+    0xf491,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pvt_s = IconData(
-    58513,
+    0xe491,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pxg = IconData(
-    62480,
+    0xf410,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_pxg_s = IconData(
-    58384,
+    0xe410,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qash = IconData(
-    62383,
+    0xf3af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qash_s = IconData(
-    58287,
+    0xe3af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qau = IconData(
-    62297,
+    0xf359,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qau_s = IconData(
-    58201,
+    0xe359,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qkc = IconData(
-    62298,
+    0xf35a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qkc_s = IconData(
-    58202,
+    0xe35a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qlc = IconData(
-    62214,
+    0xf306,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qlc_s = IconData(
-    58118,
+    0xe306,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qnt = IconData(
-    62481,
+    0xf411,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qnt_s = IconData(
-    58385,
+    0xe411,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qntu = IconData(
-    62421,
+    0xf3d5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qntu_s = IconData(
-    58325,
+    0xe3d5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qrl = IconData(
-    61593,
+    0xf099,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qrl_s = IconData(
-    57497,
+    0xe099,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qsp = IconData(
-    62299,
+    0xf35b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qsp_s = IconData(
-    58203,
+    0xe35b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qtum = IconData(
-    61537,
+    0xf061,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qtum_s = IconData(
-    57441,
+    0xe061,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qun = IconData(
-    62482,
+    0xf412,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_qun_s = IconData(
-    58386,
+    0xe412,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_r = IconData(
-    62215,
+    0xf307,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_r_s = IconData(
-    58119,
+    0xe307,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rads = IconData(
-    61538,
+    0xf062,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rads_s = IconData(
-    57442,
+    0xe062,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rari = IconData(
-    62718,
+    0xf4fe,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rari_s = IconData(
-    58622,
+    0xe4fe,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rating = IconData(
-    62610,
+    0xf492,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rating_s = IconData(
-    58514,
+    0xe492,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rblx = IconData(
-    62422,
+    0xf3d6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rblx_s = IconData(
-    58326,
+    0xe3d6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rbtc = IconData(
-    62378,
+    0xf3aa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rbtc_s = IconData(
-    58282,
+    0xe3aa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rby = IconData(
-    61635,
+    0xf0c3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rby_s = IconData(
-    57539,
+    0xe0c3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rcn = IconData(
-    61539,
+    0xf063,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rcn_s = IconData(
-    57443,
+    0xe063,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rdd = IconData(
-    61540,
+    0xf064,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rdd_s = IconData(
-    57444,
+    0xe064,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rdn = IconData(
-    61603,
+    0xf0a3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rdn_s = IconData(
-    57507,
+    0xe0a3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rem = IconData(
-    62541,
+    0xf44d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rem_s = IconData(
-    58445,
+    0xe44d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ren = IconData(
-    62542,
+    0xf44e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ren_s = IconData(
-    58446,
+    0xe44e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rep = IconData(
-    61541,
+    0xf065,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rep_s = IconData(
-    57445,
+    0xe065,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_repv2 = IconData(
-    62674,
+    0xf4d2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_repv2_s = IconData(
-    58578,
+    0xe4d2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_req = IconData(
-    61583,
+    0xf08f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_req_s = IconData(
-    57487,
+    0xe08f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rev = IconData(
-    62700,
+    0xf4ec,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rev_s = IconData(
-    58604,
+    0xe4ec,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rfox = IconData(
-    62611,
+    0xf493,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rfox_s = IconData(
-    58515,
+    0xe493,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rfr = IconData(
-    62423,
+    0xf3d7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rfr_s = IconData(
-    58327,
+    0xe3d7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ric = IconData(
-    61542,
+    0xf066,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ric_s = IconData(
-    57446,
+    0xe066,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rif = IconData(
-    62543,
+    0xf44f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rif_s = IconData(
-    58447,
+    0xe44f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ring = IconData(
-    62704,
+    0xf4f0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ring_s = IconData(
-    58608,
+    0xe4f0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rlc = IconData(
-    61543,
+    0xf067,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rlc_s = IconData(
-    57447,
+    0xe067,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rose = IconData(
-    62724,
+    0xf504,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rose_s = IconData(
-    58628,
+    0xe504,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rox = IconData(
-    62483,
+    0xf413,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rox_s = IconData(
-    58387,
+    0xe413,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rntb = IconData(
-    62300,
+    0xf35c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rntb_s = IconData(
-    58204,
+    0xe35c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rpx = IconData(
-    62216,
+    0xf308,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rpx_s = IconData(
-    58120,
+    0xe308,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rsr = IconData(
-    62587,
+    0xf47b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rsr_s = IconData(
-    58491,
+    0xe47b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rsv = IconData(
-    62588,
+    0xf47c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rsv_s = IconData(
-    58492,
+    0xe47c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rub = IconData(
-    61957,
+    0xf205,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rub_s = IconData(
-    57861,
+    0xe205,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ruff = IconData(
-    62484,
+    0xf414,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ruff_s = IconData(
-    58388,
+    0xe414,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rune = IconData(
-    62702,
+    0xf4ee,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rune_s = IconData(
-    58606,
+    0xe4ee,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rvn = IconData(
-    62367,
+    0xf39f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rvn_s = IconData(
-    58271,
+    0xe39f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rvr = IconData(
-    61640,
+    0xf0c8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rvr_s = IconData(
-    57544,
+    0xe0c8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rvt = IconData(
-    62301,
+    0xf35d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_rvt_s = IconData(
-    58205,
+    0xe35d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sai = IconData(
-    62646,
+    0xf4b6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sai_s = IconData(
-    58550,
+    0xe4b6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_salt = IconData(
-    61544,
+    0xf068,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_salt_s = IconData(
-    57448,
+    0xe068,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_san = IconData(
-    61545,
+    0xf069,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_san_s = IconData(
-    57449,
+    0xe069,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sbd = IconData(
-    61546,
+    0xf06a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sbd_s = IconData(
-    57450,
+    0xe06a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sc = IconData(
-    61547,
+    0xf06b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sc_s = IconData(
-    57451,
+    0xe06b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_scc = IconData(
-    62485,
+    0xf415,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_scc_s = IconData(
-    58389,
+    0xe415,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sdc = IconData(
-    62348,
+    0xf38c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sdc_s = IconData(
-    58252,
+    0xe38c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_seele = IconData(
-    62486,
+    0xf416,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_seele_s = IconData(
-    58390,
+    0xe416,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sen = IconData(
-    62424,
+    0xf3d8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sen_s = IconData(
-    58328,
+    0xe3d8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sent = IconData(
-    62302,
+    0xf35e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sent_s = IconData(
-    58206,
+    0xe35e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sero = IconData(
-    62662,
+    0xf4c6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sero_s = IconData(
-    58566,
+    0xe4c6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sexc = IconData(
-    62572,
+    0xf46c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sexc_s = IconData(
-    58476,
+    0xe46c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sgd = IconData(
-    61962,
+    0xf20a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sgd_s = IconData(
-    57866,
+    0xe20a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sgn = IconData(
-    62487,
+    0xf417,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sgn_s = IconData(
-    58391,
+    0xe417,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_shift = IconData(
-    61625,
+    0xf0b9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_shift_s = IconData(
-    57529,
+    0xe0b9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ship = IconData(
-    62303,
+    0xf35f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ship_s = IconData(
-    58207,
+    0xe35f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sib = IconData(
-    61642,
+    0xf0ca,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sib_s = IconData(
-    57546,
+    0xe0ca,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_six = IconData(
-    62544,
+    0xf450,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_six_s = IconData(
-    58448,
+    0xe450,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_slr = IconData(
-    61634,
+    0xf0c2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_slr_s = IconData(
-    57538,
+    0xe0c2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sls = IconData(
-    61585,
+    0xf091,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sls_s = IconData(
-    57489,
+    0xe091,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sjcx = IconData(
-    61550,
+    0xf06e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sjcx_s = IconData(
-    57454,
+    0xe06e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_skl = IconData(
-    62726,
+    0xf506,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_skl_s = IconData(
-    58630,
+    0xe506,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_skm = IconData(
-    62545,
+    0xf451,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_skm_s = IconData(
-    58449,
+    0xe451,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sky = IconData(
-    62217,
+    0xf309,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sky_s = IconData(
-    58121,
+    0xe309,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_slt = IconData(
-    62546,
+    0xf452,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_slt_s = IconData(
-    58450,
+    0xe452,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_slv = IconData(
-    62641,
+    0xf4b1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_slv_s = IconData(
-    58545,
+    0xe4b1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_smart = IconData(
-    62218,
+    0xf30a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_smart_s = IconData(
-    58122,
+    0xe30a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_smt = IconData(
-    62304,
+    0xf360,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_smt_s = IconData(
-    58208,
+    0xe360,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snc = IconData(
-    62305,
+    0xf361,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snc_s = IconData(
-    58209,
+    0xe361,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snet = IconData(
-    62632,
+    0xf4a8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snet_s = IconData(
-    58536,
+    0xe4a8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sngls = IconData(
-    62219,
+    0xf30b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sngls_s = IconData(
-    58123,
+    0xe30b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snm = IconData(
-    62220,
+    0xf30c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snm_s = IconData(
-    58124,
+    0xe30c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snt = IconData(
-    61548,
+    0xf06c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snt_s = IconData(
-    57452,
+    0xe06c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snx = IconData(
-    62573,
+    0xf46d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_snx_s = IconData(
-    58477,
+    0xe46d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_soc = IconData(
-    62306,
+    0xf362,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_soc_s = IconData(
-    58210,
+    0xe362,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sol = IconData(
-    62663,
+    0xf4c7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sol_s = IconData(
-    58567,
+    0xe4c7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_solo = IconData(
-    62699,
+    0xf4eb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_solo_s = IconData(
-    58603,
+    0xe4eb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_solve = IconData(
-    62488,
+    0xf418,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_solve_s = IconData(
-    58392,
+    0xe418,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_soul = IconData(
-    62547,
+    0xf453,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_soul_s = IconData(
-    58451,
+    0xe453,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spc = IconData(
-    62360,
+    0xf398,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spc_s = IconData(
-    58264,
+    0xe398,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spd = IconData(
-    62548,
+    0xf454,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spd_s = IconData(
-    58452,
+    0xe454,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sphr = IconData(
-    62489,
+    0xf419,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sphr_s = IconData(
-    58393,
+    0xe419,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sphtx = IconData(
-    62425,
+    0xf3d9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sphtx_s = IconData(
-    58329,
+    0xe3d9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spnd = IconData(
-    62490,
+    0xf41a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spnd_s = IconData(
-    58394,
+    0xe41a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spnk = IconData(
-    62385,
+    0xf3b1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_spnk_s = IconData(
-    58289,
+    0xe3b1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_srm = IconData(
-    62685,
+    0xf4dd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_srm_s = IconData(
-    58589,
+    0xe4dd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_srn = IconData(
-    61549,
+    0xf06d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_srn_s = IconData(
-    57453,
+    0xe06d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ssp = IconData(
-    62491,
+    0xf41b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ssp_s = IconData(
-    58395,
+    0xe41b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stacs = IconData(
-    62492,
+    0xf41c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stacs_s = IconData(
-    58396,
+    0xe41c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_steem = IconData(
-    61546,
+    0xf06a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_steem_s = IconData(
-    57450,
+    0xe06a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_storj = IconData(
-    61550,
+    0xf06e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_storj_s = IconData(
-    57454,
+    0xe06e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_storm = IconData(
-    61613,
+    0xf0ad,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_storm_s = IconData(
-    57517,
+    0xe0ad,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stpt = IconData(
-    62612,
+    0xf494,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stpt_s = IconData(
-    58516,
+    0xe494,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_str = IconData(
-    61551,
+    0xf06f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_str_s = IconData(
-    57455,
+    0xe06f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_strat = IconData(
-    61552,
+    0xf070,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_strat_s = IconData(
-    57456,
+    0xe070,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stq = IconData(
-    62307,
+    0xf363,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stq_s = IconData(
-    58211,
+    0xe363,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stx = IconData(
-    62308,
+    0xf364,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_stx_s = IconData(
-    58212,
+    0xe364,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sub = IconData(
-    61614,
+    0xf0ae,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sub_s = IconData(
-    57518,
+    0xe0ae,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_susd = IconData(
-    62613,
+    0xf495,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_susd_s = IconData(
-    58517,
+    0xe495,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sushi = IconData(
-    62697,
+    0xf4e9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sushi_s = IconData(
-    58601,
+    0xe4e9,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swftc = IconData(
-    62309,
+    0xf365,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swftc_s = IconData(
-    58213,
+    0xe365,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swm = IconData(
-    62352,
+    0xf390,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swm_s = IconData(
-    58256,
+    0xe390,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swt = IconData(
-    61648,
+    0xf0d0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swt_s = IconData(
-    57552,
+    0xe0d0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swth = IconData(
-    62614,
+    0xf496,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_swth_s = IconData(
-    58518,
+    0xe496,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sxp = IconData(
-    62676,
+    0xf4d4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sxp_s = IconData(
-    58580,
+    0xe4d4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sys = IconData(
-    61553,
+    0xf071,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_sys_s = IconData(
-    57457,
+    0xe071,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_taas = IconData(
-    62221,
+    0xf30d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_taas_s = IconData(
-    58125,
+    0xe30d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tau = IconData(
-    62354,
+    0xf392,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tau_s = IconData(
-    58258,
+    0xe392,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tbtc = IconData(
-    62715,
+    0xf4fb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tbtc_s = IconData(
-    58619,
+    0xe4fb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tct = IconData(
-    62574,
+    0xf46e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tct_s = IconData(
-    58478,
+    0xe46e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tel = IconData(
-    62221,
+    0xf30d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tel_s = IconData(
-    58126,
+    0xe30e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_temco = IconData(
-    62615,
+    0xf497,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_temco_s = IconData(
-    58519,
+    0xe497,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tfuel = IconData(
-    62549,
+    0xf455,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tfuel_s = IconData(
-    58453,
+    0xe455,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_theta = IconData(
-    62223,
+    0xf30f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_theta_s = IconData(
-    58127,
+    0xe30f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_thc = IconData(
-    62355,
+    0xf393,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_thc_s = IconData(
-    58259,
+    0xe393,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_thx = IconData(
-    62616,
+    0xf498,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_thx_s = IconData(
-    58520,
+    0xe498,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_time = IconData(
-    62310,
+    0xf366,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_time_s = IconData(
-    58214,
+    0xe366,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tio = IconData(
-    62311,
+    0xf367,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tio_s = IconData(
-    58215,
+    0xe367,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tix = IconData(
-    61632,
+    0xf0c0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tix_s = IconData(
-    57536,
+    0xe0c0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tkn = IconData(
-    62224,
+    0xf310,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tkn_s = IconData(
-    58128,
+    0xe310,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tky = IconData(
-    62312,
+    0xf368,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tky_s = IconData(
-    58216,
+    0xe368,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tnb = IconData(
-    61554,
+    0xf072,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tnb_s = IconData(
-    57458,
+    0xe072,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tnc = IconData(
-    62550,
+    0xf456,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tnc_s = IconData(
-    58454,
+    0xe456,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tnt = IconData(
-    62225,
+    0xf311,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tnt_s = IconData(
-    58129,
+    0xe311,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tomo = IconData(
-    62551,
+    0xf457,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tomo_s = IconData(
-    58455,
+    0xe457,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_top = IconData(
-    62552,
+    0xf458,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_top_s = IconData(
-    58456,
+    0xe458,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tpay = IconData(
-    62426,
+    0xf3da,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tpay_s = IconData(
-    58330,
+    0xe3da,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trac = IconData(
-    62313,
+    0xf369,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trac_s = IconData(
-    58217,
+    0xe369,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trb = IconData(
-    62691,
+    0xf4e3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trb_s = IconData(
-    58595,
+    0xe4e3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trig = IconData(
-    62226,
+    0xf312,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trig_s = IconData(
-    58130,
+    0xe312,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trio = IconData(
-    62493,
+    0xf41d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trio_s = IconData(
-    58397,
+    0xe41d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_troy = IconData(
-    62660,
+    0xf4c4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_troy_s = IconData(
-    58564,
+    0xe4c4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trst = IconData(
-    61630,
+    0xf0be,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trst_s = IconData(
-    57534,
+    0xe0be,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_true = IconData(
-    62314,
+    0xf36a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_true_s = IconData(
-    58218,
+    0xe36a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trx = IconData(
-    61555,
+    0xf073,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_trx_s = IconData(
-    57459,
+    0xe073,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tt = IconData(
-    62575,
+    0xf46f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tt_s = IconData(
-    58479,
+    0xe46f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ttc = IconData(
-    62553,
+    0xf459,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ttc_s = IconData(
-    58457,
+    0xe459,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ttu = IconData(
-    62347,
+    0xf38b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ttu_s = IconData(
-    58251,
+    0xe38b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tube = IconData(
-    62315,
+    0xf36b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tube_s = IconData(
-    58219,
+    0xe36b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tusd = IconData(
-    61576,
+    0xf088,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_tusd_s = IconData(
-    57480,
+    0xe088,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ubq = IconData(
-    61586,
+    0xf092,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ubq_s = IconData(
-    57490,
+    0xe092,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ubt = IconData(
-    62494,
+    0xf41e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ubt_s = IconData(
-    58398,
+    0xe41e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ugas = IconData(
-    62554,
+    0xf45a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ugas_s = IconData(
-    58458,
+    0xe45a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_uip = IconData(
-    62617,
+    0xf499,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_uip_s = IconData(
-    58521,
+    0xe499,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ukg = IconData(
-    61618,
+    0xf0b2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ukg_s = IconData(
-    57522,
+    0xe0b2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_unfi = IconData(
-    62723,
+    0xf503,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_unfi_s = IconData(
-    58627,
+    0xe503,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_uni = IconData(
-    62711,
+    0xf4f7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_uni_s = IconData(
-    58615,
+    0xe4f7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_up = IconData(
-    61602,
+    0xf0a2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_up_s = IconData(
-    57506,
+    0xe0a2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_upp = IconData(
-    62427,
+    0xf3db,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_upp_s = IconData(
-    58331,
+    0xe3db,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usd = IconData(
-    61953,
+    0xf201,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usd_s = IconData(
-    57857,
+    0xe201,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usdc = IconData(
-    61976,
+    0xf218,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usdc_s = IconData(
-    57880,
+    0xe218,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usds = IconData(
-    62495,
+    0xf41f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usds_s = IconData(
-    58399,
+    0xe41f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usdt = IconData(
-    61556,
+    0xf074,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usdt_s = IconData(
-    57460,
+    0xe074,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usk = IconData(
-    62618,
+    0xf49a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_usk_s = IconData(
-    58522,
+    0xe49a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ust = IconData(
-    62727,
+    0xf507,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ust_s = IconData(
-    58631,
+    0xe507,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_utk = IconData(
-    62227,
+    0xf313,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_utk_s = IconData(
-    58131,
+    0xe313,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_utnp = IconData(
-    62316,
+    0xf36c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_utnp_s = IconData(
-    58220,
+    0xe36c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_utt = IconData(
-    62339,
+    0xf383,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_utt_s = IconData(
-    58243,
+    0xe383,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_uuu = IconData(
-    62317,
+    0xf36d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_uuu_s = IconData(
-    58221,
+    0xe36d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vbk = IconData(
-    62576,
+    0xf470,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vbk_s = IconData(
-    58480,
+    0xe470,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vdx = IconData(
-    62619,
+    0xf49b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vdx_s = IconData(
-    58523,
+    0xe49b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vee = IconData(
-    61595,
+    0xf09b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vee_s = IconData(
-    57499,
+    0xe09b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ven = IconData(
-    61611,
+    0xf0ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_ven_s = IconData(
-    57515,
+    0xe0ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_veo = IconData(
-    62496,
+    0xf420,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_veo_s = IconData(
-    58400,
+    0xe420,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_veri = IconData(
-    62228,
+    0xf314,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_veri_s = IconData(
-    58132,
+    0xe314,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vet = IconData(
-    61611,
+    0xf0ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vet_s = IconData(
-    57515,
+    0xe0ab,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vex = IconData(
-    62620,
+    0xf49c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vex_s = IconData(
-    58524,
+    0xe49c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_via = IconData(
-    61557,
+    0xf075,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_via_s = IconData(
-    57461,
+    0xe075,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vib = IconData(
-    62229,
+    0xf315,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vib_s = IconData(
-    58133,
+    0xe315,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vibe = IconData(
-    62230,
+    0xf316,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vibe_s = IconData(
-    58134,
+    0xe316,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vidy = IconData(
-    62648,
+    0xf4b8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vidy_s = IconData(
-    58552,
+    0xe4b8,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vitae = IconData(
-    62705,
+    0xf4f1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vitae_s = IconData(
-    58609,
+    0xe4f1,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vite = IconData(
-    62428,
+    0xf3dc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vite_s = IconData(
-    58332,
+    0xe3dc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vlx = IconData(
-    62703,
+    0xf4ef,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vlx_s = IconData(
-    58607,
+    0xe4ef,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vox = IconData(
-    61558,
+    0xf076,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vox_s = IconData(
-    57462,
+    0xe076,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vra = IconData(
-    62577,
+    0xf471,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vra_s = IconData(
-    58481,
+    0xe471,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vrc = IconData(
-    61559,
+    0xf077,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vrc_s = IconData(
-    57463,
+    0xe077,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vrm = IconData(
-    61560,
+    0xf078,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vrm_s = IconData(
-    57464,
+    0xe078,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vsys = IconData(
-    62621,
+    0xf49d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vsys_s = IconData(
-    58525,
+    0xe49d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vtc = IconData(
-    61561,
+    0xf079,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_vtc_s = IconData(
-    57465,
+    0xe079,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wabi = IconData(
-    62231,
+    0xf317,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wabi_s = IconData(
-    58135,
+    0xe317,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wan = IconData(
-    62232,
+    0xf318,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wan_s = IconData(
-    58136,
+    0xe318,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_waves = IconData(
-    61562,
+    0xf07a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_waves_s = IconData(
-    57466,
+    0xe07a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wax = IconData(
-    61578,
+    0xf08a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wax_s = IconData(
-    57482,
+    0xe08a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_waxp = IconData(
-    61578,
+    0xf08a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_waxp_s = IconData(
-    57482,
+    0xe08a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wrx = IconData(
-    62651,
+    0xf4bb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wrx_s = IconData(
-    58555,
+    0xe4bb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wbtc = IconData(
-    62622,
+    0xf49e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wbtc_s = IconData(
-    58526,
+    0xe49e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wet = IconData(
-    62555,
+    0xf45b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wet_s = IconData(
-    58459,
+    0xe45b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_weth = IconData(
-    61491,
+    0xf033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_weth_s = IconData(
-    57395,
+    0xe033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wib = IconData(
-    62556,
+    0xf45c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wib_s = IconData(
-    58460,
+    0xe45c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wicc = IconData(
-    62497,
+    0xf421,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wicc_s = IconData(
-    58401,
+    0xe421,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_win = IconData(
-    62647,
+    0xf4b7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_win_s = IconData(
-    58551,
+    0xe4b7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wings = IconData(
-    61596,
+    0xf09c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wings_s = IconData(
-    57500,
+    0xe09c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wnxm = IconData(
-    62690,
+    0xf4e2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wnxm_s = IconData(
-    58594,
+    0xe4e2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wpr = IconData(
-    62346,
+    0xf38a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wpr_s = IconData(
-    58250,
+    0xe38a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wtc = IconData(
-    62233,
+    0xf319,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wtc_s = IconData(
-    58137,
+    0xe319,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wwb = IconData(
-    62429,
+    0xf3dd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wwb_s = IconData(
-    58333,
+    0xe3dd,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wxt = IconData(
-    62634,
+    0xf4aa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_wxt_s = IconData(
-    58538,
+    0xe4aa,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xas = IconData(
-    62430,
+    0xf3de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xas_s = IconData(
-    58334,
+    0xe3de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xaur = IconData(
-    62498,
+    0xf422,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xaur_s = IconData(
-    58402,
+    0xe422,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xaut = IconData(
-    62675,
+    0xf4d3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xaut_s = IconData(
-    58579,
+    0xe4d3,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xbc = IconData(
-    61563,
+    0xf07b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xbc_s = IconData(
-    57467,
+    0xe07b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xbt = IconData(
-    61470,
+    0xf01e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xbt_s = IconData(
-    57374,
+    0xe01e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xcon = IconData(
-    62589,
+    0xf47d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xcon_s = IconData(
-    58493,
+    0xe47d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xcp = IconData(
-    61564,
+    0xf07c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xcp_s = IconData(
-    57468,
+    0xe07c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xdg = IconData(
-    61482,
+    0xf02a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xdg_s = IconData(
-    57386,
+    0xe02a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xdn = IconData(
-    61600,
+    0xf0a0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xdn_s = IconData(
-    57504,
+    0xe0a0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xos = IconData(
-    62725,
+    0xf505,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xos_s = IconData(
-    58629,
+    0xe505,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xel = IconData(
-    61627,
+    0xf0bb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xel_s = IconData(
-    57531,
+    0xe0bb,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xem = IconData(
-    61565,
+    0xf07d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xem_s = IconData(
-    57469,
+    0xe07d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xes = IconData(
-    62557,
+    0xf45d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xes_s = IconData(
-    58461,
+    0xe45d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xhv = IconData(
-    62431,
+    0xf3df,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xhv_s = IconData(
-    58335,
+    0xe3df,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xin = IconData(
-    61597,
+    0xf09d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xin_s = IconData(
-    57501,
+    0xe09d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xlm = IconData(
-    62500,
+    0xf424,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xlm_s = IconData(
-    58404,
+    0xe424,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmc = IconData(
-    62636,
+    0xf4ac,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmc_s = IconData(
-    58540,
+    0xe4ac,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmr = IconData(
-    61566,
+    0xf07e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmr_s = IconData(
-    57470,
+    0xe07e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmx = IconData(
-    62558,
+    0xf45e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmx_s = IconData(
-    58462,
+    0xe45e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmy = IconData(
-    61650,
+    0xf0d2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xmy_s = IconData(
-    57554,
+    0xe0d2,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xnk = IconData(
-    62559,
+    0xf45f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xnk_s = IconData(
-    58463,
+    0xe45f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xns = IconData(
-    62670,
+    0xf4ce,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xns_s = IconData(
-    58574,
+    0xe4ce,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xpm = IconData(
-    61567,
+    0xf07f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xpm_s = IconData(
-    57471,
+    0xe07f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xpr = IconData(
-    62661,
+    0xf4c5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xpr_s = IconData(
-    58565,
+    0xe4c5,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xrc = IconData(
-    62638,
+    0xf4ae,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xrc_s = IconData(
-    58542,
+    0xe4ae,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xrp = IconData(
-    62364,
+    0xf39c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xrp_s = IconData(
-    58268,
+    0xe39c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xrpx = IconData(
-    61568,
+    0xf080,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xrpx_s = IconData(
-    57472,
+    0xe080,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xsc = IconData(
-    61547,
+    0xf06b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xsc_s = IconData(
-    57451,
+    0xe06b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xst = IconData(
-    62432,
+    0xf3e0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xst_s = IconData(
-    58336,
+    0xe3e0,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xtp = IconData(
-    62671,
+    0xf4cf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xtp_s = IconData(
-    58575,
+    0xe4cf,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xtz = IconData(
-    62234,
+    0xf31a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xtz_s = IconData(
-    58138,
+    0xe31a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xvc = IconData(
-    61569,
+    0xf081,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xvc_s = IconData(
-    57473,
+    0xe081,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xvg = IconData(
-    61570,
+    0xf082,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xvg_s = IconData(
-    57474,
+    0xe082,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xwc = IconData(
-    61623,
+    0xf0b7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xwc_s = IconData(
-    57527,
+    0xe0b7,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xyo = IconData(
-    62560,
+    0xf460,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xyo_s = IconData(
-    58464,
+    0xe460,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xzc = IconData(
-    61571,
+    0xf083,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_xzc_s = IconData(
-    57475,
+    0xe083,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yam = IconData(
-    62684,
+    0xf4dc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yam_s = IconData(
-    58588,
+    0xe4dc,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yee = IconData(
-    62561,
+    0xf461,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yee_s = IconData(
-    58465,
+    0xe461,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yeed = IconData(
-    62381,
+    0xf3ad,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yeed_s = IconData(
-    58285,
+    0xe3ad,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yfi = IconData(
-    62683,
+    0xf4db,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yfi_s = IconData(
-    58587,
+    0xe4db,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yfii = IconData(
-    62687,
+    0xf4df,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yfii_s = IconData(
-    58591,
+    0xe4df,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yoyow = IconData(
-    62235,
+    0xf31b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_yoyow_s = IconData(
-    58139,
+    0xe31b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zar = IconData(
-    61960,
+    0xf208,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zar_s = IconData(
-    57864,
+    0xe208,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zcl = IconData(
-    61606,
+    0xf0a6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zcl_s = IconData(
-    57510,
+    0xe0a6,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zcn = IconData(
-    62344,
+    0xf388,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zcn_s = IconData(
-    58248,
+    0xe388,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zco = IconData(
-    62499,
+    0xf423,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zco_s = IconData(
-    58403,
+    0xe423,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zec = IconData(
-    61572,
+    0xf084,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zec_s = IconData(
-    57476,
+    0xe084,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zen = IconData(
-    61573,
+    0xf085,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zen_s = IconData(
-    57477,
+    0xe085,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zil = IconData(
-    61612,
+    0xf0ac,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zil_s = IconData(
-    57516,
+    0xe0ac,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zla = IconData(
-    62623,
+    0xf49f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zla_s = IconData(
-    58527,
+    0xe49f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zpr = IconData(
-    62562,
+    0xf462,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zpr_s = IconData(
-    58466,
+    0xe462,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zpt = IconData(
-    62318,
+    0xf36e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zpt_s = IconData(
-    58222,
+    0xe36e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zrc = IconData(
-    62319,
+    0xf36f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zrc_s = IconData(
-    58223,
+    0xe36f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zrx = IconData(
-    61574,
+    0xf086,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zrx_s = IconData(
-    57478,
+    0xe086,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zsc = IconData(
-    62320,
+    0xf370,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const sym_zsc_s = IconData(
-    58224,
+    0xe370,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_d = IconData(
-    61696,
+    0xf100,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_d_s = IconData(
-    57600,
+    0xe100,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_default = IconData(
-    61696,
+    0xf100,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_default_s = IconData(
-    57600,
+    0xe100,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_deribit = IconData(
-    61741,
+    0xf12d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_deribit_s = IconData(
-    57645,
+    0xe12d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bibox = IconData(
-    57640,
+    0xe128,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bibox_s = IconData(
-    61736,
+    0xf128,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_binance = IconData(
-    61698,
+    0xf102,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_binance_s = IconData(
-    57602,
+    0xe102,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_binance_us = IconData(
-    61698,
+    0xf102,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_binance_us_s = IconData(
-    57602,
+    0xe102,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bisq = IconData(
-    61731,
+    0xf123,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bisq_s = IconData(
-    57635,
+    0xe123,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitbay = IconData(
-    61714,
+    0xf112,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitbay_s = IconData(
-    57618,
+    0xe112,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitfinex = IconData(
-    61699,
+    0xf103,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitfinex_s = IconData(
-    57603,
+    0xe103,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitflyer = IconData(
-    61700,
+    0xf104,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitflyer_s = IconData(
-    57604,
+    0xe104,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bithumb = IconData(
-    61718,
+    0xf116,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bithumb_s = IconData(
-    57622,
+    0xe116,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitmex = IconData(
-    61701,
+    0xf105,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitmex_s = IconData(
-    57605,
+    0xe105,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitso = IconData(
-    57641,
+    0xe129,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitso_s = IconData(
-    61737,
+    0xf129,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitsquare = IconData(
-    61702,
+    0xf106,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitsquare_s = IconData(
-    57606,
+    0xe106,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitstamp = IconData(
-    61703,
+    0xf107,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitstamp_s = IconData(
-    57607,
+    0xe107,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bittrex = IconData(
-    61704,
+    0xf108,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bittrex_s = IconData(
-    57608,
+    0xe108,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitvc = IconData(
-    61726,
+    0xf11e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitvc_s = IconData(
-    57630,
+    0xe11e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitz = IconData(
-    61721,
+    0xf119,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_bitz_s = IconData(
-    57625,
+    0xe119,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_btcchina = IconData(
-    61724,
+    0xf11c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_btcchina_s = IconData(
-    57628,
+    0xe11c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_btce = IconData(
-    61705,
+    0xf109,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_btce_s = IconData(
-    57609,
+    0xe109,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_cexio = IconData(
-    61706,
+    0xf10a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_cexio_s = IconData(
-    57610,
+    0xe10a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_coinone = IconData(
-    61716,
+    0xf114,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_coinone_s = IconData(
-    57620,
+    0xe114,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_cryptofacilities = IconData(
-    61729,
+    0xf121,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_cryptofacilities_s = IconData(
-    57633,
+    0xe121,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_coinbasepro = IconData(
-    61707,
+    0xf10b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_coinbasepro_s = IconData(
-    57611,
+    0xe10b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_coinbase_pro = IconData(
-    61707,
+    0xf10b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_coinbase_pro_s = IconData(
-    57611,
+    0xe10b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_dex_aggregated = IconData(
-    61739,
+    0xf12b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_dex_aggregated_s = IconData(
-    57643,
+    0xe12b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_gdax = IconData(
-    61707,
+    0xf10b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_gdax_s = IconData(
-    57611,
+    0xe10b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_gateio = IconData(
-    61722,
+    0xf11a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_gateio_s = IconData(
-    57626,
+    0xe11a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_gemini = IconData(
-    61708,
+    0xf10c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_gemini_s = IconData(
-    57612,
+    0xe10c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_hitbtc = IconData(
-    61717,
+    0xf115,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_hitbtc_s = IconData(
-    57621,
+    0xe115,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_huobi = IconData(
-    61720,
+    0xf118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_huobi_s = IconData(
-    57624,
+    0xe118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_kraken = IconData(
-    61697,
+    0xf101,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_kraken_s = IconData(
-    57601,
+    0xe101,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_kraken_futures = IconData(
-    61697,
+    0xf101,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_kraken_futures_s = IconData(
-    57601,
+    0xe101,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_kucoin = IconData(
-    61734,
+    0xf126,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_kucoin_s = IconData(
-    57638,
+    0xe126,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_liquid = IconData(
-    61730,
+    0xf122,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_liquid_s = IconData(
-    57634,
+    0xe122,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_luno = IconData(
-    61709,
+    0xf10d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_luno_s = IconData(
-    57613,
+    0xe10d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_mexbt = IconData(
-    61726,
+    0xf11e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_mexbt_s = IconData(
-    57630,
+    0xe11e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_mtgox = IconData(
-    61727,
+    0xf11f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_mtgox_s = IconData(
-    57631,
+    0xe11f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_mxc = IconData(
-    57642,
+    0xe12a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_mxc_s = IconData(
-    61738,
+    0xf12a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_okcoin = IconData(
-    61719,
+    0xf117,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_okcoin_s = IconData(
-    57623,
+    0xe117,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_okex = IconData(
-    61715,
+    0xf113,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_okex_s = IconData(
-    57619,
+    0xe113,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_poloniex = IconData(
-    61710,
+    0xf10e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_poloniex_s = IconData(
-    57614,
+    0xe10e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_qryptos = IconData(
-    61711,
+    0xf10f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_qryptos_s = IconData(
-    57615,
+    0xe10f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_quadrigacx = IconData(
-    61712,
+    0xf110,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_quadrigacx_s = IconData(
-    57616,
+    0xe110,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_quadriga = IconData(
-    61712,
+    0xf110,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_quadriga_s = IconData(
-    57616,
+    0xe110,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_quoine = IconData(
-    61713,
+    0xf111,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_quoine_s = IconData(
-    57617,
+    0xe111,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_totle = IconData(
-    61732,
+    0xf124,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_totle_s = IconData(
-    57636,
+    0xe124,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_upbit = IconData(
-    61733,
+    0xf125,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_upbit_s = IconData(
-    57637,
+    0xe125,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_vaultofsatoshi = IconData(
-    61725,
+    0xf11d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_vaultofsatoshi_s = IconData(
-    57629,
+    0xe11d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_wex = IconData(
-    61728,
+    0xf120,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_wex_s = IconData(
-    57632,
+    0xe120,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_zaif = IconData(
-    57639,
+    0xe127,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const exc_zaif_s = IconData(
-    61735,
+    0xf127,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_default = IconData(
-    61952,
+    0xf200,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_default_s = IconData(
-    57856,
+    0xe200,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_d = IconData(
-    61952,
+    0xf200,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_d_s = IconData(
-    57856,
+    0xe200,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_anct = IconData(
-    61978,
+    0xf21a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_anct_s = IconData(
-    57882,
+    0xe21a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_aud = IconData(
-    61956,
+    0xf204,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_aud_s = IconData(
-    57860,
+    0xe204,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_bnb = IconData(
-    61662,
+    0xf0de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_bnb_s = IconData(
-    57566,
+    0xe0de,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_btc = IconData(
-    61470,
+    0xf01e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_btc_s = IconData(
-    57374,
+    0xe01e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_busd = IconData(
-    61980,
+    0xf21c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_busd_s = IconData(
-    57884,
+    0xe21c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_bz = IconData(
-    61721,
+    0xf119,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_bz_s = IconData(
-    57625,
+    0xe119,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_cad = IconData(
-    61959,
+    0xf207,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_cad_s = IconData(
-    57863,
+    0xe207,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_chf = IconData(
-    61979,
+    0xf21b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_chf_s = IconData(
-    57883,
+    0xe21b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_cny = IconData(
-    61961,
+    0xf209,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_cny_s = IconData(
-    57865,
+    0xe209,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_crc = IconData(
-    61973,
+    0xf215,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_crc_s = IconData(
-    57877,
+    0xe215,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_dai = IconData(
-    61615,
+    0xf0af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_dai_s = IconData(
-    57519,
+    0xe0af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eos = IconData(
-    61489,
+    0xf031,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eos_s = IconData(
-    57393,
+    0xe031,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eth = IconData(
-    61491,
+    0xf033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eth_s = IconData(
-    57395,
+    0xe033,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eur = IconData(
-    61493,
+    0xf035,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eur_s = IconData(
-    57397,
+    0xe035,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eurs = IconData(
-    62452,
+    0xf3f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_eurs_s = IconData(
-    58356,
+    0xe3f4,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_gbp = IconData(
-    61958,
+    0xf206,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_gbp_s = IconData(
-    57862,
+    0xe206,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_gusd = IconData(
-    61708,
+    0xf10c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_gusd_s = IconData(
-    57612,
+    0xe10c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_hkd = IconData(
-    61963,
+    0xf20b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_hkd_s = IconData(
-    57867,
+    0xe20b,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_ht = IconData(
-    61720,
+    0xf118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_ht_s = IconData(
-    57624,
+    0xe118,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_idr = IconData(
-    61964,
+    0xf20c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_idr_s = IconData(
-    57868,
+    0xe20c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_inr = IconData(
-    61965,
+    0xf20d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_inr_s = IconData(
-    57869,
+    0xe20d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_jpy = IconData(
-    61954,
+    0xf202,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_jpy_s = IconData(
-    57858,
+    0xe202,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_krw = IconData(
-    61955,
+    0xf203,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_krw_s = IconData(
-    57859,
+    0xe203,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_lak = IconData(
-    61971,
+    0xf213,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_lak_s = IconData(
-    57875,
+    0xe213,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_mxn = IconData(
-    61977,
+    0xf219,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_mxn_s = IconData(
-    57881,
+    0xe219,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_myr = IconData(
-    61968,
+    0xf210,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_myr_s = IconData(
-    57872,
+    0xe210,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_ngn = IconData(
-    61969,
+    0xf211,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_ngn_s = IconData(
-    57873,
+    0xe211,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_pax = IconData(
-    62365,
+    0xf39d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_pax_s = IconData(
-    58269,
+    0xe39d,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_php = IconData(
-    61966,
+    0xf20e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_php_s = IconData(
-    57870,
+    0xe20e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_pln = IconData(
-    61967,
+    0xf20f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_pln_s = IconData(
-    57871,
+    0xe20f,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_qash = IconData(
-    62383,
+    0xf3af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_qash_s = IconData(
-    58287,
+    0xe3af,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_rub = IconData(
-    61957,
+    0xf205,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_rub_s = IconData(
-    57861,
+    0xe205,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_rur = IconData(
-    61957,
+    0xf205,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_rur_s = IconData(
-    57861,
+    0xe205,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_sek = IconData(
-    61972,
+    0xf214,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_sek_s = IconData(
-    57876,
+    0xe214,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_sgd = IconData(
-    61962,
+    0xf20a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_sgd_s = IconData(
-    57866,
+    0xe20a,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_thb = IconData(
-    61975,
+    0xf217,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_thb_s = IconData(
-    57879,
+    0xe217,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_try = IconData(
-    61970,
+    0xf212,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_try_s = IconData(
-    57874,
+    0xe212,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_trx = IconData(
-    61555,
+    0xf073,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_trx_s = IconData(
-    57459,
+    0xe073,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_tusd = IconData(
-    61576,
+    0xf088,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_tusd_s = IconData(
-    57480,
+    0xe088,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_uah = IconData(
-    61974,
+    0xf216,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_uah_s = IconData(
-    57878,
+    0xe216,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_usd = IconData(
-    61953,
+    0xf201,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_usd_s = IconData(
-    57857,
+    0xe201,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_usdc = IconData(
-    61976,
+    0xf218,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_usdc_s = IconData(
-    57880,
+    0xe218,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_usdt = IconData(
-    61556,
+    0xf074,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_usdt_s = IconData(
-    57460,
+    0xe074,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_xlm = IconData(
-    62500,
+    0xf424,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_xlm_s = IconData(
-    58404,
+    0xe424,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_xmr = IconData(
-    61566,
+    0xf07e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_xmr_s = IconData(
-    57470,
+    0xe07e,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_xrp = IconData(
-    62364,
+    0xf39c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_xrp_s = IconData(
-    58268,
+    0xe39c,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_zar = IconData(
-    61960,
+    0xf208,
     fontFamily: family,
     fontPackage: pkg,
   );
 
   static const cur_zar_s = IconData(
-    57864,
+    0xe208,
     fontFamily: family,
     fontPackage: pkg,
   );

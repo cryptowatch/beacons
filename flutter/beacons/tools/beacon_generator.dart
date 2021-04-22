@@ -1,69 +1,16 @@
 import 'package:code_builder/code_builder.dart';
 import 'package:dart_style/dart_style.dart';
-import 'dart:io';
+
+import './constants.dart';
 
 final emitter = DartEmitter();
 
-final scssVariables = '../../dist/_variables.scss';
-final outFile = './lib/beacons.g.dart';
-final fontFamily = 'Beacons';
-
-void main() async {
-  var variables = await File(scssVariables).readAsLines();
-  String output =
-      '/// This is generated file, please to not edit by hand! \n\n/// ${'=' * 40} \n\n';
-
-  output = '$output${BeaconGenerator.generateImports()} \n';
-
-  int start = variables.indexOf("\$beacons: (");
-  bool haveSymbolEntry = true;
-  int index = start + 1;
-
-  List<Field> fields = [];
-  List<String> iconsEntries = [];
-
-  while (haveSymbolEntry) {
-    if (variables[index].contains(');')) {
-      haveSymbolEntry = false;
-      break;
-    }
-    var rawString = variables[index].substring(0, variables[index].length - 1);
-
-    try {
-      var icon = BeaconGenerator.generateIconData(rawString);
-
-      fields.add(icon.generateSelfField());
-      iconsEntries.add(icon.mapEntry);
-    } on Exception catch (error, stack) {
-      print(
-        'A fatal name collision occured. Ignoring $rawString - this icon will not make it into the build. Error: $error, $stack',
-      );
-    }
-
-    index += 1;
-  }
-
-  var iconsField = Field(
-    (f) => f
-      ..name = 'icons'
-      ..static = true
-      ..type = Reference('Map<String, IconData>')
-      ..assignment = Code('{ ${iconsEntries.join(',')} }')
-      ..modifier = FieldModifier.constant,
-  );
-
-  output =
-      '$output\n${BeaconGenerator.generateBaseClass([iconsField, ...fields])}';
-
-  File(outFile).writeAsString(output);
-}
-
 class BeaconGenerator {
-  static _SymbolIconData generateIconData(String rawString) {
+  static SymbolIconData generateIconData(String rawString) {
     var parts = rawString.split(':');
     var name = parts[0].trim();
     var hex = parts[1].substring(0, parts[1].length).trim();
-    var iconData = _SymbolIconData(name, hex);
+    var iconData = SymbolIconData(name, hex);
 
     return iconData;
   }
@@ -108,15 +55,16 @@ class BeaconGenerator {
 
 Map<String, bool> conflicts = {};
 
-class _SymbolIconData {
+class SymbolIconData {
   String? name;
   String? staticName;
-  int? codePoint;
+  String? codePoint;
 
-  _SymbolIconData(String name, String hex) {
+  SymbolIconData(String name, String hex) {
     this.staticName = name.replaceAll('-', '_');
     this.name = _stringToName(name);
-    this.codePoint = _hexToCodePoint(hex);
+    this.codePoint = '0x$hex';
+    // _hexToCodePoint(hex);
   }
 
   static int _hexToCodePoint(String hex) {
