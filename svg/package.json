@@ -1,0 +1,13 @@
+{
+  "name": "beacons",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "font": "node -r esm ./scripts/makeFont.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "fantasticon": "^1.1.3"
+  }
+}
