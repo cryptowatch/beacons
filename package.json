@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "font": "node -r esm ./scripts/makeFont.js",
+    "build": "node -r esm ./scripts/build.js",
     "map": "node -r esm ./scripts/map.js",
     "hex": "node -r esm ./scripts/hex.js"
   },
