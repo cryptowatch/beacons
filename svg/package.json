@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "font": "node -r esm ./scripts/makeFont.js"
+    "font": "node -r esm ./scripts/makeFont.js",
+    "map": "node -r esm ./scripts/map.js"
   },
   "dependencies": {},
   "devDependencies": {
