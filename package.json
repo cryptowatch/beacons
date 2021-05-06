@@ -1,12 +1,15 @@
 {
   "name": "beacons",
-  "description": "Crypto icon font",
-  "version": "1.0.0",
-  "author": "cryptowat.ch",
-  "homepage": "cryptowat.ch",
-  "repository": "https://github.com/cryptowatch/beacons.git",
-  "license": "SIL Open Font License, Version 1.1",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "scss": "sass --watch dist/beacons.scss:dist/beacons.css"
+    "font": "node -r esm ./scripts/makeFont.js",
+    "map": "node -r esm ./scripts/map.js",
+    "hex": "node -r esm ./scripts/hex.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "fantasticon": "^1.1.3"
   }
 }

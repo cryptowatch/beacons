@@ -6,7 +6,6 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear",
-    "2json": "node -r esm ./scripts/scss2json.js",
     "names": "node -r esm ./scripts/getBeaconNames.js",
     "0names": "node -r esm ./scripts/getUnnamedBeacons.js",
     "+names": "node -r esm ./scripts/addHardcodedNames.js",

@@ -2,15 +2,14 @@
   import beacons from "../src/assets/beacons.json";
   import beaconNames from "../src/assets/beaconNames.json";
 
-  const beaconKeys = Object.keys(beacons).filter((key) => !key.includes(".s"));
+  const beaconKeys = Object.keys(beacons);
 
   let query = "";
-  let filters = { exchanges: true, symbols: true, currencies: true };
+  let filters = { exchanges: true, symbols: true };
 
   const filterFun = {
     exchanges: (key) => key.slice(0, 4) === "exc-",
     symbols: (key) => key.slice(0, 4) === "sym-",
-    currencies: (key) => key.slice(0, 4) === "cur-",
   };
 
   const iconsPerFilter = {};
@@ -44,10 +43,11 @@
 
   const groupTest = (beacon) => {
     const i = beaconKeys.indexOf(beacon);
-    if (i >= beaconKeys.length - 1) return false;
-    const nextBeacon = beaconKeys[i + 1];
-    const start = nextBeacon.slice(0, -2);
-    const isGroup = start === beacon && hasPostfix(nextBeacon);
+    if (i < 1) return false;
+    const prevBeacon = beaconKeys[i - 1];
+    // console.log(prevBeacon);
+    const start = prevBeacon.slice(0, -2);
+    const isGroup = start === beacon && hasPostfix(prevBeacon);
     return !!isGroup;
   };
 
@@ -64,6 +64,7 @@
     Object.assign(names, { [beacon]: name });
     Object.assign(groups, { [beacon]: group });
   });
+  console.log(groups);
 </script>
 
 <div class="container">
@@ -98,7 +99,7 @@
         <div class="beacon-container">
           <div class="name">{names[beacon]}</div>
           <div class="icon">
-            <i class={`beacon ${beacon}`} />
+            <i class={`beacon-${beacon}`} />
             <div class="text">
               <span class="prefix">{beacon.slice(0, 4)}</span><span class="main"
                 >{syms[beacon]}</span
@@ -106,11 +107,11 @@
             </div>
           </div>
           <div class="icon">
-            <i class={`beacon ${filteredBeacons[i + 1]}`} />
+            <i class={`beacon-${filteredBeacons[i - 1]}`} />
             <div class="text">
-              <span class="prefix">{filteredBeacons[i + 1].slice(0, 4)}</span
-              ><span class="main">{syms[filteredBeacons[i + 1]]}</span
-              >{#if hasPostfix(filteredBeacons[i + 1])}<span class="postfix"
+              <span class="prefix">{filteredBeacons[i - 1].slice(0, 4)}</span
+              ><span class="main">{syms[filteredBeacons[i - 1]]}</span
+              >{#if hasPostfix(filteredBeacons[i - 1])}<span class="postfix"
                   >-s</span
                 >{/if}
             </div>
@@ -176,7 +177,7 @@
         .icon {
           display: flex;
           align-items: center;
-          .beacon {
+          i {
             margin-right: 8px;
             font-size: 40px;
             color: var(--text);
