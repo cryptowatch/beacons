@@ -17,12 +17,10 @@
   font-weight: 400;
   font-stretch: expanded;
   font-style: normal;
-  src: url("/beacons/iosevka-custom/woff2/iosevka-custom-extended.woff2")
+  src: url("/iosevka-custom/woff2/iosevka-custom-extended.woff2")
       format("woff2"),
-    url("/beacons/iosevka-custom/woff/iosevka-custom-extended.woff")
-      format("woff"),
-    url("/beacons/iosevka-custom/ttf/iosevka-custom-extended.ttf")
-      format("truetype");
+    url("/iosevka-custom/woff/iosevka-custom-extended.woff") format("woff"),
+    url("/iosevka-custom/ttf/iosevka-custom-extended.ttf") format("truetype");
 }
 
 @font-face {
@@ -31,11 +29,10 @@
   font-weight: 700;
   font-stretch: expanded;
   font-style: normal;
-  src: url("/beacons/iosevka-custom/woff2/iosevka-custom-extendedbold.woff2")
+  src: url("/iosevka-custom/woff2/iosevka-custom-extendedbold.woff2")
       format("woff2"),
-    url("/beacons/iosevka-custom/woff/iosevka-custom-extendedbold.woff")
-      format("woff"),
-    url("/beacons/iosevka-custom/ttf/iosevka-custom-extendedbold.ttf")
+    url("/iosevka-custom/woff/iosevka-custom-extendedbold.woff") format("woff"),
+    url("/iosevka-custom/ttf/iosevka-custom-extendedbold.ttf")
       format("truetype");
 }
 
