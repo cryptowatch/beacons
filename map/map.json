@@ -169,5 +169,6 @@
   "exc-comex": "exc-cme",
   "exc-comex-s": "exc-cme-s",
   "sym-kshib": "sym-shib",
-  "sym-kshib-s": "sym-shib-s"
+  "sym-kshib-s": "sym-shib-s",
+  "sym-easy-s": "sym-easy"
 }
