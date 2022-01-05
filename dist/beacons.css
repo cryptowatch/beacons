@@ -17,6608 +17,7208 @@
 }
 
 .exc-_default-s:before {
-  content: "\f1b7";
+    content: "\f1b7"
 }
 .exc-_default:before {
-  content: "\f1b8";
+    content: "\f1b8"
 }
 .sym-_default-s:before {
-  content: "\f213";
+    content: "\f213"
 }
 .sym-_default:before {
-  content: "\f214";
+    content: "\f214"
 }
 .sym-d:before {
-  content: "\f214";
+    content: "\f214"
 }
 .sym-d-s:before {
-  content: "\f213";
+    content: "\f213"
 }
 .sym-default:before {
-  content: "\f214";
+    content: "\f214"
 }
 .sym-default-s:before {
-  content: "\f213";
+    content: "\f213"
 }
 .exc-d:before {
-  content: "\f1b8";
+    content: "\f1b8"
 }
 .exc-d-s:before {
-  content: "\f1b7";
+    content: "\f1b7"
 }
 .exc-default:before {
-  content: "\f1b8";
+    content: "\f1b8"
 }
 .exc-default-s:before {
-  content: "\f1b7";
+    content: "\f1b7"
 }
 .cur-default:before {
-  content: "\f214";
+    content: "\f214"
 }
 .cur-default-s:before {
-  content: "\f213";
+    content: "\f213"
 }
 .eqt-aal-s:before {
-  content: "\f101";
+    content: "\f101"
 }
 .eqt-aal:before {
-  content: "\f102";
+    content: "\f102"
 }
 .eqt-aapl-s:before {
-  content: "\f103";
+    content: "\f103"
 }
 .eqt-aapl:before {
-  content: "\f104";
+    content: "\f104"
 }
 .eqt-abnb-s:before {
-  content: "\f105";
+    content: "\f105"
 }
 .eqt-abnb:before {
-  content: "\f106";
+    content: "\f106"
 }
 .eqt-acb-s:before {
-  content: "\f107";
+    content: "\f107"
 }
 .eqt-acb:before {
-  content: "\f108";
+    content: "\f108"
 }
 .eqt-amc-s:before {
-  content: "\f109";
+    content: "\f109"
 }
 .eqt-amc:before {
-  content: "\f10a";
+    content: "\f10a"
 }
 .eqt-amd-s:before {
-  content: "\f10b";
+    content: "\f10b"
 }
 .eqt-amd:before {
-  content: "\f10c";
+    content: "\f10c"
 }
 .eqt-amzn-s:before {
-  content: "\f10d";
+    content: "\f10d"
 }
 .eqt-amzn:before {
-  content: "\f10e";
+    content: "\f10e"
 }
 .eqt-apha-s:before {
-  content: "\f10f";
+    content: "\f10f"
 }
 .eqt-apha:before {
-  content: "\f110";
+    content: "\f110"
 }
 .eqt-azn-s:before {
-  content: "\f111";
+    content: "\f111"
 }
 .eqt-azn:before {
-  content: "\f112";
+    content: "\f112"
 }
 .eqt-ba-s:before {
-  content: "\f113";
+    content: "\f113"
 }
 .eqt-ba:before {
-  content: "\f114";
+    content: "\f114"
 }
 .eqt-baba-s:before {
-  content: "\f115";
+    content: "\f115"
 }
 .eqt-baba:before {
-  content: "\f116";
+    content: "\f116"
 }
 .eqt-bb-s:before {
-  content: "\f117";
+    content: "\f117"
 }
 .eqt-bb:before {
-  content: "\f118";
+    content: "\f118"
 }
 .eqt-bidu-s:before {
-  content: "\f119";
+    content: "\f119"
 }
 .eqt-bidu:before {
-  content: "\f11a";
+    content: "\f11a"
 }
 .eqt-bili-s:before {
-  content: "\f11b";
+    content: "\f11b"
 }
 .eqt-bili:before {
-  content: "\f11c";
+    content: "\f11c"
 }
 .eqt-blnk-s:before {
-  content: "\f11d";
+    content: "\f11d"
 }
 .eqt-blnk:before {
-  content: "\f11e";
+    content: "\f11e"
 }
 .eqt-bngo-s:before {
-  content: "\f11f";
+    content: "\f11f"
 }
 .eqt-bngo:before {
-  content: "\f120";
+    content: "\f120"
 }
 .eqt-bp-s:before {
-  content: "\f121";
+    content: "\f121"
 }
 .eqt-bp:before {
-  content: "\f122";
+    content: "\f122"
 }
 .eqt-brka-s:before {
-  content: "\f123";
+    content: "\f123"
 }
 .eqt-brka:before {
-  content: "\f124";
+    content: "\f124"
 }
 .eqt-bynd-s:before {
-  content: "\f125";
+    content: "\f125"
 }
 .eqt-bynd:before {
-  content: "\f126";
+    content: "\f126"
 }
 .eqt-cciv-s:before {
-  content: "\f127";
+    content: "\f127"
 }
 .eqt-cciv:before {
-  content: "\f128";
+    content: "\f128"
 }
 .eqt-ccl-s:before {
-  content: "\f129";
+    content: "\f129"
 }
 .eqt-ccl:before {
-  content: "\f12a";
+    content: "\f12a"
 }
 .eqt-cgc-s:before {
-  content: "\f12b";
+    content: "\f12b"
 }
 .eqt-cgc:before {
-  content: "\f12c";
+    content: "\f12c"
 }
 .eqt-coin-s:before {
-  content: "\f12d";
+    content: "\f12d"
 }
 .eqt-coin:before {
-  content: "\f12e";
+    content: "\f12e"
 }
 .eqt-cprx-s:before {
-  content: "\f12f";
+    content: "\f12f"
 }
 .eqt-cprx:before {
-  content: "\f130";
+    content: "\f130"
 }
 .eqt-crm-s:before {
-  content: "\f131";
+    content: "\f131"
 }
 .eqt-crm:before {
-  content: "\f132";
+    content: "\f132"
 }
 .eqt-cron-s:before {
-  content: "\f133";
+    content: "\f133"
 }
 .eqt-cron:before {
-  content: "\f134";
+    content: "\f134"
 }
 .eqt-dal-s:before {
-  content: "\f135";
+    content: "\f135"
 }
 .eqt-dal:before {
-  content: "\f136";
+    content: "\f136"
 }
 .eqt-db-s:before {
-  content: "\f137";
+    content: "\f137"
 }
 .eqt-db:before {
-  content: "\f138";
+    content: "\f138"
 }
 .eqt-dis-s:before {
-  content: "\f139";
+    content: "\f139"
 }
 .eqt-dis:before {
-  content: "\f13a";
+    content: "\f13a"
 }
 .eqt-dkng-s:before {
-  content: "\f13b";
+    content: "\f13b"
 }
 .eqt-dkng:before {
-  content: "\f13c";
+    content: "\f13c"
 }
 .eqt-et-s:before {
-  content: "\f13d";
+    content: "\f13d"
 }
 .eqt-et:before {
-  content: "\f13e";
+    content: "\f13e"
 }
 .eqt-etf-s:before {
-  content: "\f13f";
+    content: "\f13f"
 }
 .eqt-etf:before {
-  content: "\f140";
+    content: "\f140"
 }
 .eqt-f-s:before {
-  content: "\f141";
+    content: "\f141"
 }
 .eqt-f:before {
-  content: "\f142";
+    content: "\f142"
 }
 .eqt-fb-s:before {
-  content: "\f143";
+    content: "\f143"
 }
 .eqt-fb:before {
-  content: "\f144";
+    content: "\f144"
 }
 .eqt-fcel-s:before {
-  content: "\f145";
+    content: "\f145"
 }
 .eqt-fcel:before {
-  content: "\f146";
+    content: "\f146"
 }
 .eqt-fubo-s:before {
-  content: "\f147";
+    content: "\f147"
 }
 .eqt-fubo:before {
-  content: "\f148";
+    content: "\f148"
 }
 .eqt-ge-s:before {
-  content: "\f149";
+    content: "\f149"
 }
 .eqt-ge:before {
-  content: "\f14a";
+    content: "\f14a"
 }
 .eqt-gm-s:before {
-  content: "\f14b";
+    content: "\f14b"
 }
 .eqt-gm:before {
-  content: "\f14c";
+    content: "\f14c"
 }
 .eqt-gme-s:before {
-  content: "\f14d";
+    content: "\f14d"
 }
 .eqt-gme:before {
-  content: "\f14e";
+    content: "\f14e"
 }
 .eqt-googl-s:before {
-  content: "\f14f";
+    content: "\f14f"
 }
 .eqt-googl:before {
-  content: "\f150";
+    content: "\f150"
 }
 .eqt-gpro-s:before {
-  content: "\f151";
+    content: "\f151"
 }
 .eqt-gpro:before {
-  content: "\f152";
+    content: "\f152"
 }
 .eqt-gs-s:before {
-  content: "\f153";
+    content: "\f153"
 }
 .eqt-gs:before {
-  content: "\f154";
+    content: "\f154"
 }
 .eqt-hood-s:before {
-  content: "\f155";
+    content: "\f155"
 }
 .eqt-hood:before {
-  content: "\f156";
+    content: "\f156"
 }
 .eqt-idex-s:before {
-  content: "\f157";
+    content: "\f157"
 }
 .eqt-idex:before {
-  content: "\f158";
+    content: "\f158"
 }
 .eqt-ino-s:before {
-  content: "\f159";
+    content: "\f159"
 }
 .eqt-ino:before {
-  content: "\f15a";
+    content: "\f15a"
 }
 .eqt-intc-s:before {
-  content: "\f15b";
+    content: "\f15b"
 }
 .eqt-intc:before {
-  content: "\f15c";
+    content: "\f15c"
 }
 .eqt-jnj-s:before {
-  content: "\f15d";
+    content: "\f15d"
 }
 .eqt-jnj:before {
-  content: "\f15e";
+    content: "\f15e"
 }
 .eqt-jpm-s:before {
-  content: "\f15f";
+    content: "\f15f"
 }
 .eqt-jpm:before {
-  content: "\f160";
+    content: "\f160"
 }
 .eqt-ko-s:before {
-  content: "\f161";
+    content: "\f161"
 }
 .eqt-ko:before {
-  content: "\f162";
+    content: "\f162"
 }
 .eqt-mrna-s:before {
-  content: "\f163";
+    content: "\f163"
 }
 .eqt-mrna:before {
-  content: "\f164";
+    content: "\f164"
 }
 .eqt-mro-s:before {
-  content: "\f165";
+    content: "\f165"
 }
 .eqt-mro:before {
-  content: "\f166";
+    content: "\f166"
 }
 .eqt-msft-s:before {
-  content: "\f167";
+    content: "\f167"
 }
 .eqt-msft:before {
-  content: "\f168";
+    content: "\f168"
 }
 .eqt-mstr-s:before {
-  content: "\f169";
+    content: "\f169"
 }
 .eqt-mstr:before {
-  content: "\f16a";
+    content: "\f16a"
 }
 .eqt-nclh-s:before {
-  content: "\f16b";
+    content: "\f16b"
 }
 .eqt-nclh:before {
-  content: "\f16c";
+    content: "\f16c"
 }
 .eqt-nflx-s:before {
-  content: "\f16d";
+    content: "\f16d"
 }
 .eqt-nflx:before {
-  content: "\f16e";
+    content: "\f16e"
 }
 .eqt-nio-s:before {
-  content: "\f16f";
+    content: "\f16f"
 }
 .eqt-nio:before {
-  content: "\f170";
+    content: "\f170"
 }
 .eqt-nke-s:before {
-  content: "\f171";
+    content: "\f171"
 }
 .eqt-nke:before {
-  content: "\f172";
+    content: "\f172"
 }
 .eqt-nkla-s:before {
-  content: "\f173";
+    content: "\f173"
 }
 .eqt-nkla:before {
-  content: "\f174";
+    content: "\f174"
 }
 .eqt-nok-s:before {
-  content: "\f175";
+    content: "\f175"
 }
 .eqt-nok:before {
-  content: "\f176";
+    content: "\f176"
 }
 .eqt-nrz-s:before {
-  content: "\f177";
+    content: "\f177"
 }
 .eqt-nrz:before {
-  content: "\f178";
+    content: "\f178"
 }
 .eqt-nvda-s:before {
-  content: "\f179";
+    content: "\f179"
 }
 .eqt-nvda:before {
-  content: "\f17a";
+    content: "\f17a"
 }
 .eqt-ocgn-s:before {
-  content: "\f17b";
+    content: "\f17b"
 }
 .eqt-ocgn:before {
-  content: "\f17c";
+    content: "\f17c"
 }
 .eqt-penn-s:before {
-  content: "\f17d";
+    content: "\f17d"
 }
 .eqt-penn:before {
-  content: "\f17e";
+    content: "\f17e"
 }
 .eqt-pfe-s:before {
-  content: "\f17f";
+    content: "\f17f"
 }
 .eqt-pfe:before {
-  content: "\f180";
+    content: "\f180"
 }
 .eqt-pltr-s:before {
-  content: "\f181";
+    content: "\f181"
 }
 .eqt-pltr:before {
-  content: "\f182";
+    content: "\f182"
 }
 .eqt-plug-s:before {
-  content: "\f183";
+    content: "\f183"
 }
 .eqt-plug:before {
-  content: "\f184";
+    content: "\f184"
 }
 .eqt-pton-s:before {
-  content: "\f185";
+    content: "\f185"
 }
 .eqt-pton:before {
-  content: "\f186";
+    content: "\f186"
 }
 .eqt-pypl-s:before {
-  content: "\f187";
+    content: "\f187"
 }
 .eqt-pypl:before {
-  content: "\f188";
+    content: "\f188"
 }
 .eqt-qs-s:before {
-  content: "\f189";
+    content: "\f189"
 }
 .eqt-qs:before {
-  content: "\f18a";
+    content: "\f18a"
 }
 .eqt-rcl-s:before {
-  content: "\f18b";
+    content: "\f18b"
 }
 .eqt-rcl:before {
-  content: "\f18c";
+    content: "\f18c"
 }
 .eqt-riot-s:before {
-  content: "\f18d";
+    content: "\f18d"
 }
 .eqt-riot:before {
-  content: "\f18e";
+    content: "\f18e"
 }
 .eqt-san-s:before {
-  content: "\f18f";
+    content: "\f18f"
 }
 .eqt-san:before {
-  content: "\f190";
+    content: "\f190"
+}
+.eqt-sap-s:before {
+    content: "\f191"
+}
+.eqt-sap:before {
+    content: "\f192"
+}
+.eqt-sbux-s:before {
+    content: "\f193"
+}
+.eqt-sbux:before {
+    content: "\f194"
+}
+.eqt-shop-s:before {
+    content: "\f195"
+}
+.eqt-shop:before {
+    content: "\f196"
+}
+.eqt-snap-s:before {
+    content: "\f197"
+}
+.eqt-snap:before {
+    content: "\f198"
+}
+.eqt-spce-s:before {
+    content: "\f199"
+}
+.eqt-spce:before {
+    content: "\f19a"
+}
+.eqt-sq-s:before {
+    content: "\f19b"
+}
+.eqt-sq:before {
+    content: "\f19c"
+}
+.eqt-tlry-s:before {
+    content: "\f19d"
+}
+.eqt-tlry:before {
+    content: "\f19e"
+}
+.eqt-tsla-s:before {
+    content: "\f19f"
+}
+.eqt-tsla:before {
+    content: "\f1a0"
+}
+.eqt-tsm-s:before {
+    content: "\f1a1"
+}
+.eqt-tsm:before {
+    content: "\f1a2"
+}
+.eqt-twtr-s:before {
+    content: "\f1a3"
+}
+.eqt-twtr:before {
+    content: "\f1a4"
+}
+.eqt-ual-s:before {
+    content: "\f1a5"
+}
+.eqt-ual:before {
+    content: "\f1a6"
+}
+.eqt-uber-s:before {
+    content: "\f1a7"
+}
+.eqt-uber:before {
+    content: "\f1a8"
+}
+.eqt-ubs-s:before {
+    content: "\f1a9"
+}
+.eqt-ubs:before {
+    content: "\f1aa"
+}
+.eqt-ul-s:before {
+    content: "\f1ab"
+}
+.eqt-ul:before {
+    content: "\f1ac"
+}
+.eqt-vod-s:before {
+    content: "\f1ad"
+}
+.eqt-vod:before {
+    content: "\f1ae"
+}
+.eqt-wmt-s:before {
+    content: "\f1af"
+}
+.eqt-wmt:before {
+    content: "\f1b0"
+}
+.eqt-xom-s:before {
+    content: "\f1b1"
+}
+.eqt-xom:before {
+    content: "\f1b2"
+}
+.eqt-xpev-s:before {
+    content: "\f1b3"
+}
+.eqt-xpev:before {
+    content: "\f1b4"
+}
+.eqt-zm-s:before {
+    content: "\f1b5"
+}
+.eqt-zm:before {
+    content: "\f1b6"
+}
+.exc-axieinfinity-s:before {
+    content: "\f1b9"
+}
+.exc-axieinfinity:before {
+    content: "\f1ba"
+}
+.exc-bibox-s:before {
+    content: "\f1bb"
+}
+.exc-bibox:before {
+    content: "\f1bc"
+}
+.exc-binance-s:before {
+    content: "\f1bd"
+}
+.exc-binance:before {
+    content: "\f1be"
+}
+.exc-bisq-s:before {
+    content: "\f1bf"
+}
+.exc-bisq:before {
+    content: "\f1c0"
+}
+.exc-bitbay-s:before {
+    content: "\f1c1"
+}
+.exc-bitbay:before {
+    content: "\f1c2"
+}
+.exc-bitfinex-s:before {
+    content: "\f1c3"
+}
+.exc-bitfinex:before {
+    content: "\f1c4"
+}
+.exc-bitflyer-s:before {
+    content: "\f1c5"
+}
+.exc-bitflyer:before {
+    content: "\f1c6"
+}
+.exc-bithumb-s:before {
+    content: "\f1c7"
+}
+.exc-bithumb:before {
+    content: "\f1c8"
+}
+.exc-bitmex-s:before {
+    content: "\f1c9"
+}
+.exc-bitmex:before {
+    content: "\f1ca"
+}
+.exc-bitso-s:before {
+    content: "\f1cb"
+}
+.exc-bitso:before {
+    content: "\f1cc"
+}
+.exc-bitsquare-s:before {
+    content: "\f1cd"
+}
+.exc-bitsquare:before {
+    content: "\f1ce"
+}
+.exc-bitstamp-s:before {
+    content: "\f1cf"
+}
+.exc-bitstamp:before {
+    content: "\f1d0"
+}
+.exc-bittrex-s:before {
+    content: "\f1d1"
+}
+.exc-bittrex:before {
+    content: "\f1d2"
+}
+.exc-bitvc-s:before {
+    content: "\f1d3"
+}
+.exc-bitvc:before {
+    content: "\f1d4"
+}
+.exc-btcchina-s:before {
+    content: "\f1d5"
+}
+.exc-btcchina:before {
+    content: "\f1d6"
+}
+.exc-btce-s:before {
+    content: "\f1d7"
+}
+.exc-btce:before {
+    content: "\f1d8"
+}
+.exc-cexio-s:before {
+    content: "\f1d9"
+}
+.exc-cexio:before {
+    content: "\f1da"
+}
+.exc-cme-s:before {
+    content: "\f1db"
+}
+.exc-cme:before {
+    content: "\f1dc"
+}
+.exc-coinbasepro-s:before {
+    content: "\f1dd"
+}
+.exc-coinbasepro:before {
+    content: "\f1de"
+}
+.exc-coinone-s:before {
+    content: "\f1df"
+}
+.exc-coinone:before {
+    content: "\f1e0"
+}
+.exc-cryptofacilities-s:before {
+    content: "\f1e1"
+}
+.exc-cryptofacilities:before {
+    content: "\f1e2"
+}
+.exc-deribit-s:before {
+    content: "\f1e3"
+}
+.exc-deribit:before {
+    content: "\f1e4"
+}
+.exc-dex-aggregated-s:before {
+    content: "\f1e5"
+}
+.exc-dex-aggregated:before {
+    content: "\f1e6"
+}
+.exc-gateio-s:before {
+    content: "\f1e7"
+}
+.exc-gateio:before {
+    content: "\f1e8"
+}
+.exc-hitbtc-s:before {
+    content: "\f1e9"
+}
+.exc-hitbtc:before {
+    content: "\f1ea"
+}
+.exc-kucoin-s:before {
+    content: "\f1eb"
+}
+.exc-kucoin:before {
+    content: "\f1ec"
+}
+.exc-liquid-s:before {
+    content: "\f1ed"
+}
+.exc-liquid:before {
+    content: "\f1ee"
+}
+.exc-luno-s:before {
+    content: "\f1ef"
+}
+.exc-luno:before {
+    content: "\f1f0"
+}
+.exc-mtgox-s:before {
+    content: "\f1f1"
+}
+.exc-mtgox:before {
+    content: "\f1f2"
+}
+.exc-mxc-s:before {
+    content: "\f1f3"
+}
+.exc-mxc:before {
+    content: "\f1f4"
+}
+.exc-nbatopshop-s:before {
+    content: "\f1f5"
+}
+.exc-nbatopshop:before {
+    content: "\f1f6"
+}
+.exc-okcoin-s:before {
+    content: "\f1f7"
+}
+.exc-okcoin:before {
+    content: "\f1f8"
+}
+.exc-okex-s:before {
+    content: "\f1f9"
+}
+.exc-okex:before {
+    content: "\f1fa"
+}
+.exc-opensea-s:before {
+    content: "\f1fb"
+}
+.exc-opensea:before {
+    content: "\f1fc"
+}
+.exc-poloniex-s:before {
+    content: "\f1fd"
+}
+.exc-poloniex:before {
+    content: "\f1fe"
+}
+.exc-qryptos-s:before {
+    content: "\f1ff"
+}
+.exc-qryptos:before {
+    content: "\f200"
+}
+.exc-quadrigacx-s:before {
+    content: "\f201"
+}
+.exc-quadrigacx:before {
+    content: "\f202"
+}
+.exc-quoine-s:before {
+    content: "\f203"
+}
+.exc-quoine:before {
+    content: "\f204"
+}
+.exc-rarible-s:before {
+    content: "\f205"
+}
+.exc-rarible:before {
+    content: "\f206"
+}
+.exc-superrare-s:before {
+    content: "\f207"
+}
+.exc-superrare:before {
+    content: "\f208"
+}
+.exc-totle-s:before {
+    content: "\f209"
+}
+.exc-totle:before {
+    content: "\f20a"
+}
+.exc-upbit-s:before {
+    content: "\f20b"
+}
+.exc-upbit:before {
+    content: "\f20c"
+}
+.exc-vaultofsatoshi-s:before {
+    content: "\f20d"
+}
+.exc-vaultofsatoshi:before {
+    content: "\f20e"
+}
+.exc-wex-s:before {
+    content: "\f20f"
+}
+.exc-wex:before {
+    content: "\f210"
+}
+.exc-zaif-s:before {
+    content: "\f211"
+}
+.exc-zaif:before {
+    content: "\f212"
+}
+.sym-1inch-s:before {
+    content: "\f215"
+}
+.sym-1inch:before {
+    content: "\f216"
+}
+.sym-1st-s:before {
+    content: "\f217"
+}
+.sym-1st:before {
+    content: "\f218"
+}
+.sym-6a-s:before {
+    content: "\f219"
+}
+.sym-6a:before {
+    content: "\f21a"
+}
+.sym-6b-s:before {
+    content: "\f21b"
+}
+.sym-6b:before {
+    content: "\f21c"
+}
+.sym-6c-s:before {
+    content: "\f21d"
+}
+.sym-6c:before {
+    content: "\f21e"
+}
+.sym-6e-s:before {
+    content: "\f21f"
+}
+.sym-6e:before {
+    content: "\f220"
+}
+.sym-6j-s:before {
+    content: "\f221"
+}
+.sym-6j:before {
+    content: "\f222"
+}
+.sym-6l-s:before {
+    content: "\f223"
+}
+.sym-6l:before {
+    content: "\f224"
+}
+.sym-6m-s:before {
+    content: "\f225"
+}
+.sym-6m:before {
+    content: "\f226"
+}
+.sym-6n-s:before {
+    content: "\f227"
+}
+.sym-6n:before {
+    content: "\f228"
+}
+.sym-6s-s:before {
+    content: "\f229"
+}
+.sym-6s:before {
+    content: "\f22a"
+}
+.sym-a38-s:before {
+    content: "\f22b"
+}
+.sym-a38:before {
+    content: "\f22c"
+}
+.sym-aac-s:before {
+    content: "\f22d"
+}
+.sym-aac:before {
+    content: "\f22e"
+}
+.sym-aave-s:before {
+    content: "\f22f"
+}
+.sym-aave:before {
+    content: "\f230"
+}
+.sym-abbc-s:before {
+    content: "\f231"
+}
+.sym-abbc:before {
+    content: "\f232"
+}
+.sym-abt-s:before {
+    content: "\f233"
+}
+.sym-abt:before {
+    content: "\f234"
+}
+.sym-abyss-s:before {
+    content: "\f235"
+}
+.sym-abyss:before {
+    content: "\f236"
+}
+.sym-aca-s:before {
+    content: "\f237"
+}
+.sym-aca:before {
+    content: "\f238"
+}
+.sym-acat-s:before {
+    content: "\f239"
+}
+.sym-acat:before {
+    content: "\f23a"
+}
+.sym-ach-s:before {
+    content: "\f23b"
+}
+.sym-ach:before {
+    content: "\f23c"
+}
+.sym-act-s:before {
+    content: "\f23d"
+}
+.sym-act:before {
+    content: "\f23e"
+}
+.sym-ada-s:before {
+    content: "\f23f"
+}
+.sym-ada:before {
+    content: "\f240"
+}
+.sym-adel-s:before {
+    content: "\f241"
+}
+.sym-adel:before {
+    content: "\f242"
+}
+.sym-adh-s:before {
+    content: "\f243"
+}
+.sym-adh:before {
+    content: "\f244"
+}
+.sym-adm-s:before {
+    content: "\f245"
+}
+.sym-adm:before {
+    content: "\f246"
 }
 .sym-ado-s:before {
-  content: "\f191";
+    content: "\f247"
 }
 .sym-ado:before {
-  content: "\f192";
+    content: "\f248"
 }
 .sym-adt-s:before {
-  content: "\f193";
+    content: "\f249"
 }
 .sym-adt:before {
-  content: "\f194";
+    content: "\f24a"
 }
 .sym-adx-s:before {
-  content: "\f195";
+    content: "\f24b"
 }
 .sym-adx:before {
-  content: "\f196";
+    content: "\f24c"
 }
 .sym-ae-s:before {
-  content: "\f197";
+    content: "\f24d"
 }
 .sym-ae:before {
-  content: "\f198";
+    content: "\f24e"
 }
 .sym-aeon-s:before {
-  content: "\f199";
+    content: "\f24f"
 }
 .sym-aeon:before {
-  content: "\f19a";
+    content: "\f250"
 }
 .sym-aep-s:before {
-  content: "\f19b";
+    content: "\f251"
 }
 .sym-aep:before {
-  content: "\f19c";
+    content: "\f252"
 }
 .sym-aergo-s:before {
-  content: "\f19d";
+    content: "\f253"
 }
 .sym-aergo:before {
-  content: "\f19e";
+    content: "\f254"
 }
 .sym-agi-s:before {
-  content: "\f19f";
+    content: "\f255"
 }
 .sym-agi:before {
-  content: "\f1a0";
+    content: "\f256"
 }
 .sym-aid-s:before {
-  content: "\f1a1";
+    content: "\f257"
 }
 .sym-aid:before {
-  content: "\f1a2";
+    content: "\f258"
 }
 .sym-aion-s:before {
-  content: "\f1a3";
+    content: "\f259"
 }
 .sym-aion:before {
-  content: "\f1a4";
+    content: "\f25a"
 }
 .sym-air-s:before {
-  content: "\f1a5";
+    content: "\f25b"
 }
 .sym-air:before {
-  content: "\f1a6";
+    content: "\f25c"
 }
 .sym-akro-s:before {
-  content: "\f1a7";
+    content: "\f25d"
 }
 .sym-akro:before {
-  content: "\f1a8";
+    content: "\f25e"
+}
+.sym-akt-s:before {
+    content: "\f25f"
+}
+.sym-akt:before {
+    content: "\f260"
 }
 .sym-algo-s:before {
-  content: "\f1a9";
+    content: "\f261"
 }
 .sym-algo:before {
-  content: "\f1aa";
+    content: "\f262"
 }
 .sym-ali-s:before {
-  content: "\f1ab";
+    content: "\f263"
 }
 .sym-ali:before {
-  content: "\f1ac";
+    content: "\f264"
 }
 .sym-alpha-s:before {
-  content: "\f1ad";
+    content: "\f265"
 }
 .sym-alpha:before {
-  content: "\f1ae";
+    content: "\f266"
 }
 .sym-amb-s:before {
-  content: "\f1af";
+    content: "\f267"
 }
 .sym-amb:before {
-  content: "\f1b0";
+    content: "\f268"
 }
 .sym-amlt-s:before {
-  content: "\f1b1";
+    content: "\f269"
 }
 .sym-amlt:before {
-  content: "\f1b2";
+    content: "\f26a"
 }
 .sym-amp-s:before {
-  content: "\f1b3";
+    content: "\f26b"
 }
 .sym-amp:before {
-  content: "\f1b4";
+    content: "\f26c"
 }
 .sym-ampl-s:before {
-  content: "\f1b5";
+    content: "\f26d"
 }
 .sym-ampl:before {
-  content: "\f1b6";
+    content: "\f26e"
 }
 .sym-anct-s:before {
-  content: "\f1b7";
+    content: "\f26f"
 }
 .sym-anct:before {
-  content: "\f1b8";
+    content: "\f270"
 }
 .sym-ankr-s:before {
-  content: "\f1b9";
+    content: "\f271"
 }
 .sym-ankr:before {
-  content: "\f1ba";
+    content: "\f272"
 }
 .sym-ant-s:before {
-  content: "\f1bb";
+    content: "\f273"
 }
 .sym-ant:before {
-  content: "\f1bc";
+    content: "\f274"
 }
 .sym-api3-s:before {
-  content: "\f1bd";
+    content: "\f275"
 }
 .sym-api3:before {
-  content: "\f1be";
+    content: "\f276"
 }
 .sym-apis-s:before {
-  content: "\f1bf";
+    content: "\f277"
 }
 .sym-apis:before {
-  content: "\f1c0";
+    content: "\f278"
 }
 .sym-appc-s:before {
-  content: "\f1c1";
+    content: "\f279"
 }
 .sym-appc:before {
-  content: "\f1c2";
+    content: "\f27a"
 }
 .sym-ar-s:before {
-  content: "\f1c3";
+    content: "\f27b"
 }
 .sym-ar:before {
-  content: "\f1c4";
+    content: "\f27c"
 }
 .sym-ardr-s:before {
-  content: "\f1c5";
+    content: "\f27d"
 }
 .sym-ardr:before {
-  content: "\f1c6";
+    content: "\f27e"
 }
 .sym-ark-s:before {
-  content: "\f1c7";
+    content: "\f27f"
 }
 .sym-ark:before {
-  content: "\f1c8";
+    content: "\f280"
 }
 .sym-arn-s:before {
-  content: "\f1c9";
+    content: "\f281"
 }
 .sym-arn:before {
-  content: "\f1ca";
+    content: "\f282"
 }
 .sym-arpa-s:before {
-  content: "\f1cb";
+    content: "\f283"
 }
 .sym-arpa:before {
-  content: "\f1cc";
+    content: "\f284"
 }
 .sym-art-s:before {
-  content: "\f1cd";
+    content: "\f285"
 }
 .sym-art:before {
-  content: "\f1ce";
+    content: "\f286"
 }
 .sym-aspt-s:before {
-  content: "\f1cf";
+    content: "\f287"
 }
 .sym-aspt:before {
-  content: "\f1d0";
+    content: "\f288"
 }
 .sym-ast-s:before {
-  content: "\f1d1";
+    content: "\f289"
 }
 .sym-ast:before {
-  content: "\f1d2";
+    content: "\f28a"
 }
 .sym-astr-s:before {
-  content: "\f1d3";
+    content: "\f28b"
 }
 .sym-astr:before {
-  content: "\f1d4";
+    content: "\f28c"
 }
 .sym-at-s:before {
-  content: "\f1d5";
+    content: "\f28d"
 }
 .sym-at:before {
-  content: "\f1d6";
+    content: "\f28e"
+}
+.sym-atlas-s:before {
+    content: "\f28f"
+}
+.sym-atlas:before {
+    content: "\f290"
 }
 .sym-atm-s:before {
-  content: "\f1d7";
+    content: "\f291"
 }
 .sym-atm:before {
-  content: "\f1d8";
+    content: "\f292"
 }
 .sym-atom-s:before {
-  content: "\f1d9";
+    content: "\f293"
 }
 .sym-atom:before {
-  content: "\f1da";
+    content: "\f294"
 }
 .sym-atp-s:before {
-  content: "\f1db";
+    content: "\f295"
 }
 .sym-atp:before {
-  content: "\f1dc";
+    content: "\f296"
 }
 .sym-auction-s:before {
-  content: "\f1dd";
+    content: "\f297"
 }
 .sym-auction:before {
-  content: "\f1de";
+    content: "\f298"
 }
 .sym-aud-s:before {
-  content: "\f1df";
+    content: "\f299"
 }
 .sym-aud:before {
-  content: "\f1e0";
+    content: "\f29a"
 }
 .sym-audio-s:before {
-  content: "\f1e1";
+    content: "\f29b"
 }
 .sym-audio:before {
-  content: "\f1e2";
+    content: "\f29c"
 }
 .sym-aup-s:before {
-  content: "\f1e3";
+    content: "\f29d"
 }
 .sym-aup:before {
-  content: "\f1e4";
+    content: "\f29e"
 }
 .sym-auto-s:before {
-  content: "\f1e5";
+    content: "\f29f"
 }
 .sym-auto:before {
-  content: "\f1e6";
+    content: "\f2a0"
 }
 .sym-ava-s:before {
-  content: "\f1e7";
+    content: "\f2a1"
 }
 .sym-ava:before {
-  content: "\f1e8";
+    content: "\f2a2"
 }
 .sym-avax-s:before {
-  content: "\f1e9";
+    content: "\f2a3"
 }
 .sym-avax:before {
-  content: "\f1ea";
+    content: "\f2a4"
 }
 .sym-avt-s:before {
-  content: "\f1eb";
+    content: "\f2a5"
 }
 .sym-avt:before {
-  content: "\f1ec";
+    content: "\f2a6"
 }
 .sym-axp-s:before {
-  content: "\f1ed";
+    content: "\f2a7"
 }
 .sym-axp:before {
-  content: "\f1ee";
+    content: "\f2a8"
 }
 .sym-axs-s:before {
-  content: "\f1ef";
+    content: "\f2a9"
 }
 .sym-axs:before {
-  content: "\f1f0";
+    content: "\f2aa"
 }
 .sym-b:before {
-  content: "\f1f1";
+    content: "\f2ab"
 }
 .sym-b2g-s:before {
-  content: "\f1f2";
+    content: "\f2ac"
 }
 .sym-b2g:before {
-  content: "\f1f3";
+    content: "\f2ad"
 }
 .sym-bab-s:before {
-  content: "\f1f4";
+    content: "\f2ae"
 }
 .sym-bab:before {
-  content: "\f1f5";
+    content: "\f2af"
 }
 .sym-badger-s:before {
-  content: "\f1f6";
+    content: "\f2b0"
 }
 .sym-badger:before {
-  content: "\f1f7";
+    content: "\f2b1"
 }
 .sym-bake-s:before {
-  content: "\f1f8";
+    content: "\f2b2"
 }
 .sym-bake:before {
-  content: "\f1f9";
+    content: "\f2b3"
 }
 .sym-bal-s:before {
-  content: "\f1fa";
+    content: "\f2b4"
 }
 .sym-bal:before {
-  content: "\f1fb";
+    content: "\f2b5"
 }
 .sym-banca-s:before {
-  content: "\f1fc";
+    content: "\f2b6"
 }
 .sym-banca:before {
-  content: "\f1fd";
+    content: "\f2b7"
 }
 .sym-band-s:before {
-  content: "\f1fe";
+    content: "\f2b8"
 }
 .sym-band:before {
-  content: "\f1ff";
+    content: "\f2b9"
 }
 .sym-bat-s:before {
-  content: "\f200";
+    content: "\f2ba"
 }
 .sym-bat:before {
-  content: "\f201";
+    content: "\f2bb"
 }
 .sym-bay-s:before {
-  content: "\f202";
+    content: "\f2bc"
 }
 .sym-bay:before {
-  content: "\f203";
+    content: "\f2bd"
 }
 .sym-bbc-s:before {
-  content: "\f204";
+    content: "\f2be"
 }
 .sym-bbc:before {
-  content: "\f205";
+    content: "\f2bf"
 }
 .sym-bcc-s:before {
-  content: "\f206";
+    content: "\f2c0"
 }
 .sym-bcc:before {
-  content: "\f207";
+    content: "\f2c1"
 }
 .sym-bcd-s:before {
-  content: "\f208";
+    content: "\f2c2"
 }
 .sym-bcd:before {
-  content: "\f209";
+    content: "\f2c3"
 }
 .sym-bch-s:before {
-  content: "\f20a";
+    content: "\f2c4"
 }
 .sym-bch:before {
-  content: "\f20b";
+    content: "\f2c5"
 }
 .sym-bci-s:before {
-  content: "\f20c";
+    content: "\f2c6"
 }
 .sym-bci:before {
-  content: "\f20d";
+    content: "\f2c7"
 }
 .sym-bcn-s:before {
-  content: "\f20e";
+    content: "\f2c8"
 }
 .sym-bcn:before {
-  content: "\f20f";
+    content: "\f2c9"
 }
 .sym-bcpt-s:before {
-  content: "\f210";
+    content: "\f2ca"
 }
 .sym-bcpt:before {
-  content: "\f211";
+    content: "\f2cb"
 }
 .sym-bcu-s:before {
-  content: "\f212";
+    content: "\f2cc"
 }
 .sym-bcu:before {
-  content: "\f213";
+    content: "\f2cd"
 }
 .sym-bcv-s:before {
-  content: "\f214";
+    content: "\f2ce"
 }
 .sym-bcv:before {
-  content: "\f215";
+    content: "\f2cf"
 }
 .sym-bcy-s:before {
-  content: "\f216";
+    content: "\f2d0"
 }
 .sym-bcy:before {
-  content: "\f217";
+    content: "\f2d1"
 }
 .sym-bdg-s:before {
-  content: "\f218";
+    content: "\f2d2"
 }
 .sym-bdg:before {
-  content: "\f219";
+    content: "\f2d3"
 }
 .sym-beam-s:before {
-  content: "\f21a";
+    content: "\f2d4"
 }
 .sym-beam:before {
-  content: "\f21b";
+    content: "\f2d5"
 }
 .sym-beet-s:before {
-  content: "\f21c";
+    content: "\f2d6"
 }
 .sym-beet:before {
-  content: "\f21d";
+    content: "\f2d7"
 }
 .sym-bel-s:before {
-  content: "\f21e";
+    content: "\f2d8"
 }
 .sym-bel:before {
-  content: "\f21f";
+    content: "\f2d9"
 }
 .sym-bela-s:before {
-  content: "\f220";
+    content: "\f2da"
 }
 .sym-bela:before {
-  content: "\f221";
+    content: "\f2db"
 }
 .sym-berry-s:before {
-  content: "\f222";
+    content: "\f2dc"
 }
 .sym-berry:before {
-  content: "\f223";
+    content: "\f2dd"
 }
 .sym-betr-s:before {
-  content: "\f224";
+    content: "\f2de"
 }
 .sym-betr:before {
-  content: "\f225";
+    content: "\f2df"
 }
 .sym-bez-s:before {
-  content: "\f226";
+    content: "\f2e0"
 }
 .sym-bez:before {
-  content: "\f227";
+    content: "\f2e1"
 }
 .sym-bft-s:before {
-  content: "\f228";
+    content: "\f2e2"
 }
 .sym-bft:before {
-  content: "\f229";
+    content: "\f2e3"
 }
 .sym-bfx-s:before {
-  content: "\f22a";
+    content: "\f2e4"
 }
 .sym-bfx:before {
-  content: "\f22b";
+    content: "\f2e5"
 }
 .sym-bhd-s:before {
-  content: "\f22c";
+    content: "\f2e6"
 }
 .sym-bhd:before {
-  content: "\f22d";
+    content: "\f2e7"
 }
 .sym-bht-s:before {
-  content: "\f22e";
+    content: "\f2e8"
 }
 .sym-bht:before {
-  content: "\f22f";
+    content: "\f2e9"
 }
 .sym-bitb-s:before {
-  content: "\f230";
+    content: "\f2ea"
 }
 .sym-bitb:before {
-  content: "\f231";
+    content: "\f2eb"
 }
 .sym-bix-s:before {
-  content: "\f232";
+    content: "\f2ec"
 }
 .sym-bix:before {
-  content: "\f233";
+    content: "\f2ed"
 }
 .sym-bk-s:before {
-  content: "\f234";
+    content: "\f2ee"
 }
 .sym-bk:before {
-  content: "\f235";
+    content: "\f2ef"
 }
 .sym-bkx-s:before {
-  content: "\f236";
+    content: "\f2f0"
 }
 .sym-bkx:before {
-  content: "\f237";
+    content: "\f2f1"
 }
 .sym-blk-s:before {
-  content: "\f238";
+    content: "\f2f2"
 }
 .sym-blk:before {
-  content: "\f239";
+    content: "\f2f3"
 }
 .sym-block-s:before {
-  content: "\f23a";
+    content: "\f2f4"
 }
 .sym-block:before {
-  content: "\f23b";
+    content: "\f2f5"
 }
 .sym-blt-s:before {
-  content: "\f23c";
+    content: "\f2f6"
 }
 .sym-blt:before {
-  content: "\f23d";
+    content: "\f2f7"
 }
 .sym-blz-s:before {
-  content: "\f23e";
+    content: "\f2f8"
 }
 .sym-blz:before {
-  content: "\f23f";
+    content: "\f2f9"
 }
 .sym-bmc-s:before {
-  content: "\f240";
+    content: "\f2fa"
 }
 .sym-bmc:before {
-  content: "\f241";
+    content: "\f2fb"
 }
 .sym-bnb-s:before {
-  content: "\f242";
+    content: "\f2fc"
 }
 .sym-bnb:before {
-  content: "\f243";
+    content: "\f2fd"
 }
 .sym-bnc-s:before {
-  content: "\f244";
+    content: "\f2fe"
 }
 .sym-bnc:before {
-  content: "\f245";
+    content: "\f2ff"
 }
 .sym-bnk-s:before {
-  content: "\f246";
+    content: "\f300"
 }
 .sym-bnk:before {
-  content: "\f247";
+    content: "\f301"
 }
 .sym-bnt-s:before {
-  content: "\f248";
+    content: "\f302"
 }
 .sym-bnt:before {
-  content: "\f249";
+    content: "\f303"
 }
 .sym-bo-s:before {
-  content: "\f24a";
+    content: "\f304"
 }
 .sym-bo:before {
-  content: "\f24b";
+    content: "\f305"
 }
 .sym-bond-s:before {
-  content: "\f24c";
+    content: "\f306"
 }
 .sym-bond:before {
-  content: "\f24d";
+    content: "\f307"
 }
 .sym-bor-s:before {
-  content: "\f24e";
+    content: "\f308"
 }
 .sym-bor:before {
-  content: "\f24f";
+    content: "\f309"
 }
 .sym-bora-s:before {
-  content: "\f250";
+    content: "\f30a"
 }
 .sym-bora:before {
-  content: "\f251";
+    content: "\f30b"
 }
 .sym-bos-s:before {
-  content: "\f252";
+    content: "\f30c"
 }
 .sym-bos:before {
-  content: "\f253";
+    content: "\f30d"
 }
 .sym-box-s:before {
-  content: "\f254";
+    content: "\f30e"
 }
 .sym-box:before {
-  content: "\f255";
+    content: "\f30f"
 }
 .sym-brd-s:before {
-  content: "\f256";
+    content: "\f310"
 }
 .sym-brd:before {
-  content: "\f257";
+    content: "\f311"
 }
 .sym-brg-s:before {
-  content: "\f258";
+    content: "\f312"
 }
 .sym-brg:before {
-  content: "\f259";
+    content: "\f313"
 }
 .sym-brick-s:before {
-  content: "\f25a";
+    content: "\f314"
 }
 .sym-brick:before {
-  content: "\f25b";
+    content: "\f315"
 }
 .sym-bsd-s:before {
-  content: "\f25c";
+    content: "\f316"
 }
 .sym-bsd:before {
-  content: "\f25d";
+    content: "\f317"
 }
 .sym-bsv-s:before {
-  content: "\f25e";
+    content: "\f318"
 }
 .sym-bsv:before {
-  content: "\f25f";
+    content: "\f319"
 }
 .sym-bsx-s:before {
-  content: "\f260";
+    content: "\f31a"
 }
 .sym-bsx:before {
-  content: "\f261";
+    content: "\f31b"
 }
 .sym-bt1-s:before {
-  content: "\f262";
+    content: "\f31c"
 }
 .sym-bt1:before {
-  content: "\f263";
+    content: "\f31d"
 }
 .sym-bt2-s:before {
-  content: "\f264";
+    content: "\f31e"
 }
 .sym-bt2:before {
-  content: "\f265";
+    content: "\f31f"
 }
 .sym-btc-s:before {
-  content: "\f266";
+    content: "\f320"
 }
 .sym-btc:before {
-  content: "\f267";
+    content: "\f321"
 }
 .sym-btcd-s:before {
-  content: "\f268";
+    content: "\f322"
 }
 .sym-btcd:before {
-  content: "\f269";
+    content: "\f323"
 }
 .sym-btcfx-s:before {
-  content: "\f26a";
+    content: "\f324"
 }
 .sym-btcfx:before {
-  content: "\f26b";
+    content: "\f325"
 }
 .sym-btcp-s:before {
-  content: "\f26c";
+    content: "\f326"
 }
 .sym-btcp:before {
-  content: "\f26d";
+    content: "\f327"
 }
 .sym-btg-s:before {
-  content: "\f26e";
+    content: "\f328"
 }
 .sym-btg:before {
-  content: "\f26f";
+    content: "\f329"
 }
 .sym-btm-s:before {
-  content: "\f270";
+    content: "\f32a"
 }
 .sym-btm:before {
-  content: "\f271";
+    content: "\f32b"
 }
 .sym-btn-s:before {
-  content: "\f272";
+    content: "\f32c"
 }
 .sym-btn:before {
-  content: "\f273";
+    content: "\f32d"
 }
 .sym-bto-s:before {
-  content: "\f274";
+    content: "\f32e"
 }
 .sym-bto:before {
-  content: "\f275";
+    content: "\f32f"
 }
 .sym-bts-s:before {
-  content: "\f276";
+    content: "\f330"
 }
 .sym-bts:before {
-  content: "\f277";
+    content: "\f331"
 }
 .sym-btt-s:before {
-  content: "\f278";
+    content: "\f332"
 }
 .sym-btt:before {
-  content: "\f279";
+    content: "\f333"
 }
 .sym-btu-s:before {
-  content: "\f27a";
+    content: "\f334"
 }
 .sym-btu:before {
-  content: "\f27b";
+    content: "\f335"
 }
 .sym-btx-s:before {
-  content: "\f27c";
+    content: "\f336"
 }
 .sym-btx:before {
-  content: "\f27d";
+    content: "\f337"
 }
 .sym-burger-s:before {
-  content: "\f27e";
+    content: "\f338"
 }
 .sym-burger:before {
-  content: "\f27f";
+    content: "\f339"
 }
 .sym-burst-s:before {
-  content: "\f280";
+    content: "\f33a"
 }
 .sym-burst:before {
-  content: "\f281";
+    content: "\f33b"
 }
 .sym-bus-s:before {
-  content: "\f282";
+    content: "\f33c"
 }
 .sym-bus:before {
-  content: "\f283";
+    content: "\f33d"
 }
 .sym-busd-s:before {
-  content: "\f284";
+    content: "\f33e"
 }
 .sym-busd:before {
-  content: "\f285";
+    content: "\f33f"
 }
 .sym-bwx-s:before {
-  content: "\f286";
+    content: "\f340"
 }
 .sym-bwx:before {
-  content: "\f287";
+    content: "\f341"
 }
 .sym-bz-s:before {
-  content: "\f288";
+    content: "\f342"
 }
 .sym-bz:before {
-  content: "\f289";
+    content: "\f343"
 }
 .sym-bzrx-s:before {
-  content: "\f28a";
+    content: "\f344"
 }
 .sym-bzrx:before {
-  content: "\f28b";
+    content: "\f345"
 }
 .sym-c-s:before {
-  content: "\f28c";
+    content: "\f346"
 }
 .sym-c:before {
-  content: "\f28d";
+    content: "\f347"
 }
 .sym-c20-s:before {
-  content: "\f28e";
+    content: "\f348"
 }
 .sym-c20:before {
-  content: "\f28f";
+    content: "\f349"
+}
+.sym-c98-s:before {
+    content: "\f34a"
+}
+.sym-c98:before {
+    content: "\f34b"
 }
 .sym-cad-s:before {
-  content: "\f290";
+    content: "\f34c"
 }
 .sym-cad:before {
-  content: "\f291";
+    content: "\f34d"
 }
 .sym-cake-s:before {
-  content: "\f292";
+    content: "\f34e"
 }
 .sym-cake:before {
-  content: "\f293";
+    content: "\f34f"
 }
 .sym-cas-s:before {
-  content: "\f294";
+    content: "\f350"
 }
 .sym-cas:before {
-  content: "\f295";
+    content: "\f351"
 }
 .sym-cat-s:before {
-  content: "\f296";
+    content: "\f352"
 }
 .sym-cat:before {
-  content: "\f297";
+    content: "\f353"
 }
 .sym-cbc-s:before {
-  content: "\f298";
+    content: "\f354"
 }
 .sym-cbc:before {
-  content: "\f299";
+    content: "\f355"
 }
 .sym-cbt-s:before {
-  content: "\f29a";
+    content: "\f356"
 }
 .sym-cbt:before {
-  content: "\f29b";
+    content: "\f357"
 }
 .sym-cdt-s:before {
-  content: "\f29c";
+    content: "\f358"
 }
 .sym-cdt:before {
-  content: "\f29d";
+    content: "\f359"
 }
 .sym-cel-s:before {
-  content: "\f29e";
+    content: "\f35a"
 }
 .sym-cel:before {
-  content: "\f29f";
+    content: "\f35b"
 }
 .sym-celo-s:before {
-  content: "\f2a0";
+    content: "\f35c"
 }
 .sym-celo:before {
-  content: "\f2a1";
+    content: "\f35d"
 }
 .sym-celr-s:before {
-  content: "\f2a2";
+    content: "\f35e"
 }
 .sym-celr:before {
-  content: "\f2a3";
+    content: "\f35f"
 }
 .sym-cennz-s:before {
-  content: "\f2a4";
+    content: "\f360"
 }
 .sym-cennz:before {
-  content: "\f2a5";
+    content: "\f361"
 }
 .sym-cfg-s:before {
-  content: "\f2a6";
+    content: "\f362"
 }
 .sym-cfg:before {
-  content: "\f2a7";
+    content: "\f363"
 }
 .sym-cfi-s:before {
-  content: "\f2a8";
+    content: "\f364"
 }
 .sym-cfi:before {
-  content: "\f2a9";
+    content: "\f365"
 }
 .sym-cfx-s:before {
-  content: "\f2aa";
+    content: "\f366"
 }
 .sym-cfx:before {
-  content: "\f2ab";
+    content: "\f367"
 }
 .sym-cgt-s:before {
-  content: "\f2ac";
+    content: "\f368"
 }
 .sym-cgt:before {
-  content: "\f2ad";
+    content: "\f369"
 }
 .sym-chat-s:before {
-  content: "\f2ae";
+    content: "\f36a"
 }
 .sym-chat:before {
-  content: "\f2af";
+    content: "\f36b"
 }
 .sym-chf-s:before {
-  content: "\f2b0";
+    content: "\f36c"
 }
 .sym-chf:before {
-  content: "\f2b1";
+    content: "\f36d"
 }
 .sym-chp-s:before {
-  content: "\f2b2";
+    content: "\f36e"
 }
 .sym-chp:before {
-  content: "\f2b3";
+    content: "\f36f"
 }
 .sym-chr-s:before {
-  content: "\f2b4";
+    content: "\f370"
 }
 .sym-chr:before {
-  content: "\f2b5";
+    content: "\f371"
 }
 .sym-chsb-s:before {
-  content: "\f2b6";
+    content: "\f372"
 }
 .sym-chsb:before {
-  content: "\f2b7";
+    content: "\f373"
 }
 .sym-chx-s:before {
-  content: "\f2b8";
+    content: "\f374"
 }
 .sym-chx:before {
-  content: "\f2b9";
+    content: "\f375"
 }
 .sym-chz-s:before {
-  content: "\f2ba";
+    content: "\f376"
 }
 .sym-chz:before {
-  content: "\f2bb";
+    content: "\f377"
 }
 .sym-ckb-s:before {
-  content: "\f2bc";
+    content: "\f378"
 }
 .sym-ckb:before {
-  content: "\f2bd";
+    content: "\f379"
 }
 .sym-cl-s:before {
-  content: "\f2be";
+    content: "\f37a"
 }
 .sym-cl:before {
-  content: "\f2bf";
+    content: "\f37b"
 }
 .sym-clam-s:before {
-  content: "\f2c0";
+    content: "\f37c"
 }
 .sym-clam:before {
-  content: "\f2c1";
+    content: "\f37d"
 }
 .sym-cln-s:before {
-  content: "\f2c2";
+    content: "\f37e"
 }
 .sym-cln:before {
-  content: "\f2c3";
+    content: "\f37f"
 }
 .sym-clo-s:before {
-  content: "\f2c4";
+    content: "\f380"
 }
 .sym-clo:before {
-  content: "\f2c5";
+    content: "\f381"
 }
 .sym-cloak-s:before {
-  content: "\f2c6";
+    content: "\f382"
 }
 .sym-cloak:before {
-  content: "\f2c7";
+    content: "\f383"
 }
 .sym-clv-s:before {
-  content: "\f2c8";
+    content: "\f384"
 }
 .sym-clv:before {
-  content: "\f2c9";
+    content: "\f385"
 }
 .sym-cmct-s:before {
-  content: "\f2ca";
+    content: "\f386"
 }
 .sym-cmct:before {
-  content: "\f2cb";
+    content: "\f387"
 }
 .sym-cmt-s:before {
-  content: "\f2cc";
+    content: "\f388"
 }
 .sym-cmt:before {
-  content: "\f2cd";
+    content: "\f389"
 }
 .sym-cnd-s:before {
-  content: "\f2ce";
+    content: "\f38a"
 }
 .sym-cnd:before {
-  content: "\f2cf";
+    content: "\f38b"
 }
 .sym-cnn-s:before {
-  content: "\f2d0";
+    content: "\f38c"
 }
 .sym-cnn:before {
-  content: "\f2d1";
+    content: "\f38d"
 }
 .sym-cnx-s:before {
-  content: "\f2d2";
+    content: "\f38e"
 }
 .sym-cnx:before {
-  content: "\f2d3";
+    content: "\f38f"
 }
 .sym-cny-s:before {
-  content: "\f2d4";
+    content: "\f390"
 }
 .sym-cny:before {
-  content: "\f2d5";
+    content: "\f391"
 }
 .sym-cob-s:before {
-  content: "\f2d6";
+    content: "\f392"
 }
 .sym-cob:before {
-  content: "\f2d7";
+    content: "\f393"
 }
 .sym-cocos-s:before {
-  content: "\f2d8";
+    content: "\f394"
 }
 .sym-cocos:before {
-  content: "\f2d9";
+    content: "\f395"
 }
 .sym-comp-s:before {
-  content: "\f2da";
+    content: "\f396"
 }
 .sym-comp:before {
-  content: "\f2db";
+    content: "\f397"
 }
 .sym-cos-s:before {
-  content: "\f2dc";
+    content: "\f398"
 }
 .sym-cos:before {
-  content: "\f2dd";
+    content: "\f399"
 }
 .sym-cosm-s:before {
-  content: "\f2de";
+    content: "\f39a"
 }
 .sym-cosm:before {
-  content: "\f2df";
+    content: "\f39b"
 }
 .sym-coss-s:before {
-  content: "\f2e0";
+    content: "\f39c"
 }
 .sym-coss:before {
-  content: "\f2e1";
+    content: "\f39d"
 }
 .sym-coti-s:before {
-  content: "\f2e2";
+    content: "\f39e"
 }
 .sym-coti:before {
-  content: "\f2e3";
+    content: "\f39f"
 }
 .sym-cov-s:before {
-  content: "\f2e4";
+    content: "\f3a0"
 }
 .sym-cov:before {
-  content: "\f2e5";
+    content: "\f3a1"
 }
 .sym-cova-s:before {
-  content: "\f2e6";
+    content: "\f3a2"
 }
 .sym-cova:before {
-  content: "\f2e7";
+    content: "\f3a3"
 }
 .sym-cpt-s:before {
-  content: "\f2e8";
+    content: "\f3a4"
 }
 .sym-cpt:before {
-  content: "\f2e9";
+    content: "\f3a5"
 }
 .sym-cpx-s:before {
-  content: "\f2ea";
+    content: "\f3a6"
 }
 .sym-cpx:before {
-  content: "\f2eb";
+    content: "\f3a7"
 }
 .sym-cqt-s:before {
-  content: "\f2ec";
+    content: "\f3a8"
 }
 .sym-cqt:before {
-  content: "\f2ed";
+    content: "\f3a9"
 }
 .sym-crc-s:before {
-  content: "\f2ee";
+    content: "\f3aa"
 }
 .sym-crc:before {
-  content: "\f2ef";
+    content: "\f3ab"
 }
 .sym-cre-s:before {
-  content: "\f2f0";
+    content: "\f3ac"
 }
 .sym-cre:before {
-  content: "\f2f1";
+    content: "\f3ad"
 }
 .sym-cream-s:before {
-  content: "\f2f2";
+    content: "\f3ae"
 }
 .sym-cream:before {
-  content: "\f2f3";
+    content: "\f3af"
 }
 .sym-cring-s:before {
-  content: "\f2f4";
+    content: "\f3b0"
 }
 .sym-cring:before {
-  content: "\f2f5";
+    content: "\f3b1"
 }
 .sym-cro-s:before {
-  content: "\f2f6";
+    content: "\f3b2"
 }
 .sym-cro:before {
-  content: "\f2f7";
+    content: "\f3b3"
 }
 .sym-crpt-s:before {
-  content: "\f2f8";
+    content: "\f3b4"
 }
 .sym-crpt:before {
-  content: "\f2f9";
+    content: "\f3b5"
 }
 .sym-cru-s:before {
-  content: "\f2fa";
+    content: "\f3b6"
 }
 .sym-cru:before {
-  content: "\f2fb";
+    content: "\f3b7"
 }
 .sym-crv-s:before {
-  content: "\f2fc";
+    content: "\f3b8"
 }
 .sym-crv:before {
-  content: "\f2fd";
+    content: "\f3b9"
 }
 .sym-crw-s:before {
-  content: "\f2fe";
+    content: "\f3ba"
 }
 .sym-crw:before {
-  content: "\f2ff";
+    content: "\f3bb"
 }
 .sym-csx-s:before {
-  content: "\f300";
+    content: "\f3bc"
 }
 .sym-csx:before {
-  content: "\f301";
+    content: "\f3bd"
 }
 .sym-ctc-s:before {
-  content: "\f302";
+    content: "\f3be"
 }
 .sym-ctc:before {
-  content: "\f303";
+    content: "\f3bf"
 }
 .sym-ctk-s:before {
-  content: "\f304";
+    content: "\f3c0"
 }
 .sym-ctk:before {
-  content: "\f305";
+    content: "\f3c1"
 }
 .sym-ctsi-s:before {
-  content: "\f306";
+    content: "\f3c2"
 }
 .sym-ctsi:before {
-  content: "\f307";
+    content: "\f3c3"
 }
 .sym-ctxc-s:before {
-  content: "\f308";
+    content: "\f3c4"
 }
 .sym-ctxc:before {
-  content: "\f309";
+    content: "\f3c5"
 }
 .sym-cur-s:before {
-  content: "\f30a";
+    content: "\f3c6"
 }
 .sym-cur:before {
-  content: "\f30b";
+    content: "\f3c7"
 }
 .sym-cvc-s:before {
-  content: "\f30c";
+    content: "\f3c8"
 }
 .sym-cvc:before {
-  content: "\f30d";
+    content: "\f3c9"
 }
 .sym-cvcoin-s:before {
-  content: "\f30e";
+    content: "\f3ca"
 }
 .sym-cvcoin:before {
-  content: "\f30f";
+    content: "\f3cb"
 }
 .sym-cvnt-s:before {
-  content: "\f310";
+    content: "\f3cc"
 }
 .sym-cvnt:before {
-  content: "\f311";
+    content: "\f3cd"
 }
 .sym-cvp-s:before {
-  content: "\f312";
+    content: "\f3ce"
 }
 .sym-cvp:before {
-  content: "\f313";
+    content: "\f3cf"
 }
 .sym-cvt-s:before {
-  content: "\f314";
+    content: "\f3d0"
 }
 .sym-cvt:before {
-  content: "\f315";
+    content: "\f3d1"
 }
 .sym-cw-s:before {
-  content: "\f316";
+    content: "\f3d2"
 }
 .sym-cw:before {
-  content: "\f317";
+    content: "\f3d3"
 }
 .sym-cyc-s:before {
-  content: "\f318";
+    content: "\f3d4"
 }
 .sym-cyc:before {
-  content: "\f319";
+    content: "\f3d5"
 }
 .sym-dac-s:before {
-  content: "\f31a";
+    content: "\f3d6"
 }
 .sym-dac:before {
-  content: "\f31b";
+    content: "\f3d7"
 }
 .sym-dacs-s:before {
-  content: "\f31c";
+    content: "\f3d8"
 }
 .sym-dacs:before {
-  content: "\f31d";
+    content: "\f3d9"
 }
 .sym-dadi-s:before {
-  content: "\f31e";
+    content: "\f3da"
 }
 .sym-dadi:before {
-  content: "\f31f";
+    content: "\f3db"
 }
 .sym-dag-s:before {
-  content: "\f320";
+    content: "\f3dc"
 }
 .sym-dag:before {
-  content: "\f321";
+    content: "\f3dd"
 }
 .sym-dai-s:before {
-  content: "\f322";
+    content: "\f3de"
 }
 .sym-dai:before {
-  content: "\f323";
+    content: "\f3df"
 }
 .sym-dao-s:before {
-  content: "\f324";
+    content: "\f3e0"
 }
 .sym-dao:before {
-  content: "\f325";
+    content: "\f3e1"
 }
 .sym-dash-s:before {
-  content: "\f326";
+    content: "\f3e2"
 }
 .sym-dash:before {
-  content: "\f327";
+    content: "\f3e3"
 }
 .sym-dat-s:before {
-  content: "\f328";
+    content: "\f3e4"
 }
 .sym-dat:before {
-  content: "\f329";
+    content: "\f3e5"
 }
 .sym-data-s:before {
-  content: "\f32a";
+    content: "\f3e6"
 }
 .sym-data:before {
-  content: "\f32b";
+    content: "\f3e7"
 }
 .sym-datx-s:before {
-  content: "\f32c";
+    content: "\f3e8"
 }
 .sym-datx:before {
-  content: "\f32d";
+    content: "\f3e9"
 }
 .sym-dbc-s:before {
-  content: "\f32e";
+    content: "\f3ea"
 }
 .sym-dbc:before {
-  content: "\f32f";
+    content: "\f3eb"
 }
 .sym-dbet-s:before {
-  content: "\f330";
+    content: "\f3ec"
 }
 .sym-dbet:before {
-  content: "\f331";
+    content: "\f3ed"
 }
 .sym-dbix-s:before {
-  content: "\f332";
+    content: "\f3ee"
 }
 .sym-dbix:before {
-  content: "\f333";
+    content: "\f3ef"
 }
 .sym-dcn-s:before {
-  content: "\f334";
+    content: "\f3f0"
 }
 .sym-dcn:before {
-  content: "\f335";
+    content: "\f3f1"
 }
 .sym-dcr-s:before {
-  content: "\f336";
+    content: "\f3f2"
 }
 .sym-dcr:before {
-  content: "\f337";
+    content: "\f3f3"
 }
 .sym-dct-s:before {
-  content: "\f338";
+    content: "\f3f4"
 }
 .sym-dct:before {
-  content: "\f339";
+    content: "\f3f5"
 }
 .sym-ddd-s:before {
-  content: "\f33a";
+    content: "\f3f6"
 }
 .sym-ddd:before {
-  content: "\f33b";
+    content: "\f3f7"
 }
 .sym-dego-s:before {
-  content: "\f33c";
+    content: "\f3f8"
 }
 .sym-dego:before {
-  content: "\f33d";
+    content: "\f3f9"
 }
 .sym-dent-s:before {
-  content: "\f33e";
+    content: "\f3fa"
 }
 .sym-dent:before {
-  content: "\f33f";
+    content: "\f3fb"
 }
 .sym-dgb-s:before {
-  content: "\f340";
+    content: "\f3fc"
 }
 .sym-dgb:before {
-  content: "\f341";
+    content: "\f3fd"
 }
 .sym-dgd-s:before {
-  content: "\f342";
+    content: "\f3fe"
 }
 .sym-dgd:before {
-  content: "\f343";
+    content: "\f3ff"
 }
 .sym-dgtx-s:before {
-  content: "\f344";
+    content: "\f400"
 }
 .sym-dgtx:before {
-  content: "\f345";
+    content: "\f401"
 }
 .sym-dgx-s:before {
-  content: "\f346";
+    content: "\f402"
 }
 .sym-dgx:before {
-  content: "\f347";
+    content: "\f403"
 }
 .sym-dhx-s:before {
-  content: "\f348";
+    content: "\f404"
 }
 .sym-dhx:before {
-  content: "\f349";
+    content: "\f405"
 }
 .sym-dia-s:before {
-  content: "\f34a";
+    content: "\f406"
 }
 .sym-dia:before {
-  content: "\f34b";
+    content: "\f407"
 }
 .sym-dice-s:before {
-  content: "\f34c";
+    content: "\f408"
 }
 .sym-dice:before {
-  content: "\f34d";
+    content: "\f409"
 }
 .sym-dim-s:before {
-  content: "\f34e";
+    content: "\f40a"
 }
 .sym-dim:before {
-  content: "\f34f";
+    content: "\f40b"
 }
 .sym-dlt-s:before {
-  content: "\f350";
+    content: "\f40c"
 }
 .sym-dlt:before {
-  content: "\f351";
+    content: "\f40d"
 }
 .sym-dmd-s:before {
-  content: "\f352";
+    content: "\f40e"
 }
 .sym-dmd:before {
-  content: "\f353";
+    content: "\f40f"
 }
 .sym-dmt-s:before {
-  content: "\f354";
+    content: "\f410"
 }
 .sym-dmt:before {
-  content: "\f355";
+    content: "\f411"
 }
 .sym-dnt-s:before {
-  content: "\f356";
+    content: "\f412"
 }
 .sym-dnt:before {
-  content: "\f357";
+    content: "\f413"
 }
 .sym-dock-s:before {
-  content: "\f358";
+    content: "\f414"
 }
 .sym-dock:before {
-  content: "\f359";
+    content: "\f415"
 }
 .sym-dodo-s:before {
-  content: "\f35a";
+    content: "\f416"
 }
 .sym-dodo:before {
-  content: "\f35b";
+    content: "\f417"
 }
 .sym-doge-s:before {
-  content: "\f35c";
+    content: "\f418"
 }
 .sym-doge:before {
-  content: "\f35d";
+    content: "\f419"
 }
 .sym-dot-s:before {
-  content: "\f35e";
+    content: "\f41a"
 }
 .sym-dot:before {
-  content: "\f35f";
+    content: "\f41b"
 }
 .sym-dpy-s:before {
-  content: "\f360";
+    content: "\f41c"
 }
 .sym-dpy:before {
-  content: "\f361";
+    content: "\f41d"
 }
 .sym-dream-s:before {
-  content: "\f362";
+    content: "\f41e"
 }
 .sym-dream:before {
-  content: "\f363";
+    content: "\f41f"
 }
 .sym-drep-s:before {
-  content: "\f364";
+    content: "\f420"
 }
 .sym-drep:before {
-  content: "\f365";
+    content: "\f421"
 }
 .sym-drg-s:before {
-  content: "\f366";
+    content: "\f422"
 }
 .sym-drg:before {
-  content: "\f367";
+    content: "\f423"
 }
 .sym-drgn-s:before {
-  content: "\f368";
+    content: "\f424"
 }
 .sym-drgn:before {
-  content: "\f369";
+    content: "\f425"
 }
 .sym-drt-s:before {
-  content: "\f36a";
+    content: "\f426"
 }
 .sym-drt:before {
-  content: "\f36b";
+    content: "\f427"
 }
 .sym-dta-s:before {
-  content: "\f36c";
+    content: "\f428"
 }
 .sym-dta:before {
-  content: "\f36d";
+    content: "\f429"
 }
 .sym-dtb-s:before {
-  content: "\f36e";
+    content: "\f42a"
 }
 .sym-dtb:before {
-  content: "\f36f";
+    content: "\f42b"
 }
 .sym-dtr-s:before {
-  content: "\f370";
+    content: "\f42c"
 }
 .sym-dtr:before {
-  content: "\f371";
+    content: "\f42d"
 }
 .sym-dusk-s:before {
-  content: "\f372";
+    content: "\f42e"
 }
 .sym-dusk:before {
-  content: "\f373";
+    content: "\f42f"
 }
 .sym-dx-s:before {
-  content: "\f374";
+    content: "\f430"
 }
 .sym-dx:before {
-  content: "\f375";
+    content: "\f431"
 }
 .sym-dydx-s:before {
-  content: "\f376";
+    content: "\f432"
 }
 .sym-dydx:before {
-  content: "\f377";
+    content: "\f433"
 }
 .sym-dyn-s:before {
-  content: "\f378";
+    content: "\f434"
 }
 .sym-dyn:before {
-  content: "\f379";
+    content: "\f435"
 }
 .sym-easy:before {
-  content: "\f37a";
+    content: "\f436"
 }
 .sym-ecom-s:before {
-  content: "\f37b";
+    content: "\f437"
 }
 .sym-ecom:before {
-  content: "\f37c";
+    content: "\f438"
 }
 .sym-edc-s:before {
-  content: "\f37d";
+    content: "\f439"
 }
 .sym-edc:before {
-  content: "\f37e";
+    content: "\f43a"
 }
 .sym-edg-s:before {
-  content: "\f37f";
+    content: "\f43b"
 }
 .sym-edg:before {
-  content: "\f380";
+    content: "\f43c"
 }
 .sym-edo-s:before {
-  content: "\f381";
+    content: "\f43d"
 }
 .sym-edo:before {
-  content: "\f382";
+    content: "\f43e"
 }
 .sym-edp-s:before {
-  content: "\f383";
+    content: "\f43f"
 }
 .sym-edp:before {
-  content: "\f384";
+    content: "\f440"
 }
 .sym-edr-s:before {
-  content: "\f385";
+    content: "\f441"
 }
 .sym-edr:before {
-  content: "\f386";
+    content: "\f442"
+}
+.sym-efi-s:before {
+    content: "\f443"
+}
+.sym-efi:before {
+    content: "\f444"
 }
 .sym-egld-s:before {
-  content: "\f387";
+    content: "\f445"
 }
 .sym-egld:before {
-  content: "\f388";
+    content: "\f446"
 }
 .sym-egt-s:before {
-  content: "\f389";
+    content: "\f447"
 }
 .sym-egt:before {
-  content: "\f38a";
+    content: "\f448"
 }
 .sym-ehr-s:before {
-  content: "\f38b";
+    content: "\f449"
 }
 .sym-ehr:before {
-  content: "\f38c";
+    content: "\f44a"
 }
 .sym-eko-s:before {
-  content: "\f38d";
+    content: "\f44b"
 }
 .sym-eko:before {
-  content: "\f38e";
+    content: "\f44c"
 }
 .sym-ekt-s:before {
-  content: "\f38f";
+    content: "\f44d"
 }
 .sym-ekt:before {
-  content: "\f390";
+    content: "\f44e"
 }
 .sym-ela-s:before {
-  content: "\f391";
+    content: "\f44f"
 }
 .sym-ela:before {
-  content: "\f392";
+    content: "\f450"
 }
 .sym-elec-s:before {
-  content: "\f393";
+    content: "\f451"
 }
 .sym-elec:before {
-  content: "\f394";
+    content: "\f452"
 }
 .sym-elf-s:before {
-  content: "\f395";
+    content: "\f453"
 }
 .sym-elf:before {
-  content: "\f396";
+    content: "\f454"
 }
 .sym-em-s:before {
-  content: "\f397";
+    content: "\f455"
 }
 .sym-em:before {
-  content: "\f398";
+    content: "\f456"
 }
 .sym-emc-s:before {
-  content: "\f399";
+    content: "\f457"
 }
 .sym-emc:before {
-  content: "\f39a";
+    content: "\f458"
 }
 .sym-emc2-s:before {
-  content: "\f39b";
+    content: "\f459"
 }
 .sym-emc2:before {
-  content: "\f39c";
+    content: "\f45a"
 }
 .sym-eng-s:before {
-  content: "\f39d";
+    content: "\f45b"
 }
 .sym-eng:before {
-  content: "\f39e";
+    content: "\f45c"
 }
 .sym-enj-s:before {
-  content: "\f39f";
+    content: "\f45d"
 }
 .sym-enj:before {
-  content: "\f3a0";
+    content: "\f45e"
+}
+.sym-ens-s:before {
+    content: "\f45f"
+}
+.sym-ens:before {
+    content: "\f460"
 }
 .sym-eos-s:before {
-  content: "\f3a1";
+    content: "\f461"
 }
 .sym-eos:before {
-  content: "\f3a2";
+    content: "\f462"
 }
 .sym-eosdac-s:before {
-  content: "\f3a3";
+    content: "\f463"
 }
 .sym-eosdac:before {
-  content: "\f3a4";
+    content: "\f464"
 }
 .sym-eq-s:before {
-  content: "\f3a5";
+    content: "\f465"
 }
 .sym-eq:before {
-  content: "\f3a6";
+    content: "\f466"
 }
 .sym-erd-s:before {
-  content: "\f3a7";
+    content: "\f467"
 }
 .sym-erd:before {
-  content: "\f3a8";
+    content: "\f468"
 }
 .sym-ern-s:before {
-  content: "\f3a9";
+    content: "\f469"
 }
 .sym-ern:before {
-  content: "\f3aa";
+    content: "\f46a"
 }
 .sym-es-s:before {
-  content: "\f3ab";
+    content: "\f46b"
 }
 .sym-es:before {
-  content: "\f3ac";
+    content: "\f46c"
 }
 .sym-esd-s:before {
-  content: "\f3ad";
+    content: "\f46d"
 }
 .sym-esd:before {
-  content: "\f3ae";
+    content: "\f46e"
 }
 .sym-etc-s:before {
-  content: "\f3af";
+    content: "\f46f"
 }
 .sym-etc:before {
-  content: "\f3b0";
+    content: "\f470"
 }
 .sym-eth-s:before {
-  content: "\f3b1";
+    content: "\f471"
 }
 .sym-eth:before {
-  content: "\f3b2";
+    content: "\f472"
 }
 .sym-ethup-s:before {
-  content: "\f3b3";
+    content: "\f473"
 }
 .sym-ethup:before {
-  content: "\f3b4";
+    content: "\f474"
 }
 .sym-etn-s:before {
-  content: "\f3b5";
+    content: "\f475"
 }
 .sym-etn:before {
-  content: "\f3b6";
+    content: "\f476"
 }
 .sym-etp-s:before {
-  content: "\f3b7";
+    content: "\f477"
 }
 .sym-etp:before {
-  content: "\f3b8";
+    content: "\f478"
 }
 .sym-eur-s:before {
-  content: "\f3b9";
+    content: "\f479"
 }
 .sym-eur:before {
-  content: "\f3ba";
+    content: "\f47a"
 }
 .sym-eurs-s:before {
-  content: "\f3bb";
+    content: "\f47b"
 }
 .sym-eurs:before {
-  content: "\f3bc";
+    content: "\f47c"
 }
 .sym-eurt-s:before {
-  content: "\f3bd";
+    content: "\f47d"
 }
 .sym-eurt:before {
-  content: "\f3be";
+    content: "\f47e"
 }
 .sym-evn-s:before {
-  content: "\f3bf";
+    content: "\f47f"
 }
 .sym-evn:before {
-  content: "\f3c0";
+    content: "\f480"
 }
 .sym-evx-s:before {
-  content: "\f3c1";
+    content: "\f481"
 }
 .sym-evx:before {
-  content: "\f3c2";
+    content: "\f482"
 }
 .sym-ewt-s:before {
-  content: "\f3c3";
+    content: "\f483"
 }
 .sym-ewt:before {
-  content: "\f3c4";
+    content: "\f484"
 }
 .sym-exp-s:before {
-  content: "\f3c5";
+    content: "\f485"
 }
 .sym-exp:before {
-  content: "\f3c6";
+    content: "\f486"
 }
 .sym-exrd-s:before {
-  content: "\f3c7";
+    content: "\f487"
 }
 .sym-exrd:before {
-  content: "\f3c8";
+    content: "\f488"
 }
 .sym-exy-s:before {
-  content: "\f3c9";
+    content: "\f489"
 }
 .sym-exy:before {
-  content: "\f3ca";
+    content: "\f48a"
 }
 .sym-fair-s:before {
-  content: "\f3cb";
+    content: "\f48b"
 }
 .sym-fair:before {
-  content: "\f3cc";
+    content: "\f48c"
 }
 .sym-fct-s:before {
-  content: "\f3cd";
+    content: "\f48d"
 }
 .sym-fct:before {
-  content: "\f3ce";
+    content: "\f48e"
 }
 .sym-fdz-s:before {
-  content: "\f3cf";
+    content: "\f48f"
 }
 .sym-fdz:before {
-  content: "\f3d0";
+    content: "\f490"
 }
 .sym-fee-s:before {
-  content: "\f3d1";
+    content: "\f491"
 }
 .sym-fee:before {
-  content: "\f3d2";
+    content: "\f492"
 }
 .sym-fet-s:before {
-  content: "\f3d3";
+    content: "\f493"
 }
 .sym-fet:before {
-  content: "\f3d4";
+    content: "\f494"
+}
+.sym-fida-s:before {
+    content: "\f495"
+}
+.sym-fida:before {
+    content: "\f496"
 }
 .sym-fil-s:before {
-  content: "\f3d5";
+    content: "\f497"
 }
 .sym-fil:before {
-  content: "\f3d6";
+    content: "\f498"
 }
 .sym-fio-s:before {
-  content: "\f3d7";
+    content: "\f499"
 }
 .sym-fio:before {
-  content: "\f3d8";
+    content: "\f49a"
 }
 .sym-firo-s:before {
-  content: "\f3d9";
+    content: "\f49b"
 }
 .sym-firo:before {
-  content: "\f3da";
+    content: "\f49c"
 }
 .sym-fis-s:before {
-  content: "\f3db";
+    content: "\f49d"
 }
 .sym-fis:before {
-  content: "\f3dc";
+    content: "\f49e"
 }
 .sym-fldc-s:before {
-  content: "\f3dd";
+    content: "\f49f"
 }
 .sym-fldc:before {
-  content: "\f3de";
+    content: "\f4a0"
 }
 .sym-flo-s:before {
-  content: "\f3df";
+    content: "\f4a1"
 }
 .sym-flo:before {
-  content: "\f3e0";
+    content: "\f4a2"
 }
 .sym-flow-s:before {
-  content: "\f3e1";
+    content: "\f4a3"
 }
 .sym-flow:before {
-  content: "\f3e2";
+    content: "\f4a4"
 }
 .sym-flr-s:before {
-  content: "\f3e3";
+    content: "\f4a5"
 }
 .sym-flr:before {
-  content: "\f3e4";
+    content: "\f4a6"
 }
 .sym-fluz-s:before {
-  content: "\f3e5";
+    content: "\f4a7"
 }
 .sym-fluz:before {
-  content: "\f3e6";
+    content: "\f4a8"
 }
 .sym-fnb-s:before {
-  content: "\f3e7";
+    content: "\f4a9"
 }
 .sym-fnb:before {
-  content: "\f3e8";
+    content: "\f4aa"
 }
 .sym-foam-s:before {
-  content: "\f3e9";
+    content: "\f4ab"
 }
 .sym-foam:before {
-  content: "\f3ea";
+    content: "\f4ac"
 }
 .sym-for-s:before {
-  content: "\f3eb";
+    content: "\f4ad"
 }
 .sym-for:before {
-  content: "\f3ec";
+    content: "\f4ae"
 }
 .sym-fota-s:before {
-  content: "\f3ed";
+    content: "\f4af"
 }
 .sym-fota:before {
-  content: "\f3ee";
+    content: "\f4b0"
 }
 .sym-frax-s:before {
-  content: "\f3ef";
+    content: "\f4b1"
 }
 .sym-frax:before {
-  content: "\f3f0";
+    content: "\f4b2"
 }
 .sym-front-s:before {
-  content: "\f3f1";
+    content: "\f4b3"
 }
 .sym-front:before {
-  content: "\f3f2";
+    content: "\f4b4"
 }
 .sym-fsn-s:before {
-  content: "\f3f3";
+    content: "\f4b5"
 }
 .sym-fsn:before {
-  content: "\f3f4";
+    content: "\f4b6"
 }
 .sym-ftc-s:before {
-  content: "\f3f5";
+    content: "\f4b7"
 }
 .sym-ftc:before {
-  content: "\f3f6";
+    content: "\f4b8"
 }
 .sym-fti-s:before {
-  content: "\f3f7";
+    content: "\f4b9"
 }
 .sym-fti:before {
-  content: "\f3f8";
+    content: "\f4ba"
 }
 .sym-ftm-s:before {
-  content: "\f3f9";
+    content: "\f4bb"
 }
 .sym-ftm:before {
-  content: "\f3fa";
+    content: "\f4bc"
 }
 .sym-ftt-s:before {
-  content: "\f3fb";
+    content: "\f4bd"
 }
 .sym-ftt:before {
-  content: "\f3fc";
+    content: "\f4be"
 }
 .sym-ftx-s:before {
-  content: "\f3fd";
+    content: "\f4bf"
 }
 .sym-ftx:before {
-  content: "\f3fe";
+    content: "\f4c0"
 }
 .sym-fuel-s:before {
-  content: "\f3ff";
+    content: "\f4c1"
 }
 .sym-fuel:before {
-  content: "\f400";
+    content: "\f4c2"
 }
 .sym-fun-s:before {
-  content: "\f401";
+    content: "\f4c3"
 }
 .sym-fun:before {
-  content: "\f402";
+    content: "\f4c4"
 }
 .sym-fx-s:before {
-  content: "\f403";
+    content: "\f4c5"
 }
 .sym-fx:before {
-  content: "\f404";
+    content: "\f4c6"
 }
 .sym-fxc-s:before {
-  content: "\f405";
+    content: "\f4c7"
 }
 .sym-fxc:before {
-  content: "\f406";
+    content: "\f4c8"
 }
 .sym-fxs-s:before {
-  content: "\f407";
+    content: "\f4c9"
 }
 .sym-fxs:before {
-  content: "\f408";
+    content: "\f4ca"
 }
 .sym-fxt-s:before {
-  content: "\f409";
+    content: "\f4cb"
 }
 .sym-fxt:before {
-  content: "\f40a";
+    content: "\f4cc"
 }
 .sym-game-s:before {
-  content: "\f40b";
+    content: "\f4cd"
 }
 .sym-game:before {
-  content: "\f40c";
+    content: "\f4ce"
 }
 .sym-gard-s:before {
-  content: "\f40d";
+    content: "\f4cf"
 }
 .sym-gard:before {
-  content: "\f40e";
+    content: "\f4d0"
 }
 .sym-gas-s:before {
-  content: "\f40f";
+    content: "\f4d1"
 }
 .sym-gas:before {
-  content: "\f410";
+    content: "\f4d2"
 }
 .sym-gbc-s:before {
-  content: "\f411";
+    content: "\f4d3"
 }
 .sym-gbc:before {
-  content: "\f412";
+    content: "\f4d4"
 }
 .sym-gbp-s:before {
-  content: "\f413";
+    content: "\f4d5"
 }
 .sym-gbp:before {
-  content: "\f414";
+    content: "\f4d6"
 }
 .sym-gbx-s:before {
-  content: "\f415";
+    content: "\f4d7"
 }
 .sym-gbx:before {
-  content: "\f416";
+    content: "\f4d8"
 }
 .sym-gbyte-s:before {
-  content: "\f417";
+    content: "\f4d9"
 }
 .sym-gbyte:before {
-  content: "\f418";
+    content: "\f4da"
 }
 .sym-gc-s:before {
-  content: "\f419";
+    content: "\f4db"
 }
 .sym-gc:before {
-  content: "\f41a";
+    content: "\f4dc"
 }
 .sym-gcc-s:before {
-  content: "\f41b";
+    content: "\f4dd"
 }
 .sym-gcc:before {
-  content: "\f41c";
+    content: "\f4de"
 }
 .sym-ge-s:before {
-  content: "\f41d";
+    content: "\f4df"
 }
 .sym-ge:before {
-  content: "\f41e";
+    content: "\f4e0"
 }
 .sym-gen-s:before {
-  content: "\f41f";
+    content: "\f4e1"
 }
 .sym-gen:before {
-  content: "\f420";
+    content: "\f4e2"
 }
 .sym-gens-s:before {
-  content: "\f421";
+    content: "\f4e3"
 }
 .sym-gens:before {
-  content: "\f422";
+    content: "\f4e4"
 }
 .sym-get-s:before {
-  content: "\f423";
+    content: "\f4e5"
 }
 .sym-get:before {
-  content: "\f424";
+    content: "\f4e6"
 }
 .sym-ghst-s:before {
-  content: "\f425";
+    content: "\f4e7"
 }
 .sym-ghst:before {
-  content: "\f426";
+    content: "\f4e8"
 }
 .sym-glc-s:before {
-  content: "\f427";
+    content: "\f4e9"
 }
 .sym-glc:before {
-  content: "\f428";
+    content: "\f4ea"
 }
 .sym-gld-s:before {
-  content: "\f429";
+    content: "\f4eb"
 }
 .sym-gld:before {
-  content: "\f42a";
+    content: "\f4ec"
 }
 .sym-glm-s:before {
-  content: "\f42b";
+    content: "\f4ed"
 }
 .sym-glm:before {
-  content: "\f42c";
+    content: "\f4ee"
 }
 .sym-glmr-s:before {
-  content: "\f42d";
+    content: "\f4ef"
 }
 .sym-glmr:before {
-  content: "\f42e";
+    content: "\f4f0"
 }
 .sym-gmat-s:before {
-  content: "\f42f";
+    content: "\f4f1"
 }
 .sym-gmat:before {
-  content: "\f430";
+    content: "\f4f2"
 }
 .sym-gno-s:before {
-  content: "\f431";
+    content: "\f4f3"
 }
 .sym-gno:before {
-  content: "\f432";
+    content: "\f4f4"
 }
 .sym-gnt-s:before {
-  content: "\f433";
+    content: "\f4f5"
 }
 .sym-gnt:before {
-  content: "\f434";
+    content: "\f4f6"
 }
 .sym-gnx-s:before {
-  content: "\f435";
+    content: "\f4f7"
 }
 .sym-gnx:before {
-  content: "\f436";
+    content: "\f4f8"
 }
 .sym-go-s:before {
-  content: "\f437";
+    content: "\f4f9"
 }
 .sym-go:before {
-  content: "\f438";
+    content: "\f4fa"
 }
 .sym-got-s:before {
-  content: "\f439";
+    content: "\f4fb"
 }
 .sym-got:before {
-  content: "\f43a";
+    content: "\f4fc"
 }
 .sym-grc-s:before {
-  content: "\f43b";
+    content: "\f4fd"
 }
 .sym-grc:before {
-  content: "\f43c";
+    content: "\f4fe"
 }
 .sym-grin-s:before {
-  content: "\f43d";
+    content: "\f4ff"
 }
 .sym-grin:before {
-  content: "\f43e";
+    content: "\f500"
 }
 .sym-grs-s:before {
-  content: "\f43f";
+    content: "\f501"
 }
 .sym-grs:before {
-  content: "\f440";
+    content: "\f502"
 }
 .sym-grt-s:before {
-  content: "\f441";
+    content: "\f503"
 }
 .sym-grt:before {
-  content: "\f442";
+    content: "\f504"
 }
 .sym-gsc-s:before {
-  content: "\f443";
+    content: "\f505"
 }
 .sym-gsc:before {
-  content: "\f444";
+    content: "\f506"
 }
 .sym-gt-s:before {
-  content: "\f445";
+    content: "\f507"
 }
 .sym-gt:before {
-  content: "\f446";
+    content: "\f508"
 }
 .sym-gtc-s:before {
-  content: "\f447";
+    content: "\f509"
 }
 .sym-gtc:before {
-  content: "\f448";
+    content: "\f50a"
 }
 .sym-gto-s:before {
-  content: "\f449";
+    content: "\f50b"
 }
 .sym-gto:before {
-  content: "\f44a";
+    content: "\f50c"
 }
 .sym-gup-s:before {
-  content: "\f44b";
+    content: "\f50d"
 }
 .sym-gup:before {
-  content: "\f44c";
+    content: "\f50e"
 }
 .sym-gusd-s:before {
-  content: "\f44d";
+    content: "\f50f"
 }
 .sym-gusd:before {
-  content: "\f44e";
+    content: "\f510"
 }
 .sym-gvt-s:before {
-  content: "\f44f";
+    content: "\f511"
 }
 .sym-gvt:before {
-  content: "\f450";
+    content: "\f512"
 }
 .sym-gxc-s:before {
-  content: "\f451";
+    content: "\f513"
 }
 .sym-gxc:before {
-  content: "\f452";
+    content: "\f514"
 }
 .sym-gxs-s:before {
-  content: "\f453";
+    content: "\f515"
 }
 .sym-gxs:before {
-  content: "\f454";
+    content: "\f516"
 }
 .sym-hard-s:before {
-  content: "\f455";
+    content: "\f517"
 }
 .sym-hard:before {
-  content: "\f456";
+    content: "\f518"
 }
 .sym-hbar-s:before {
-  content: "\f457";
+    content: "\f519"
 }
 .sym-hbar:before {
-  content: "\f458";
+    content: "\f51a"
 }
 .sym-hc-s:before {
-  content: "\f459";
+    content: "\f51b"
 }
 .sym-hc:before {
-  content: "\f45a";
+    content: "\f51c"
 }
 .sym-hdx-s:before {
-  content: "\f45b";
+    content: "\f51d"
 }
 .sym-hdx:before {
-  content: "\f45c";
+    content: "\f51e"
 }
 .sym-hedg-s:before {
-  content: "\f45d";
+    content: "\f51f"
 }
 .sym-hedg:before {
-  content: "\f45e";
+    content: "\f520"
 }
 .sym-hex-s:before {
-  content: "\f45f";
+    content: "\f521"
 }
 .sym-hex:before {
-  content: "\f460";
+    content: "\f522"
 }
 .sym-hg-s:before {
-  content: "\f461";
+    content: "\f523"
 }
 .sym-hg:before {
-  content: "\f462";
+    content: "\f524"
 }
 .sym-hgs-s:before {
-  content: "\f463";
+    content: "\f525"
 }
 .sym-hgs:before {
-  content: "\f464";
+    content: "\f526"
 }
 .sym-hh-s:before {
-  content: "\f465";
+    content: "\f527"
 }
 .sym-hh:before {
-  content: "\f466";
+    content: "\f528"
 }
 .sym-hit-s:before {
-  content: "\f467";
+    content: "\f529"
 }
 .sym-hit:before {
-  content: "\f468";
+    content: "\f52a"
 }
 .sym-hive-s:before {
-  content: "\f469";
+    content: "\f52b"
 }
 .sym-hive:before {
-  content: "\f46a";
+    content: "\f52c"
 }
 .sym-hkd-s:before {
-  content: "\f46b";
+    content: "\f52d"
 }
 .sym-hkd:before {
-  content: "\f46c";
+    content: "\f52e"
 }
 .sym-hmq-s:before {
-  content: "\f46d";
+    content: "\f52f"
 }
 .sym-hmq:before {
-  content: "\f46e";
+    content: "\f530"
 }
 .sym-hns-s:before {
-  content: "\f46f";
+    content: "\f531"
 }
 .sym-hns:before {
-  content: "\f470";
+    content: "\f532"
 }
 .sym-ho-s:before {
-  content: "\f471";
+    content: "\f533"
 }
 .sym-ho:before {
-  content: "\f472";
+    content: "\f534"
 }
 .sym-hot-s:before {
-  content: "\f473";
+    content: "\f535"
 }
 .sym-hot:before {
-  content: "\f474";
+    content: "\f536"
 }
 .sym-hp-s:before {
-  content: "\f475";
+    content: "\f537"
 }
 .sym-hp:before {
-  content: "\f476";
+    content: "\f538"
 }
 .sym-hpb-s:before {
-  content: "\f477";
+    content: "\f539"
 }
 .sym-hpb:before {
-  content: "\f478";
+    content: "\f53a"
 }
 .sym-hpc-s:before {
-  content: "\f479";
+    content: "\f53b"
 }
 .sym-hpc:before {
-  content: "\f47a";
+    content: "\f53c"
 }
 .sym-hpt-s:before {
-  content: "\f47b";
+    content: "\f53d"
 }
 .sym-hpt:before {
-  content: "\f47c";
+    content: "\f53e"
 }
 .sym-hrc-s:before {
-  content: "\f47d";
+    content: "\f53f"
 }
 .sym-hrc:before {
-  content: "\f47e";
+    content: "\f540"
 }
 .sym-hsc-s:before {
-  content: "\f47f";
+    content: "\f541"
 }
 .sym-hsc:before {
-  content: "\f480";
+    content: "\f542"
 }
 .sym-hsr-s:before {
-  content: "\f481";
+    content: "\f543"
 }
 .sym-hsr:before {
-  content: "\f482";
+    content: "\f544"
 }
 .sym-hst-s:before {
-  content: "\f483";
+    content: "\f545"
 }
 .sym-hst:before {
-  content: "\f484";
+    content: "\f546"
 }
 .sym-ht-s:before {
-  content: "\f485";
+    content: "\f547"
 }
 .sym-ht:before {
-  content: "\f486";
+    content: "\f548"
 }
 .sym-html-s:before {
-  content: "\f487";
+    content: "\f549"
 }
 .sym-html:before {
-  content: "\f488";
+    content: "\f54a"
 }
 .sym-htt-s:before {
-  content: "\f489";
+    content: "\f54b"
 }
 .sym-htt:before {
-  content: "\f48a";
+    content: "\f54c"
 }
 .sym-huc-s:before {
-  content: "\f48b";
+    content: "\f54d"
 }
 .sym-huc:before {
-  content: "\f48c";
+    content: "\f54e"
 }
 .sym-hvn-s:before {
-  content: "\f48d";
+    content: "\f54f"
 }
 .sym-hvn:before {
-  content: "\f48e";
+    content: "\f550"
 }
 .sym-hxro-s:before {
-  content: "\f48f";
+    content: "\f551"
 }
 .sym-hxro:before {
-  content: "\f490";
+    content: "\f552"
 }
 .sym-hyc-s:before {
-  content: "\f491";
+    content: "\f553"
 }
 .sym-hyc:before {
-  content: "\f492";
+    content: "\f554"
 }
 .sym-hydra-s:before {
-  content: "\f493";
+    content: "\f555"
 }
 .sym-hydra:before {
-  content: "\f494";
+    content: "\f556"
 }
 .sym-hydro-s:before {
-  content: "\f495";
+    content: "\f557"
 }
 .sym-hydro:before {
-  content: "\f496";
+    content: "\f558"
 }
 .sym-icn-s:before {
-  content: "\f497";
+    content: "\f559"
 }
 .sym-icn:before {
-  content: "\f498";
+    content: "\f55a"
 }
 .sym-icos-s:before {
-  content: "\f499";
+    content: "\f55b"
 }
 .sym-icos:before {
-  content: "\f49a";
+    content: "\f55c"
 }
 .sym-icp-s:before {
-  content: "\f49b";
+    content: "\f55d"
 }
 .sym-icp:before {
-  content: "\f49c";
+    content: "\f55e"
 }
 .sym-icx-s:before {
-  content: "\f49d";
+    content: "\f55f"
 }
 .sym-icx:before {
-  content: "\f49e";
+    content: "\f560"
 }
 .sym-idex-s:before {
-  content: "\f49f";
+    content: "\f561"
 }
 .sym-idex:before {
-  content: "\f4a0";
+    content: "\f562"
 }
 .sym-idh-s:before {
-  content: "\f4a1";
+    content: "\f563"
 }
 .sym-idh:before {
-  content: "\f4a2";
+    content: "\f564"
 }
 .sym-idr-s:before {
-  content: "\f4a3";
+    content: "\f565"
 }
 .sym-idr:before {
-  content: "\f4a4";
+    content: "\f566"
 }
 .sym-ift-s:before {
-  content: "\f4a5";
+    content: "\f567"
 }
 .sym-ift:before {
-  content: "\f4a6";
+    content: "\f568"
 }
 .sym-ignis-s:before {
-  content: "\f4a7";
+    content: "\f569"
 }
 .sym-ignis:before {
-  content: "\f4a8";
+    content: "\f56a"
 }
 .sym-ihf-s:before {
-  content: "\f4a9";
+    content: "\f56b"
 }
 .sym-ihf:before {
-  content: "\f4aa";
+    content: "\f56c"
 }
 .sym-iht-s:before {
-  content: "\f4ab";
+    content: "\f56d"
 }
 .sym-iht:before {
-  content: "\f4ac";
+    content: "\f56e"
 }
 .sym-ilc-s:before {
-  content: "\f4ad";
+    content: "\f56f"
 }
 .sym-ilc:before {
-  content: "\f4ae";
+    content: "\f570"
 }
 .sym-incnt-s:before {
-  content: "\f4af";
+    content: "\f571"
 }
 .sym-incnt:before {
-  content: "\f4b0";
+    content: "\f572"
 }
 .sym-ind-s:before {
-  content: "\f4b1";
+    content: "\f573"
 }
 .sym-ind:before {
-  content: "\f4b2";
+    content: "\f574"
 }
 .sym-inj-s:before {
-  content: "\f4b3";
+    content: "\f575"
 }
 .sym-inj:before {
-  content: "\f4b4";
+    content: "\f576"
 }
 .sym-ink-s:before {
-  content: "\f4b5";
+    content: "\f577"
 }
 .sym-ink:before {
-  content: "\f4b6";
+    content: "\f578"
 }
 .sym-inr-s:before {
-  content: "\f4b7";
+    content: "\f579"
 }
 .sym-inr:before {
-  content: "\f4b8";
+    content: "\f57a"
 }
 .sym-ins-s:before {
-  content: "\f4b9";
+    content: "\f57b"
 }
 .sym-ins:before {
-  content: "\f4ba";
+    content: "\f57c"
 }
 .sym-int-s:before {
-  content: "\f4bb";
+    content: "\f57d"
 }
 .sym-int:before {
-  content: "\f4bc";
+    content: "\f57e"
 }
 .sym-ioc-s:before {
-  content: "\f4bd";
+    content: "\f57f"
 }
 .sym-ioc:before {
-  content: "\f4be";
+    content: "\f580"
 }
 .sym-ion-s:before {
-  content: "\f4bf";
+    content: "\f581"
 }
 .sym-ion:before {
-  content: "\f4c0";
+    content: "\f582"
 }
 .sym-iost-s:before {
-  content: "\f4c1";
+    content: "\f583"
 }
 .sym-iost:before {
-  content: "\f4c2";
+    content: "\f584"
 }
 .sym-iot-s:before {
-  content: "\f4c3";
+    content: "\f585"
 }
 .sym-iot:before {
-  content: "\f4c4";
+    content: "\f586"
 }
 .sym-iotx-s:before {
-  content: "\f4c5";
+    content: "\f587"
 }
 .sym-iotx:before {
-  content: "\f4c6";
+    content: "\f588"
 }
 .sym-iq-s:before {
-  content: "\f4c7";
+    content: "\f589"
 }
 .sym-iq:before {
-  content: "\f4c8";
+    content: "\f58a"
 }
 .sym-iris-s:before {
-  content: "\f4c9";
+    content: "\f58b"
 }
 .sym-iris:before {
-  content: "\f4ca";
+    content: "\f58c"
 }
 .sym-itc-s:before {
-  content: "\f4cb";
+    content: "\f58d"
 }
 .sym-itc:before {
-  content: "\f4cc";
+    content: "\f58e"
 }
 .sym-ivy-s:before {
-  content: "\f4cd";
+    content: "\f58f"
 }
 .sym-ivy:before {
-  content: "\f4ce";
+    content: "\f590"
 }
 .sym-ixt-s:before {
-  content: "\f4cf";
+    content: "\f591"
 }
 .sym-ixt:before {
-  content: "\f4d0";
+    content: "\f592"
 }
 .sym-jnt-s:before {
-  content: "\f4d1";
+    content: "\f593"
 }
 .sym-jnt:before {
-  content: "\f4d2";
+    content: "\f594"
 }
 .sym-jpy-s:before {
-  content: "\f4d3";
+    content: "\f595"
 }
 .sym-jpy:before {
-  content: "\f4d4";
+    content: "\f596"
 }
 .sym-jst-s:before {
-  content: "\f4d5";
+    content: "\f597"
 }
 .sym-jst:before {
-  content: "\f4d6";
+    content: "\f598"
 }
 .sym-juv-s:before {
-  content: "\f4d7";
+    content: "\f599"
 }
 .sym-juv:before {
-  content: "\f4d8";
+    content: "\f59a"
 }
 .sym-kan-s:before {
-  content: "\f4d9";
+    content: "\f59b"
 }
 .sym-kan:before {
-  content: "\f4da";
+    content: "\f59c"
 }
 .sym-kar-s:before {
-  content: "\f4db";
+    content: "\f59d"
 }
 .sym-kar:before {
-  content: "\f4dc";
+    content: "\f59e"
 }
 .sym-kava-s:before {
-  content: "\f4dd";
+    content: "\f59f"
 }
 .sym-kava:before {
-  content: "\f4de";
+    content: "\f5a0"
 }
 .sym-kbc-s:before {
-  content: "\f4df";
+    content: "\f5a1"
 }
 .sym-kbc:before {
-  content: "\f4e0";
+    content: "\f5a2"
 }
 .sym-kcash-s:before {
-  content: "\f4e1";
+    content: "\f5a3"
 }
 .sym-kcash:before {
-  content: "\f4e2";
+    content: "\f5a4"
 }
 .sym-keep-s:before {
-  content: "\f4e3";
+    content: "\f5a5"
 }
 .sym-keep:before {
-  content: "\f4e4";
+    content: "\f5a6"
 }
 .sym-key-s:before {
-  content: "\f4e5";
+    content: "\f5a7"
 }
 .sym-key:before {
-  content: "\f4e6";
+    content: "\f5a8"
 }
 .sym-kick-s:before {
-  content: "\f4e7";
+    content: "\f5a9"
 }
 .sym-kick:before {
-  content: "\f4e8";
+    content: "\f5aa"
 }
 .sym-kilt-s:before {
-  content: "\f4e9";
+    content: "\f5ab"
 }
 .sym-kilt:before {
-  content: "\f4ea";
+    content: "\f5ac"
 }
 .sym-kin-s:before {
-  content: "\f4eb";
+    content: "\f5ad"
 }
 .sym-kin:before {
-  content: "\f4ec";
+    content: "\f5ae"
 }
 .sym-kint-s:before {
-  content: "\f4ed";
+    content: "\f5af"
 }
 .sym-kint:before {
-  content: "\f4ee";
+    content: "\f5b0"
 }
 .sym-kma-s:before {
-  content: "\f4ef";
+    content: "\f5b1"
 }
 .sym-kma:before {
-  content: "\f4f0";
+    content: "\f5b2"
 }
 .sym-kmd-s:before {
-  content: "\f4f1";
+    content: "\f5b3"
 }
 .sym-kmd:before {
-  content: "\f4f2";
+    content: "\f5b4"
 }
 .sym-knc-s:before {
-  content: "\f4f3";
+    content: "\f5b5"
 }
 .sym-knc:before {
-  content: "\f4f4";
+    content: "\f5b6"
 }
 .sym-kore-s:before {
-  content: "\f4f5";
+    content: "\f5b7"
 }
 .sym-kore:before {
-  content: "\f4f6";
+    content: "\f5b8"
 }
 .sym-krm-s:before {
-  content: "\f4f7";
+    content: "\f5b9"
 }
 .sym-krm:before {
-  content: "\f4f8";
+    content: "\f5ba"
 }
 .sym-krw-s:before {
-  content: "\f4f9";
+    content: "\f5bb"
 }
 .sym-krw:before {
-  content: "\f4fa";
+    content: "\f5bc"
 }
 .sym-ksm-s:before {
-  content: "\f4fb";
+    content: "\f5bd"
 }
 .sym-ksm:before {
-  content: "\f4fc";
+    content: "\f5be"
 }
 .sym-ksx-s:before {
-  content: "\f4fd";
+    content: "\f5bf"
 }
 .sym-ksx:before {
-  content: "\f4fe";
+    content: "\f5c0"
 }
 .sym-kyl-s:before {
-  content: "\f4ff";
+    content: "\f5c1"
 }
 .sym-kyl:before {
-  content: "\f500";
+    content: "\f5c2"
 }
 .sym-la-s:before {
-  content: "\f501";
+    content: "\f5c3"
 }
 .sym-la:before {
-  content: "\f502";
+    content: "\f5c4"
 }
 .sym-lak-s:before {
-  content: "\f503";
+    content: "\f5c5"
 }
 .sym-lak:before {
-  content: "\f504";
+    content: "\f5c6"
 }
 .sym-lamb-s:before {
-  content: "\f505";
+    content: "\f5c7"
 }
 .sym-lamb:before {
-  content: "\f506";
+    content: "\f5c8"
 }
 .sym-latx-s:before {
-  content: "\f507";
+    content: "\f5c9"
 }
 .sym-latx:before {
-  content: "\f508";
+    content: "\f5ca"
 }
 .sym-lba-s:before {
-  content: "\f509";
+    content: "\f5cb"
 }
 .sym-lba:before {
-  content: "\f50a";
+    content: "\f5cc"
 }
 .sym-lbc-s:before {
-  content: "\f50b";
+    content: "\f5cd"
 }
 .sym-lbc:before {
-  content: "\f50c";
+    content: "\f5ce"
 }
 .sym-lcc-s:before {
-  content: "\f50d";
+    content: "\f5cf"
 }
 .sym-lcc:before {
-  content: "\f50e";
+    content: "\f5d0"
 }
 .sym-lend-s:before {
-  content: "\f50f";
+    content: "\f5d1"
 }
 .sym-lend:before {
-  content: "\f510";
+    content: "\f5d2"
 }
 .sym-leo-s:before {
-  content: "\f511";
+    content: "\f5d3"
 }
 .sym-leo:before {
-  content: "\f512";
+    content: "\f5d4"
 }
 .sym-leoc-s:before {
-  content: "\f513";
+    content: "\f5d5"
 }
 .sym-leoc:before {
-  content: "\f514";
+    content: "\f5d6"
 }
 .sym-let-s:before {
-  content: "\f515";
+    content: "\f5d7"
 }
 .sym-let:before {
-  content: "\f516";
+    content: "\f5d8"
 }
 .sym-life-s:before {
-  content: "\f517";
+    content: "\f5d9"
 }
 .sym-life:before {
-  content: "\f518";
+    content: "\f5da"
 }
 .sym-link-s:before {
-  content: "\f519";
+    content: "\f5db"
 }
 .sym-link:before {
-  content: "\f51a";
+    content: "\f5dc"
 }
 .sym-lit-s:before {
-  content: "\f51b";
+    content: "\f5dd"
 }
 .sym-lit:before {
-  content: "\f51c";
+    content: "\f5de"
 }
 .sym-lmc-s:before {
-  content: "\f51d";
+    content: "\f5df"
 }
 .sym-lmc:before {
-  content: "\f51e";
+    content: "\f5e0"
 }
 .sym-lml-s:before {
-  content: "\f51f";
+    content: "\f5e1"
 }
 .sym-lml:before {
-  content: "\f520";
+    content: "\f5e2"
 }
 .sym-lnc-s:before {
-  content: "\f521";
+    content: "\f5e3"
 }
 .sym-lnc:before {
-  content: "\f522";
+    content: "\f5e4"
 }
 .sym-lnd-s:before {
-  content: "\f523";
+    content: "\f5e5"
 }
 .sym-lnd:before {
-  content: "\f524";
+    content: "\f5e6"
 }
 .sym-loc-s:before {
-  content: "\f525";
+    content: "\f5e7"
 }
 .sym-loc:before {
-  content: "\f526";
+    content: "\f5e8"
 }
 .sym-loom-s:before {
-  content: "\f527";
+    content: "\f5e9"
 }
 .sym-loom:before {
-  content: "\f528";
+    content: "\f5ea"
 }
 .sym-lpt-s:before {
-  content: "\f529";
+    content: "\f5eb"
 }
 .sym-lpt:before {
-  content: "\f52a";
+    content: "\f5ec"
 }
 .sym-lrc-s:before {
-  content: "\f52b";
+    content: "\f5ed"
 }
 .sym-lrc:before {
-  content: "\f52c";
+    content: "\f5ee"
 }
 .sym-lrn-s:before {
-  content: "\f52d";
+    content: "\f5ef"
 }
 .sym-lrn:before {
-  content: "\f52e";
+    content: "\f5f0"
 }
 .sym-lsk-s:before {
-  content: "\f52f";
+    content: "\f5f1"
 }
 .sym-lsk:before {
-  content: "\f530";
+    content: "\f5f2"
 }
 .sym-ltc-s:before {
-  content: "\f531";
+    content: "\f5f3"
 }
 .sym-ltc:before {
-  content: "\f532";
+    content: "\f5f4"
 }
 .sym-lto-s:before {
-  content: "\f533";
+    content: "\f5f5"
 }
 .sym-lto:before {
-  content: "\f534";
+    content: "\f5f6"
 }
 .sym-lun-s:before {
-  content: "\f535";
+    content: "\f5f7"
 }
 .sym-lun:before {
-  content: "\f536";
+    content: "\f5f8"
 }
 .sym-luna-s:before {
-  content: "\f537";
+    content: "\f5f9"
 }
 .sym-luna:before {
-  content: "\f538";
+    content: "\f5fa"
 }
 .sym-lxt-s:before {
-  content: "\f539";
+    content: "\f5fb"
 }
 .sym-lxt:before {
-  content: "\f53a";
+    content: "\f5fc"
 }
 .sym-lym-s:before {
-  content: "\f53b";
+    content: "\f5fd"
 }
 .sym-lym:before {
-  content: "\f53c";
+    content: "\f5fe"
 }
 .sym-m2k-s:before {
-  content: "\f53d";
+    content: "\f5ff"
 }
 .sym-m2k:before {
-  content: "\f53e";
+    content: "\f600"
 }
 .sym-ma-s:before {
-  content: "\f53f";
+    content: "\f601"
 }
 .sym-ma:before {
-  content: "\f540";
+    content: "\f602"
 }
 .sym-maid-s:before {
-  content: "\f541";
+    content: "\f603"
 }
 .sym-maid:before {
-  content: "\f542";
+    content: "\f604"
 }
 .sym-man-s:before {
-  content: "\f543";
+    content: "\f605"
 }
 .sym-man:before {
-  content: "\f544";
+    content: "\f606"
 }
 .sym-mana-s:before {
-  content: "\f545";
+    content: "\f607"
 }
 .sym-mana:before {
-  content: "\f546";
+    content: "\f608"
 }
 .sym-mass-s:before {
-  content: "\f547";
+    content: "\f609"
 }
 .sym-mass:before {
-  content: "\f548";
+    content: "\f60a"
 }
 .sym-matic-s:before {
-  content: "\f549";
+    content: "\f60b"
 }
 .sym-matic:before {
-  content: "\f54a";
+    content: "\f60c"
 }
 .sym-mbl-s:before {
-  content: "\f54b";
+    content: "\f60d"
 }
 .sym-mbl:before {
-  content: "\f54c";
+    content: "\f60e"
 }
 .sym-mbt-s:before {
-  content: "\f54d";
+    content: "\f60f"
 }
 .sym-mbt:before {
-  content: "\f54e";
+    content: "\f610"
 }
 .sym-mco-s:before {
-  content: "\f54f";
+    content: "\f611"
 }
 .sym-mco:before {
-  content: "\f550";
+    content: "\f612"
 }
 .sym-mda-s:before {
-  content: "\f551";
+    content: "\f613"
 }
 .sym-mda:before {
-  content: "\f552";
+    content: "\f614"
 }
 .sym-mds-s:before {
-  content: "\f553";
+    content: "\f615"
 }
 .sym-mds:before {
-  content: "\f554";
+    content: "\f616"
 }
 .sym-mdt-s:before {
-  content: "\f555";
+    content: "\f617"
 }
 .sym-mdt:before {
-  content: "\f556";
+    content: "\f618"
 }
 .sym-mdx-s:before {
-  content: "\f557";
+    content: "\f619"
 }
 .sym-mdx:before {
-  content: "\f558";
+    content: "\f61a"
 }
 .sym-med-s:before {
-  content: "\f559";
+    content: "\f61b"
 }
 .sym-med:before {
-  content: "\f55a";
+    content: "\f61c"
 }
 .sym-mer-s:before {
-  content: "\f55b";
+    content: "\f61d"
 }
 .sym-mer:before {
-  content: "\f55c";
+    content: "\f61e"
 }
 .sym-mes-s:before {
-  content: "\f55d";
+    content: "\f61f"
 }
 .sym-mes:before {
-  content: "\f55e";
+    content: "\f620"
 }
 .sym-met-s:before {
-  content: "\f55f";
+    content: "\f621"
 }
 .sym-met:before {
-  content: "\f560";
+    content: "\f622"
 }
 .sym-meta-s:before {
-  content: "\f561";
+    content: "\f623"
 }
 .sym-meta:before {
-  content: "\f562";
+    content: "\f624"
 }
 .sym-mft-s:before {
-  content: "\f563";
+    content: "\f625"
 }
 .sym-mft:before {
-  content: "\f564";
+    content: "\f626"
 }
 .sym-mgc-s:before {
-  content: "\f565";
+    content: "\f627"
 }
 .sym-mgc:before {
-  content: "\f566";
+    content: "\f628"
 }
 .sym-mgo-s:before {
-  content: "\f567";
+    content: "\f629"
 }
 .sym-mgo:before {
-  content: "\f568";
+    content: "\f62a"
 }
 .sym-mhc-s:before {
-  content: "\f569";
+    content: "\f62b"
 }
 .sym-mhc:before {
-  content: "\f56a";
+    content: "\f62c"
 }
 .sym-mina-s:before {
-  content: "\f56b";
+    content: "\f62d"
 }
 .sym-mina:before {
-  content: "\f56c";
+    content: "\f62e"
 }
 .sym-mir-s:before {
-  content: "\f56d";
+    content: "\f62f"
 }
 .sym-mir:before {
-  content: "\f56e";
+    content: "\f630"
 }
 .sym-mith-s:before {
-  content: "\f56f";
+    content: "\f631"
 }
 .sym-mith:before {
-  content: "\f570";
+    content: "\f632"
 }
 .sym-mitx-s:before {
-  content: "\f571";
+    content: "\f633"
 }
 .sym-mitx:before {
-  content: "\f572";
+    content: "\f634"
 }
 .sym-mjp-s:before {
-  content: "\f573";
+    content: "\f635"
 }
 .sym-mjp:before {
-  content: "\f574";
+    content: "\f636"
 }
 .sym-mkr-s:before {
-  content: "\f575";
+    content: "\f637"
 }
 .sym-mkr:before {
-  content: "\f576";
+    content: "\f638"
 }
 .sym-mln-s:before {
-  content: "\f577";
+    content: "\f639"
 }
 .sym-mln:before {
-  content: "\f578";
+    content: "\f63a"
+}
+.sym-mngo-s:before {
+    content: "\f63b"
+}
+.sym-mngo:before {
+    content: "\f63c"
 }
 .sym-mnx-s:before {
-  content: "\f579";
+    content: "\f63d"
 }
 .sym-mnx:before {
-  content: "\f57a";
+    content: "\f63e"
 }
 .sym-moac-s:before {
-  content: "\f57b";
+    content: "\f63f"
 }
 .sym-moac:before {
-  content: "\f57c";
+    content: "\f640"
 }
 .sym-mob-s:before {
-  content: "\f57d";
+    content: "\f641"
 }
 .sym-mob:before {
-  content: "\f57e";
+    content: "\f642"
 }
 .sym-mobi-s:before {
-  content: "\f57f";
+    content: "\f643"
 }
 .sym-mobi:before {
-  content: "\f580";
+    content: "\f644"
 }
 .sym-moc-s:before {
-  content: "\f581";
+    content: "\f645"
 }
 .sym-moc:before {
-  content: "\f582";
+    content: "\f646"
 }
 .sym-mod-s:before {
-  content: "\f583";
+    content: "\f647"
 }
 .sym-mod:before {
-  content: "\f584";
+    content: "\f648"
 }
 .sym-mona-s:before {
-  content: "\f585";
+    content: "\f649"
 }
 .sym-mona:before {
-  content: "\f586";
+    content: "\f64a"
 }
 .sym-moon-s:before {
-  content: "\f587";
+    content: "\f64b"
 }
 .sym-moon:before {
-  content: "\f588";
+    content: "\f64c"
 }
 .sym-morph-s:before {
-  content: "\f589";
+    content: "\f64d"
 }
 .sym-morph:before {
-  content: "\f58a";
+    content: "\f64e"
 }
 .sym-movr-s:before {
-  content: "\f58b";
+    content: "\f64f"
 }
 .sym-movr:before {
-  content: "\f58c";
+    content: "\f650"
 }
 .sym-mrk-s:before {
-  content: "\f58d";
+    content: "\f651"
 }
 .sym-mrk:before {
-  content: "\f58e";
+    content: "\f652"
 }
 .sym-msp-s:before {
-  content: "\f58f";
+    content: "\f653"
 }
 .sym-msp:before {
-  content: "\f590";
+    content: "\f654"
 }
 .sym-mta-s:before {
-  content: "\f591";
+    content: "\f655"
 }
 .sym-mta:before {
-  content: "\f592";
+    content: "\f656"
 }
 .sym-mtc-s:before {
-  content: "\f593";
+    content: "\f657"
 }
 .sym-mtc:before {
-  content: "\f594";
+    content: "\f658"
 }
 .sym-mth-s:before {
-  content: "\f595";
+    content: "\f659"
 }
 .sym-mth:before {
-  content: "\f596";
+    content: "\f65a"
 }
 .sym-mtl-s:before {
-  content: "\f597";
+    content: "\f65b"
 }
 .sym-mtl:before {
-  content: "\f598";
+    content: "\f65c"
 }
 .sym-mtn-s:before {
-  content: "\f599";
+    content: "\f65d"
 }
 .sym-mtn:before {
-  content: "\f59a";
+    content: "\f65e"
 }
 .sym-mtx-s:before {
-  content: "\f59b";
+    content: "\f65f"
 }
 .sym-mtx:before {
-  content: "\f59c";
+    content: "\f660"
 }
 .sym-mue-s:before {
-  content: "\f59d";
+    content: "\f661"
 }
 .sym-mue:before {
-  content: "\f59e";
+    content: "\f662"
 }
 .sym-mx-s:before {
-  content: "\f59f";
+    content: "\f663"
 }
 .sym-mx:before {
-  content: "\f5a0";
+    content: "\f664"
 }
 .sym-mxc-s:before {
-  content: "\f5a1";
+    content: "\f665"
 }
 .sym-mxc:before {
-  content: "\f5a2";
+    content: "\f666"
 }
 .sym-mxm-s:before {
-  content: "\f5a3";
+    content: "\f667"
 }
 .sym-mxm:before {
-  content: "\f5a4";
+    content: "\f668"
 }
 .sym-mxn-s:before {
-  content: "\f5a5";
+    content: "\f669"
 }
 .sym-mxn:before {
-  content: "\f5a6";
+    content: "\f66a"
 }
 .sym-myr-s:before {
-  content: "\f5a7";
+    content: "\f66b"
 }
 .sym-myr:before {
-  content: "\f5a8";
+    content: "\f66c"
 }
 .sym-n9l-s:before {
-  content: "\f5a9";
+    content: "\f66d"
 }
 .sym-n9l:before {
-  content: "\f5aa";
+    content: "\f66e"
 }
 .sym-nanj-s:before {
-  content: "\f5ab";
+    content: "\f66f"
 }
 .sym-nanj:before {
-  content: "\f5ac";
+    content: "\f670"
 }
 .sym-nano-s:before {
-  content: "\f5ad";
+    content: "\f671"
 }
 .sym-nano:before {
-  content: "\f5ae";
+    content: "\f672"
 }
 .sym-nas-s:before {
-  content: "\f5af";
+    content: "\f673"
 }
 .sym-nas:before {
-  content: "\f5b0";
+    content: "\f674"
 }
 .sym-naut-s:before {
-  content: "\f5b1";
+    content: "\f675"
 }
 .sym-naut:before {
-  content: "\f5b2";
+    content: "\f676"
 }
 .sym-nav-s:before {
-  content: "\f5b3";
+    content: "\f677"
 }
 .sym-nav:before {
-  content: "\f5b4";
+    content: "\f678"
 }
 .sym-ncash-s:before {
-  content: "\f5b5";
+    content: "\f679"
 }
 .sym-ncash:before {
-  content: "\f5b6";
+    content: "\f67a"
 }
 .sym-nct-s:before {
-  content: "\f5b7";
+    content: "\f67b"
 }
 .sym-nct:before {
-  content: "\f5b8";
+    content: "\f67c"
 }
 .sym-near-s:before {
-  content: "\f5b9";
+    content: "\f67d"
 }
 .sym-near:before {
-  content: "\f5ba";
+    content: "\f67e"
 }
 .sym-nebl-s:before {
-  content: "\f5bb";
+    content: "\f67f"
 }
 .sym-nebl:before {
-  content: "\f5bc";
+    content: "\f680"
 }
 .sym-nec-s:before {
-  content: "\f5bd";
+    content: "\f681"
 }
 .sym-nec:before {
-  content: "\f5be";
+    content: "\f682"
 }
 .sym-neo-s:before {
-  content: "\f5bf";
+    content: "\f683"
 }
 .sym-neo:before {
-  content: "\f5c0";
+    content: "\f684"
 }
 .sym-neos-s:before {
-  content: "\f5c1";
+    content: "\f685"
 }
 .sym-neos:before {
-  content: "\f5c2";
+    content: "\f686"
 }
 .sym-nest-s:before {
-  content: "\f5c3";
+    content: "\f687"
 }
 .sym-nest:before {
-  content: "\f5c4";
+    content: "\f688"
 }
 .sym-neu-s:before {
-  content: "\f5c5";
+    content: "\f689"
 }
 .sym-neu:before {
-  content: "\f5c6";
+    content: "\f68a"
 }
 .sym-new-s:before {
-  content: "\f5c7";
+    content: "\f68b"
 }
 .sym-new:before {
-  content: "\f5c8";
+    content: "\f68c"
 }
 .sym-nexo-s:before {
-  content: "\f5c9";
+    content: "\f68d"
 }
 .sym-nexo:before {
-  content: "\f5ca";
+    content: "\f68e"
 }
 .sym-nft-s:before {
-  content: "\f5cb";
+    content: "\f68f"
 }
 .sym-nft:before {
-  content: "\f5cc";
+    content: "\f690"
 }
 .sym-ng-s:before {
-  content: "\f5cd";
+    content: "\f691"
 }
 .sym-ng:before {
-  content: "\f5ce";
+    content: "\f692"
 }
 .sym-ngc-s:before {
-  content: "\f5cf";
+    content: "\f693"
 }
 .sym-ngc:before {
-  content: "\f5d0";
+    content: "\f694"
 }
 .sym-ngn-s:before {
-  content: "\f5d1";
+    content: "\f695"
 }
 .sym-ngn:before {
-  content: "\f5d2";
+    content: "\f696"
 }
 .sym-nim-s:before {
-  content: "\f5d3";
+    content: "\f697"
 }
 .sym-nim:before {
-  content: "\f5d4";
+    content: "\f698"
 }
 .sym-niy-s:before {
-  content: "\f5d5";
+    content: "\f699"
 }
 .sym-niy:before {
-  content: "\f5d6";
+    content: "\f69a"
 }
 .sym-nkd-s:before {
-  content: "\f5d7";
+    content: "\f69b"
 }
 .sym-nkd:before {
-  content: "\f5d8";
+    content: "\f69c"
 }
 .sym-nkn-s:before {
-  content: "\f5d9";
+    content: "\f69d"
 }
 .sym-nkn:before {
-  content: "\f5da";
+    content: "\f69e"
 }
 .sym-nlc2-s:before {
-  content: "\f5db";
+    content: "\f69f"
 }
 .sym-nlc2:before {
-  content: "\f5dc";
+    content: "\f6a0"
 }
 .sym-nlg-s:before {
-  content: "\f5dd";
+    content: "\f6a1"
 }
 .sym-nlg:before {
-  content: "\f5de";
+    content: "\f6a2"
 }
 .sym-nmc-s:before {
-  content: "\f5df";
+    content: "\f6a3"
 }
 .sym-nmc:before {
-  content: "\f5e0";
+    content: "\f6a4"
 }
 .sym-nmr-s:before {
-  content: "\f5e1";
+    content: "\f6a5"
 }
 .sym-nmr:before {
-  content: "\f5e2";
+    content: "\f6a6"
 }
 .sym-nn-s:before {
-  content: "\f5e3";
+    content: "\f6a7"
 }
 .sym-nn:before {
-  content: "\f5e4";
+    content: "\f6a8"
 }
 .sym-noah-s:before {
-  content: "\f5e5";
+    content: "\f6a9"
 }
 .sym-noah:before {
-  content: "\f5e6";
+    content: "\f6aa"
 }
 .sym-note-s:before {
-  content: "\f5e7";
+    content: "\f6ab"
 }
 .sym-note:before {
-  content: "\f5e8";
+    content: "\f6ac"
 }
 .sym-npg-s:before {
-  content: "\f5e9";
+    content: "\f6ad"
 }
 .sym-npg:before {
-  content: "\f5ea";
+    content: "\f6ae"
 }
 .sym-nplc-s:before {
-  content: "\f5eb";
+    content: "\f6af"
 }
 .sym-nplc:before {
-  content: "\f5ec";
+    content: "\f6b0"
 }
 .sym-npxs-s:before {
-  content: "\f5ed";
+    content: "\f6b1"
 }
 .sym-npxs:before {
-  content: "\f5ee";
+    content: "\f6b2"
 }
 .sym-nq-s:before {
-  content: "\f5ef";
+    content: "\f6b3"
 }
 .sym-nq:before {
-  content: "\f5f0";
+    content: "\f6b4"
 }
 .sym-nrg-s:before {
-  content: "\f5f1";
+    content: "\f6b5"
 }
 .sym-nrg:before {
-  content: "\f5f2";
+    content: "\f6b6"
 }
 .sym-ntk-s:before {
-  content: "\f5f3";
+    content: "\f6b7"
 }
 .sym-ntk:before {
-  content: "\f5f4";
+    content: "\f6b8"
 }
 .sym-nu-s:before {
-  content: "\f5f5";
+    content: "\f6b9"
 }
 .sym-nu:before {
-  content: "\f5f6";
+    content: "\f6ba"
 }
 .sym-nuls-s:before {
-  content: "\f5f7";
+    content: "\f6bb"
 }
 .sym-nuls:before {
-  content: "\f5f8";
+    content: "\f6bc"
 }
 .sym-nvc-s:before {
-  content: "\f5f9";
+    content: "\f6bd"
 }
 .sym-nvc:before {
-  content: "\f5fa";
+    content: "\f6be"
 }
 .sym-nxc-s:before {
-  content: "\f5fb";
+    content: "\f6bf"
 }
 .sym-nxc:before {
-  content: "\f5fc";
+    content: "\f6c0"
 }
 .sym-nxs-s:before {
-  content: "\f5fd";
+    content: "\f6c1"
 }
 .sym-nxs:before {
-  content: "\f5fe";
+    content: "\f6c2"
 }
 .sym-nxt-s:before {
-  content: "\f5ff";
+    content: "\f6c3"
 }
 .sym-nxt:before {
-  content: "\f600";
+    content: "\f6c4"
 }
 .sym-o-s:before {
-  content: "\f601";
+    content: "\f6c5"
 }
 .sym-o:before {
-  content: "\f602";
+    content: "\f6c6"
 }
 .sym-oax-s:before {
-  content: "\f603";
+    content: "\f6c7"
 }
 .sym-oax:before {
-  content: "\f604";
+    content: "\f6c8"
 }
 .sym-ocean-s:before {
-  content: "\f605";
+    content: "\f6c9"
 }
 .sym-ocean:before {
-  content: "\f606";
+    content: "\f6ca"
 }
 .sym-ocn-s:before {
-  content: "\f607";
+    content: "\f6cb"
 }
 .sym-ocn:before {
-  content: "\f608";
+    content: "\f6cc"
 }
 .sym-ode-s:before {
-  content: "\f609";
+    content: "\f6cd"
 }
 .sym-ode:before {
-  content: "\f60a";
+    content: "\f6ce"
 }
 .sym-ogn-s:before {
-  content: "\f60b";
+    content: "\f6cf"
 }
 .sym-ogn:before {
-  content: "\f60c";
+    content: "\f6d0"
 }
 .sym-ogo-s:before {
-  content: "\f60d";
+    content: "\f6d1"
 }
 .sym-ogo:before {
-  content: "\f60e";
+    content: "\f6d2"
 }
 .sym-ok-s:before {
-  content: "\f60f";
+    content: "\f6d3"
 }
 .sym-ok:before {
-  content: "\f610";
+    content: "\f6d4"
 }
 .sym-okb-s:before {
-  content: "\f611";
+    content: "\f6d5"
 }
 .sym-okb:before {
-  content: "\f612";
+    content: "\f6d6"
 }
 .sym-om-s:before {
-  content: "\f613";
+    content: "\f6d7"
 }
 .sym-om:before {
-  content: "\f614";
+    content: "\f6d8"
 }
 .sym-omg-s:before {
-  content: "\f615";
+    content: "\f6d9"
 }
 .sym-omg:before {
-  content: "\f616";
+    content: "\f6da"
 }
 .sym-omni-s:before {
-  content: "\f617";
+    content: "\f6db"
 }
 .sym-omni:before {
-  content: "\f618";
+    content: "\f6dc"
 }
 .sym-one-s:before {
-  content: "\f619";
+    content: "\f6dd"
 }
 .sym-one:before {
-  content: "\f61a";
+    content: "\f6de"
 }
 .sym-ong-s:before {
-  content: "\f61b";
+    content: "\f6df"
 }
 .sym-ong:before {
-  content: "\f61c";
+    content: "\f6e0"
 }
 .sym-onot-s:before {
-  content: "\f61d";
+    content: "\f6e1"
 }
 .sym-onot:before {
-  content: "\f61e";
+    content: "\f6e2"
 }
 .sym-ont-s:before {
-  content: "\f61f";
+    content: "\f6e3"
 }
 .sym-ont:before {
-  content: "\f620";
+    content: "\f6e4"
 }
 .sym-orbs-s:before {
-  content: "\f621";
+    content: "\f6e5"
 }
 .sym-orbs:before {
-  content: "\f622";
+    content: "\f6e6"
+}
+.sym-orca-s:before {
+    content: "\f6e7"
+}
+.sym-orca:before {
+    content: "\f6e8"
 }
 .sym-orme-s:before {
-  content: "\f623";
+    content: "\f6e9"
 }
 .sym-orme:before {
-  content: "\f624";
+    content: "\f6ea"
 }
 .sym-ors-s:before {
-  content: "\f625";
+    content: "\f6eb"
 }
 .sym-ors:before {
-  content: "\f626";
+    content: "\f6ec"
 }
 .sym-ost-s:before {
-  content: "\f627";
+    content: "\f6ed"
 }
 .sym-ost:before {
-  content: "\f628";
+    content: "\f6ee"
 }
 .sym-otn-s:before {
-  content: "\f629";
+    content: "\f6ef"
 }
 .sym-otn:before {
-  content: "\f62a";
+    content: "\f6f0"
 }
 .sym-oxt-s:before {
-  content: "\f62b";
+    content: "\f6f1"
 }
 .sym-oxt:before {
-  content: "\f62c";
+    content: "\f6f2"
 }
 .sym-oxy-s:before {
-  content: "\f62d";
+    content: "\f6f3"
 }
 .sym-oxy:before {
-  content: "\f62e";
+    content: "\f6f4"
 }
 .sym-pai-s:before {
-  content: "\f62f";
+    content: "\f6f5"
 }
 .sym-pai:before {
-  content: "\f630";
+    content: "\f6f6"
 }
 .sym-pal-s:before {
-  content: "\f631";
+    content: "\f6f7"
 }
 .sym-pal:before {
-  content: "\f632";
+    content: "\f6f8"
 }
 .sym-para-s:before {
-  content: "\f633";
+    content: "\f6f9"
 }
 .sym-para:before {
-  content: "\f634";
+    content: "\f6fa"
 }
 .sym-part-s:before {
-  content: "\f635";
+    content: "\f6fb"
 }
 .sym-part:before {
-  content: "\f636";
+    content: "\f6fc"
 }
 .sym-pasc-s:before {
-  content: "\f637";
+    content: "\f6fd"
 }
 .sym-pasc:before {
-  content: "\f638";
+    content: "\f6fe"
 }
 .sym-pat-s:before {
-  content: "\f639";
+    content: "\f6ff"
 }
 .sym-pat:before {
-  content: "\f63a";
+    content: "\f700"
 }
 .sym-pax-s:before {
-  content: "\f63b";
+    content: "\f701"
 }
 .sym-pax:before {
-  content: "\f63c";
+    content: "\f702"
 }
 .sym-paxg-s:before {
-  content: "\f63d";
+    content: "\f703"
 }
 .sym-paxg:before {
-  content: "\f63e";
+    content: "\f704"
 }
 .sym-pay-s:before {
-  content: "\f63f";
+    content: "\f705"
 }
 .sym-pay:before {
-  content: "\f640";
+    content: "\f706"
 }
 .sym-pbt-s:before {
-  content: "\f641";
+    content: "\f707"
 }
 .sym-pbt:before {
-  content: "\f642";
+    content: "\f708"
 }
 .sym-pcl-s:before {
-  content: "\f643";
+    content: "\f709"
 }
 .sym-pcl:before {
-  content: "\f644";
+    content: "\f70a"
 }
 .sym-pcx-s:before {
-  content: "\f645";
+    content: "\f70b"
 }
 .sym-pcx:before {
-  content: "\f646";
+    content: "\f70c"
 }
 .sym-perl-s:before {
-  content: "\f647";
+    content: "\f70d"
 }
 .sym-perl:before {
-  content: "\f648";
+    content: "\f70e"
 }
 .sym-perp-s:before {
-  content: "\f649";
+    content: "\f70f"
 }
 .sym-perp:before {
-  content: "\f64a";
+    content: "\f710"
 }
 .sym-pha-s:before {
-  content: "\f64b";
+    content: "\f711"
 }
 .sym-pha:before {
-  content: "\f64c";
+    content: "\f712"
 }
 .sym-phb-s:before {
-  content: "\f64d";
+    content: "\f713"
 }
 .sym-phb:before {
-  content: "\f64e";
+    content: "\f714"
 }
 .sym-php-s:before {
-  content: "\f64f";
+    content: "\f715"
 }
 .sym-php:before {
-  content: "\f650";
+    content: "\f716"
 }
 .sym-phx-s:before {
-  content: "\f651";
+    content: "\f717"
 }
 .sym-phx:before {
-  content: "\f652";
+    content: "\f718"
 }
 .sym-pi-s:before {
-  content: "\f653";
+    content: "\f719"
 }
 .sym-pi:before {
-  content: "\f654";
+    content: "\f71a"
 }
 .sym-pica-s:before {
-  content: "\f655";
+    content: "\f71b"
 }
 .sym-pica:before {
-  content: "\f656";
+    content: "\f71c"
 }
 .sym-pink-s:before {
-  content: "\f657";
+    content: "\f71d"
 }
 .sym-pink:before {
-  content: "\f658";
+    content: "\f71e"
 }
 .sym-pivx-s:before {
-  content: "\f659";
+    content: "\f71f"
 }
 .sym-pivx:before {
-  content: "\f65a";
+    content: "\f720"
 }
 .sym-pkt-s:before {
-  content: "\f65b";
+    content: "\f721"
 }
 .sym-pkt:before {
-  content: "\f65c";
+    content: "\f722"
 }
 .sym-pl-s:before {
-  content: "\f65d";
+    content: "\f723"
 }
 .sym-pl:before {
-  content: "\f65e";
+    content: "\f724"
 }
 .sym-pla-s:before {
-  content: "\f65f";
+    content: "\f725"
 }
 .sym-pla:before {
-  content: "\f660";
+    content: "\f726"
 }
 .sym-plbt-s:before {
-  content: "\f661";
+    content: "\f727"
 }
 .sym-plbt:before {
-  content: "\f662";
+    content: "\f728"
 }
 .sym-plm-s:before {
-  content: "\f663";
+    content: "\f729"
 }
 .sym-plm:before {
-  content: "\f664";
+    content: "\f72a"
 }
 .sym-pln-s:before {
-  content: "\f665";
+    content: "\f72b"
 }
 .sym-pln:before {
-  content: "\f666";
+    content: "\f72c"
 }
 .sym-plr-s:before {
-  content: "\f667";
+    content: "\f72d"
 }
 .sym-plr:before {
-  content: "\f668";
+    content: "\f72e"
 }
 .sym-ply-s:before {
-  content: "\f669";
+    content: "\f72f"
 }
 .sym-ply:before {
-  content: "\f66a";
+    content: "\f730"
 }
 .sym-pma-s:before {
-  content: "\f66b";
+    content: "\f731"
 }
 .sym-pma:before {
-  content: "\f66c";
+    content: "\f732"
 }
 .sym-pnt-s:before {
-  content: "\f66d";
+    content: "\f733"
 }
 .sym-pnt:before {
-  content: "\f66e";
+    content: "\f734"
 }
 .sym-poa-s:before {
-  content: "\f66f";
+    content: "\f735"
 }
 .sym-poa:before {
-  content: "\f670";
+    content: "\f736"
 }
 .sym-poe-s:before {
-  content: "\f671";
+    content: "\f737"
 }
 .sym-poe:before {
-  content: "\f672";
+    content: "\f738"
+}
+.sym-polis-s:before {
+    content: "\f739"
+}
+.sym-polis:before {
+    content: "\f73a"
 }
 .sym-pols-s:before {
-  content: "\f673";
+    content: "\f73b"
 }
 .sym-pols:before {
-  content: "\f674";
+    content: "\f73c"
 }
 .sym-poly-s:before {
-  content: "\f675";
+    content: "\f73d"
 }
 .sym-poly:before {
-  content: "\f676";
+    content: "\f73e"
 }
 .sym-pond-s:before {
-  content: "\f677";
+    content: "\f73f"
 }
 .sym-pond:before {
-  content: "\f678";
+    content: "\f740"
 }
 .sym-pot-s:before {
-  content: "\f679";
+    content: "\f741"
 }
 .sym-pot:before {
-  content: "\f67a";
+    content: "\f742"
 }
 .sym-powr-s:before {
-  content: "\f67b";
+    content: "\f743"
 }
 .sym-powr:before {
-  content: "\f67c";
+    content: "\f744"
 }
 .sym-ppc-s:before {
-  content: "\f67d";
+    content: "\f745"
 }
 .sym-ppc:before {
-  content: "\f67e";
+    content: "\f746"
 }
 .sym-ppt-s:before {
-  content: "\f67f";
+    content: "\f747"
 }
 .sym-ppt:before {
-  content: "\f680";
+    content: "\f748"
 }
 .sym-pra-s:before {
-  content: "\f681";
+    content: "\f749"
 }
 .sym-pra:before {
-  content: "\f682";
+    content: "\f74a"
 }
 .sym-pre-s:before {
-  content: "\f683";
+    content: "\f74b"
 }
 .sym-pre:before {
-  content: "\f684";
+    content: "\f74c"
 }
 .sym-prg-s:before {
-  content: "\f685";
+    content: "\f74d"
 }
 .sym-prg:before {
-  content: "\f686";
+    content: "\f74e"
 }
 .sym-pro-s:before {
-  content: "\f687";
+    content: "\f74f"
 }
 .sym-pro:before {
-  content: "\f688";
+    content: "\f750"
 }
 .sym-pst-s:before {
-  content: "\f689";
+    content: "\f751"
 }
 .sym-pst:before {
-  content: "\f68a";
+    content: "\f752"
 }
 .sym-pton-s:before {
-  content: "\f68b";
+    content: "\f753"
 }
 .sym-pton:before {
-  content: "\f68c";
+    content: "\f754"
 }
 .sym-pvt-s:before {
-  content: "\f68d";
+    content: "\f755"
 }
 .sym-pvt:before {
-  content: "\f68e";
+    content: "\f756"
 }
 .sym-pxg-s:before {
-  content: "\f68f";
+    content: "\f757"
 }
 .sym-pxg:before {
-  content: "\f690";
+    content: "\f758"
 }
 .sym-qash-s:before {
-  content: "\f691";
+    content: "\f759"
 }
 .sym-qash:before {
-  content: "\f692";
+    content: "\f75a"
 }
 .sym-qau-s:before {
-  content: "\f693";
+    content: "\f75b"
 }
 .sym-qau:before {
-  content: "\f694";
+    content: "\f75c"
 }
 .sym-qc-s:before {
-  content: "\f695";
+    content: "\f75d"
 }
 .sym-qc:before {
-  content: "\f696";
+    content: "\f75e"
 }
 .sym-qi-s:before {
-  content: "\f697";
+    content: "\f75f"
 }
 .sym-qi:before {
-  content: "\f698";
+    content: "\f760"
 }
 .sym-qkc-s:before {
-  content: "\f699";
+    content: "\f761"
 }
 .sym-qkc:before {
-  content: "\f69a";
+    content: "\f762"
 }
 .sym-qlc-s:before {
-  content: "\f69b";
+    content: "\f763"
 }
 .sym-qlc:before {
-  content: "\f69c";
+    content: "\f764"
 }
 .sym-qnt-s:before {
-  content: "\f69d";
+    content: "\f765"
 }
 .sym-qnt:before {
-  content: "\f69e";
+    content: "\f766"
 }
 .sym-qntu-s:before {
-  content: "\f69f";
+    content: "\f767"
 }
 .sym-qntu:before {
-  content: "\f6a0";
+    content: "\f768"
 }
 .sym-qo-s:before {
-  content: "\f6a1";
+    content: "\f769"
 }
 .sym-qo:before {
-  content: "\f6a2";
+    content: "\f76a"
 }
 .sym-qrl-s:before {
-  content: "\f6a3";
+    content: "\f76b"
 }
 .sym-qrl:before {
-  content: "\f6a4";
+    content: "\f76c"
 }
 .sym-qsp-s:before {
-  content: "\f6a5";
+    content: "\f76d"
 }
 .sym-qsp:before {
-  content: "\f6a6";
+    content: "\f76e"
 }
 .sym-qtum-s:before {
-  content: "\f6a7";
+    content: "\f76f"
 }
 .sym-qtum:before {
-  content: "\f6a8";
+    content: "\f770"
 }
 .sym-qun-s:before {
-  content: "\f6a9";
+    content: "\f771"
 }
 .sym-qun:before {
-  content: "\f6aa";
+    content: "\f772"
 }
 .sym-r-s:before {
-  content: "\f6ab";
+    content: "\f773"
 }
 .sym-r:before {
-  content: "\f6ac";
+    content: "\f774"
 }
 .sym-rad-s:before {
-  content: "\f6ad";
+    content: "\f775"
 }
 .sym-rad:before {
-  content: "\f6ae";
+    content: "\f776"
 }
 .sym-rads-s:before {
-  content: "\f6af";
+    content: "\f777"
 }
 .sym-rads:before {
-  content: "\f6b0";
+    content: "\f778"
 }
 .sym-rari-s:before {
-  content: "\f6b1";
+    content: "\f779"
 }
 .sym-rari:before {
-  content: "\f6b2";
+    content: "\f77a"
 }
 .sym-rating-s:before {
-  content: "\f6b3";
+    content: "\f77b"
 }
 .sym-rating:before {
-  content: "\f6b4";
+    content: "\f77c"
 }
 .sym-ray-s:before {
-  content: "\f6b5";
+    content: "\f77d"
 }
 .sym-ray:before {
-  content: "\f6b6";
+    content: "\f77e"
 }
 .sym-rb-s:before {
-  content: "\f6b7";
+    content: "\f77f"
 }
 .sym-rb:before {
-  content: "\f6b8";
+    content: "\f780"
 }
 .sym-rblx-s:before {
-  content: "\f6b9";
+    content: "\f781"
 }
 .sym-rblx:before {
-  content: "\f6ba";
+    content: "\f782"
 }
 .sym-rbtc-s:before {
-  content: "\f6bb";
+    content: "\f783"
 }
 .sym-rbtc:before {
-  content: "\f6bc";
+    content: "\f784"
 }
 .sym-rby-s:before {
-  content: "\f6bd";
+    content: "\f785"
 }
 .sym-rby:before {
-  content: "\f6be";
+    content: "\f786"
 }
 .sym-rcn-s:before {
-  content: "\f6bf";
+    content: "\f787"
 }
 .sym-rcn:before {
-  content: "\f6c0";
+    content: "\f788"
 }
 .sym-rdd-s:before {
-  content: "\f6c1";
+    content: "\f789"
 }
 .sym-rdd:before {
-  content: "\f6c2";
+    content: "\f78a"
 }
 .sym-rdn-s:before {
-  content: "\f6c3";
+    content: "\f78b"
 }
 .sym-rdn:before {
-  content: "\f6c4";
+    content: "\f78c"
 }
 .sym-reef-s:before {
-  content: "\f6c5";
+    content: "\f78d"
 }
 .sym-reef:before {
-  content: "\f6c6";
+    content: "\f78e"
 }
 .sym-rem-s:before {
-  content: "\f6c7";
+    content: "\f78f"
 }
 .sym-rem:before {
-  content: "\f6c8";
+    content: "\f790"
 }
 .sym-ren-s:before {
-  content: "\f6c9";
+    content: "\f791"
 }
 .sym-ren:before {
-  content: "\f6ca";
+    content: "\f792"
 }
 .sym-rep-s:before {
-  content: "\f6cb";
+    content: "\f793"
 }
 .sym-rep:before {
-  content: "\f6cc";
+    content: "\f794"
 }
 .sym-repv2-s:before {
-  content: "\f6cd";
+    content: "\f795"
 }
 .sym-repv2:before {
-  content: "\f6ce";
+    content: "\f796"
 }
 .sym-req-s:before {
-  content: "\f6cf";
+    content: "\f797"
 }
 .sym-req:before {
-  content: "\f6d0";
+    content: "\f798"
 }
 .sym-rev-s:before {
-  content: "\f6d1";
+    content: "\f799"
 }
 .sym-rev:before {
-  content: "\f6d2";
+    content: "\f79a"
 }
 .sym-rfox-s:before {
-  content: "\f6d3";
+    content: "\f79b"
 }
 .sym-rfox:before {
-  content: "\f6d4";
+    content: "\f79c"
 }
 .sym-rfr-s:before {
-  content: "\f6d5";
+    content: "\f79d"
 }
 .sym-rfr:before {
-  content: "\f6d6";
+    content: "\f79e"
 }
 .sym-ric-s:before {
-  content: "\f6d7";
+    content: "\f79f"
 }
 .sym-ric:before {
-  content: "\f6d8";
+    content: "\f7a0"
 }
 .sym-rif-s:before {
-  content: "\f6d9";
+    content: "\f7a1"
 }
 .sym-rif:before {
-  content: "\f6da";
+    content: "\f7a2"
 }
 .sym-ring-s:before {
-  content: "\f6db";
+    content: "\f7a3"
 }
 .sym-ring:before {
-  content: "\f6dc";
+    content: "\f7a4"
 }
 .sym-rlc-s:before {
-  content: "\f6dd";
+    content: "\f7a5"
 }
 .sym-rlc:before {
-  content: "\f6de";
+    content: "\f7a6"
 }
 .sym-rmrk-s:before {
-  content: "\f6df";
+    content: "\f7a7"
 }
 .sym-rmrk:before {
-  content: "\f6e0";
+    content: "\f7a8"
 }
 .sym-rntb-s:before {
-  content: "\f6e1";
+    content: "\f7a9"
 }
 .sym-rntb:before {
-  content: "\f6e2";
+    content: "\f7aa"
 }
 .sym-rose-s:before {
-  content: "\f6e3";
+    content: "\f7ab"
 }
 .sym-rose:before {
-  content: "\f6e4";
+    content: "\f7ac"
 }
 .sym-rox-s:before {
-  content: "\f6e5";
+    content: "\f7ad"
 }
 .sym-rox:before {
-  content: "\f6e6";
+    content: "\f7ae"
 }
 .sym-rp-s:before {
-  content: "\f6e7";
+    content: "\f7af"
 }
 .sym-rp:before {
-  content: "\f6e8";
+    content: "\f7b0"
 }
 .sym-rpx-s:before {
-  content: "\f6e9";
+    content: "\f7b1"
 }
 .sym-rpx:before {
-  content: "\f6ea";
+    content: "\f7b2"
 }
 .sym-rsr-s:before {
-  content: "\f6eb";
+    content: "\f7b3"
 }
 .sym-rsr:before {
-  content: "\f6ec";
+    content: "\f7b4"
 }
 .sym-rsv-s:before {
-  content: "\f6ed";
+    content: "\f7b5"
 }
 .sym-rsv:before {
-  content: "\f6ee";
+    content: "\f7b6"
 }
 .sym-rty-s:before {
-  content: "\f6ef";
+    content: "\f7b7"
 }
 .sym-rty:before {
-  content: "\f6f0";
+    content: "\f7b8"
 }
 .sym-rub-s:before {
-  content: "\f6f1";
+    content: "\f7b9"
 }
 .sym-rub:before {
-  content: "\f6f2";
+    content: "\f7ba"
 }
 .sym-ruff-s:before {
-  content: "\f6f3";
+    content: "\f7bb"
 }
 .sym-ruff:before {
-  content: "\f6f4";
+    content: "\f7bc"
 }
 .sym-rune-s:before {
-  content: "\f6f5";
+    content: "\f7bd"
 }
 .sym-rune:before {
-  content: "\f6f6";
+    content: "\f7be"
 }
 .sym-rvn-s:before {
-  content: "\f6f7";
+    content: "\f7bf"
 }
 .sym-rvn:before {
-  content: "\f6f8";
+    content: "\f7c0"
 }
 .sym-rvr-s:before {
-  content: "\f6f9";
+    content: "\f7c1"
 }
 .sym-rvr:before {
-  content: "\f6fa";
+    content: "\f7c2"
 }
 .sym-rvt-s:before {
-  content: "\f6fb";
+    content: "\f7c3"
 }
 .sym-rvt:before {
-  content: "\f6fc";
+    content: "\f7c4"
 }
 .sym-sai-s:before {
-  content: "\f6fd";
+    content: "\f7c5"
 }
 .sym-sai:before {
-  content: "\f6fe";
+    content: "\f7c6"
 }
 .sym-salt-s:before {
-  content: "\f6ff";
+    content: "\f7c7"
 }
 .sym-salt:before {
-  content: "\f700";
+    content: "\f7c8"
 }
 .sym-san-s:before {
-  content: "\f701";
+    content: "\f7c9"
 }
 .sym-san:before {
-  content: "\f702";
+    content: "\f7ca"
 }
 .sym-sand-s:before {
-  content: "\f703";
+    content: "\f7cb"
 }
 .sym-sand:before {
-  content: "\f704";
+    content: "\f7cc"
 }
 .sym-sats-s:before {
-  content: "\f705";
+    content: "\f7cd"
 }
 .sym-sats:before {
-  content: "\f706";
+    content: "\f7ce"
 }
 .sym-sbd-s:before {
-  content: "\f707";
+    content: "\f7cf"
 }
 .sym-sbd:before {
-  content: "\f708";
+    content: "\f7d0"
+}
+.sym-sbr-s:before {
+    content: "\f7d1"
+}
+.sym-sbr:before {
+    content: "\f7d2"
 }
 .sym-sc-s:before {
-  content: "\f709";
+    content: "\f7d3"
 }
 .sym-sc:before {
-  content: "\f70a";
+    content: "\f7d4"
 }
 .sym-scc-s:before {
-  content: "\f70b";
+    content: "\f7d5"
 }
 .sym-scc:before {
-  content: "\f70c";
+    content: "\f7d6"
 }
 .sym-scrt-s:before {
-  content: "\f70d";
+    content: "\f7d7"
 }
 .sym-scrt:before {
-  content: "\f70e";
+    content: "\f7d8"
 }
 .sym-sdc-s:before {
-  content: "\f70f";
+    content: "\f7d9"
 }
 .sym-sdc:before {
-  content: "\f710";
+    content: "\f7da"
 }
 .sym-sdn-s:before {
-  content: "\f711";
+    content: "\f7db"
 }
 .sym-sdn:before {
-  content: "\f712";
+    content: "\f7dc"
 }
 .sym-seele-s:before {
-  content: "\f713";
+    content: "\f7dd"
 }
 .sym-seele:before {
-  content: "\f714";
+    content: "\f7de"
 }
 .sym-sek-s:before {
-  content: "\f715";
+    content: "\f7df"
 }
 .sym-sek:before {
-  content: "\f716";
+    content: "\f7e0"
 }
 .sym-sen-s:before {
-  content: "\f717";
+    content: "\f7e1"
 }
 .sym-sen:before {
-  content: "\f718";
+    content: "\f7e2"
 }
 .sym-sent-s:before {
-  content: "\f719";
+    content: "\f7e3"
 }
 .sym-sent:before {
-  content: "\f71a";
+    content: "\f7e4"
 }
 .sym-sero-s:before {
-  content: "\f71b";
+    content: "\f7e5"
 }
 .sym-sero:before {
-  content: "\f71c";
+    content: "\f7e6"
 }
 .sym-sexc-s:before {
-  content: "\f71d";
+    content: "\f7e7"
 }
 .sym-sexc:before {
-  content: "\f71e";
+    content: "\f7e8"
 }
 .sym-sfp-s:before {
-  content: "\f71f";
+    content: "\f7e9"
 }
 .sym-sfp:before {
-  content: "\f720";
+    content: "\f7ea"
 }
 .sym-sgb-s:before {
-  content: "\f721";
+    content: "\f7eb"
 }
 .sym-sgb:before {
-  content: "\f722";
+    content: "\f7ec"
 }
 .sym-sgc-s:before {
-  content: "\f723";
+    content: "\f7ed"
 }
 .sym-sgc:before {
-  content: "\f724";
+    content: "\f7ee"
 }
 .sym-sgd-s:before {
-  content: "\f725";
+    content: "\f7ef"
 }
 .sym-sgd:before {
-  content: "\f726";
+    content: "\f7f0"
 }
 .sym-sgn-s:before {
-  content: "\f727";
+    content: "\f7f1"
 }
 .sym-sgn:before {
-  content: "\f728";
+    content: "\f7f2"
 }
 .sym-sgu-s:before {
-  content: "\f729";
+    content: "\f7f3"
 }
 .sym-sgu:before {
-  content: "\f72a";
+    content: "\f7f4"
 }
 .sym-shib-s:before {
-  content: "\f72b";
+    content: "\f7f5"
 }
 .sym-shib:before {
-  content: "\f72c";
+    content: "\f7f6"
 }
 .sym-shift-s:before {
-  content: "\f72d";
+    content: "\f7f7"
 }
 .sym-shift:before {
-  content: "\f72e";
+    content: "\f7f8"
 }
 .sym-ship-s:before {
-  content: "\f72f";
+    content: "\f7f9"
 }
 .sym-ship:before {
-  content: "\f730";
+    content: "\f7fa"
 }
 .sym-si-s:before {
-  content: "\f731";
+    content: "\f7fb"
 }
 .sym-si:before {
-  content: "\f732";
+    content: "\f7fc"
 }
 .sym-sib-s:before {
-  content: "\f733";
+    content: "\f7fd"
 }
 .sym-sib:before {
-  content: "\f734";
+    content: "\f7fe"
 }
 .sym-sil-s:before {
-  content: "\f735";
+    content: "\f7ff"
 }
 .sym-sil:before {
-  content: "\f736";
+    content: "\f800"
 }
 .sym-six-s:before {
-  content: "\f737";
+    content: "\f801"
 }
 .sym-six:before {
-  content: "\f738";
+    content: "\f802"
 }
 .sym-sjcx-s:before {
-  content: "\f739";
+    content: "\f803"
 }
 .sym-sjcx:before {
-  content: "\f73a";
+    content: "\f804"
 }
 .sym-skl-s:before {
-  content: "\f73b";
+    content: "\f805"
 }
 .sym-skl:before {
-  content: "\f73c";
+    content: "\f806"
 }
 .sym-skm-s:before {
-  content: "\f73d";
+    content: "\f807"
 }
 .sym-skm:before {
-  content: "\f73e";
+    content: "\f808"
 }
 .sym-sku-s:before {
-  content: "\f73f";
+    content: "\f809"
 }
 .sym-sku:before {
-  content: "\f740";
+    content: "\f80a"
 }
 .sym-sky-s:before {
-  content: "\f741";
+    content: "\f80b"
 }
 .sym-sky:before {
-  content: "\f742";
+    content: "\f80c"
 }
 .sym-slr-s:before {
-  content: "\f743";
+    content: "\f80d"
 }
 .sym-slr:before {
-  content: "\f744";
+    content: "\f80e"
 }
 .sym-sls-s:before {
-  content: "\f745";
+    content: "\f80f"
 }
 .sym-sls:before {
-  content: "\f746";
+    content: "\f810"
 }
 .sym-slt-s:before {
-  content: "\f747";
+    content: "\f811"
 }
 .sym-slt:before {
-  content: "\f748";
+    content: "\f812"
 }
 .sym-slv-s:before {
-  content: "\f749";
+    content: "\f813"
 }
 .sym-slv:before {
-  content: "\f74a";
+    content: "\f814"
 }
 .sym-smart-s:before {
-  content: "\f74b";
+    content: "\f815"
 }
 .sym-smart:before {
-  content: "\f74c";
+    content: "\f816"
 }
 .sym-smn-s:before {
-  content: "\f74d";
+    content: "\f817"
 }
 .sym-smn:before {
-  content: "\f74e";
+    content: "\f818"
 }
 .sym-smt-s:before {
-  content: "\f74f";
+    content: "\f819"
 }
 .sym-smt:before {
-  content: "\f750";
+    content: "\f81a"
 }
 .sym-snc-s:before {
-  content: "\f751";
+    content: "\f81b"
 }
 .sym-snc:before {
-  content: "\f752";
+    content: "\f81c"
 }
 .sym-snet-s:before {
-  content: "\f753";
+    content: "\f81d"
 }
 .sym-snet:before {
-  content: "\f754";
+    content: "\f81e"
 }
 .sym-sngls-s:before {
-  content: "\f755";
+    content: "\f81f"
 }
 .sym-sngls:before {
-  content: "\f756";
+    content: "\f820"
 }
 .sym-snm-s:before {
-  content: "\f757";
+    content: "\f821"
 }
 .sym-snm:before {
-  content: "\f758";
+    content: "\f822"
 }
 .sym-snt-s:before {
-  content: "\f759";
+    content: "\f823"
 }
 .sym-snt:before {
-  content: "\f75a";
+    content: "\f824"
 }
 .sym-snx-s:before {
-  content: "\f75b";
+    content: "\f825"
 }
 .sym-snx:before {
-  content: "\f75c";
+    content: "\f826"
 }
 .sym-soc-s:before {
-  content: "\f75d";
+    content: "\f827"
 }
 .sym-soc:before {
-  content: "\f75e";
+    content: "\f828"
 }
 .sym-sol-s:before {
-  content: "\f75f";
+    content: "\f829"
 }
 .sym-sol:before {
-  content: "\f760";
+    content: "\f82a"
 }
 .sym-solo-s:before {
-  content: "\f761";
+    content: "\f82b"
 }
 .sym-solo:before {
-  content: "\f762";
+    content: "\f82c"
 }
 .sym-solve-s:before {
-  content: "\f763";
+    content: "\f82d"
 }
 .sym-solve:before {
-  content: "\f764";
+    content: "\f82e"
 }
 .sym-soul-s:before {
-  content: "\f765";
+    content: "\f82f"
 }
 .sym-soul:before {
-  content: "\f766";
+    content: "\f830"
 }
 .sym-sp-s:before {
-  content: "\f767";
+    content: "\f831"
 }
 .sym-sp:before {
-  content: "\f768";
+    content: "\f832"
 }
 .sym-sparta-s:before {
-  content: "\f769";
+    content: "\f833"
 }
 .sym-sparta:before {
-  content: "\f76a";
+    content: "\f834"
 }
 .sym-spc-s:before {
-  content: "\f76b";
+    content: "\f835"
 }
 .sym-spc:before {
-  content: "\f76c";
+    content: "\f836"
 }
 .sym-spd-s:before {
-  content: "\f76d";
+    content: "\f837"
 }
 .sym-spd:before {
-  content: "\f76e";
+    content: "\f838"
 }
 .sym-sphr-s:before {
-  content: "\f76f";
+    content: "\f839"
 }
 .sym-sphr:before {
-  content: "\f770";
+    content: "\f83a"
 }
 .sym-sphtx-s:before {
-  content: "\f771";
+    content: "\f83b"
 }
 .sym-sphtx:before {
-  content: "\f772";
+    content: "\f83c"
 }
 .sym-spnd-s:before {
-  content: "\f773";
+    content: "\f83d"
 }
 .sym-spnd:before {
-  content: "\f774";
+    content: "\f83e"
 }
 .sym-spnk-s:before {
-  content: "\f775";
+    content: "\f83f"
 }
 .sym-spnk:before {
-  content: "\f776";
+    content: "\f840"
 }
 .sym-srm-s:before {
-  content: "\f777";
+    content: "\f841"
 }
 .sym-srm:before {
-  content: "\f778";
+    content: "\f842"
 }
 .sym-srn-s:before {
-  content: "\f779";
+    content: "\f843"
 }
 .sym-srn:before {
-  content: "\f77a";
+    content: "\f844"
 }
 .sym-ssp-s:before {
-  content: "\f77b";
+    content: "\f845"
 }
 .sym-ssp:before {
-  content: "\f77c";
+    content: "\f846"
 }
 .sym-stacs-s:before {
-  content: "\f77d";
+    content: "\f847"
 }
 .sym-stacs:before {
-  content: "\f77e";
+    content: "\f848"
+}
+.sym-step-s:before {
+    content: "\f849"
+}
+.sym-step:before {
+    content: "\f84a"
 }
 .sym-storm-s:before {
-  content: "\f77f";
+    content: "\f84b"
 }
 .sym-storm:before {
-  content: "\f780";
+    content: "\f84c"
 }
 .sym-stpt-s:before {
-  content: "\f781";
+    content: "\f84d"
 }
 .sym-stpt:before {
-  content: "\f782";
+    content: "\f84e"
 }
 .sym-stq-s:before {
-  content: "\f783";
+    content: "\f84f"
 }
 .sym-stq:before {
-  content: "\f784";
+    content: "\f850"
 }
 .sym-str-s:before {
-  content: "\f785";
+    content: "\f851"
 }
 .sym-str:before {
-  content: "\f786";
+    content: "\f852"
 }
 .sym-strat-s:before {
-  content: "\f787";
+    content: "\f853"
 }
 .sym-strat:before {
-  content: "\f788";
+    content: "\f854"
 }
 .sym-strax-s:before {
-  content: "\f789";
+    content: "\f855"
 }
 .sym-strax:before {
-  content: "\f78a";
+    content: "\f856"
 }
 .sym-stx-s:before {
-  content: "\f78b";
+    content: "\f857"
 }
 .sym-stx:before {
-  content: "\f78c";
+    content: "\f858"
 }
 .sym-sub-s:before {
-  content: "\f78d";
+    content: "\f859"
 }
 .sym-sub:before {
-  content: "\f78e";
+    content: "\f85a"
 }
 .sym-susd-s:before {
-  content: "\f78f";
+    content: "\f85b"
 }
 .sym-susd:before {
-  content: "\f790";
+    content: "\f85c"
 }
 .sym-sushi-s:before {
-  content: "\f791";
+    content: "\f85d"
 }
 .sym-sushi:before {
-  content: "\f792";
+    content: "\f85e"
 }
 .sym-swftc-s:before {
-  content: "\f793";
+    content: "\f85f"
 }
 .sym-swftc:before {
-  content: "\f794";
+    content: "\f860"
 }
 .sym-swm-s:before {
-  content: "\f795";
+    content: "\f861"
 }
 .sym-swm:before {
-  content: "\f796";
+    content: "\f862"
 }
 .sym-swrv-s:before {
-  content: "\f797";
+    content: "\f863"
 }
 .sym-swrv:before {
-  content: "\f798";
+    content: "\f864"
 }
 .sym-swt-s:before {
-  content: "\f799";
+    content: "\f865"
 }
 .sym-swt:before {
-  content: "\f79a";
+    content: "\f866"
 }
 .sym-swth-s:before {
-  content: "\f79b";
+    content: "\f867"
 }
 .sym-swth:before {
-  content: "\f79c";
+    content: "\f868"
 }
 .sym-sxp-s:before {
-  content: "\f79d";
+    content: "\f869"
 }
 .sym-sxp:before {
-  content: "\f79e";
+    content: "\f86a"
 }
 .sym-sys-s:before {
-  content: "\f79f";
+    content: "\f86b"
 }
 .sym-sys:before {
-  content: "\f7a0";
+    content: "\f86c"
 }
 .sym-taas-s:before {
-  content: "\f7a1";
+    content: "\f86d"
 }
 .sym-taas:before {
-  content: "\f7a2";
+    content: "\f86e"
 }
 .sym-tau-s:before {
-  content: "\f7a3";
+    content: "\f86f"
 }
 .sym-tau:before {
-  content: "\f7a4";
+    content: "\f870"
 }
 .sym-tbtc-s:before {
-  content: "\f7a5";
+    content: "\f871"
 }
 .sym-tbtc:before {
-  content: "\f7a6";
+    content: "\f872"
 }
 .sym-tct-s:before {
-  content: "\f7a7";
+    content: "\f873"
 }
 .sym-tct:before {
-  content: "\f7a8";
+    content: "\f874"
 }
 .sym-tel-s:before {
-  content: "\f7a9";
+    content: "\f875"
 }
 .sym-temco-s:before {
-  content: "\f7aa";
+    content: "\f876"
 }
 .sym-temco:before {
-  content: "\f7ab";
+    content: "\f877"
 }
 .sym-tfuel-s:before {
-  content: "\f7ac";
+    content: "\f878"
 }
 .sym-tfuel:before {
-  content: "\f7ad";
+    content: "\f879"
 }
 .sym-thb-s:before {
-  content: "\f7ae";
+    content: "\f87a"
 }
 .sym-thb:before {
-  content: "\f7af";
+    content: "\f87b"
 }
 .sym-thc-s:before {
-  content: "\f7b0";
+    content: "\f87c"
 }
 .sym-thc:before {
-  content: "\f7b1";
+    content: "\f87d"
 }
 .sym-theta-s:before {
-  content: "\f7b2";
+    content: "\f87e"
 }
 .sym-theta:before {
-  content: "\f7b3";
+    content: "\f87f"
 }
 .sym-thx-s:before {
-  content: "\f7b4";
+    content: "\f880"
 }
 .sym-thx:before {
-  content: "\f7b5";
+    content: "\f881"
 }
 .sym-time-s:before {
-  content: "\f7b6";
+    content: "\f882"
 }
 .sym-time:before {
-  content: "\f7b7";
+    content: "\f883"
 }
 .sym-tio-s:before {
-  content: "\f7b8";
+    content: "\f884"
 }
 .sym-tio:before {
-  content: "\f7b9";
+    content: "\f885"
 }
 .sym-tix-s:before {
-  content: "\f7ba";
+    content: "\f886"
 }
 .sym-tix:before {
-  content: "\f7bb";
+    content: "\f887"
 }
 .sym-tkn-s:before {
-  content: "\f7bc";
+    content: "\f888"
 }
 .sym-tkn:before {
-  content: "\f7bd";
+    content: "\f889"
 }
 .sym-tky-s:before {
-  content: "\f7be";
+    content: "\f88a"
 }
 .sym-tky:before {
-  content: "\f7bf";
+    content: "\f88b"
 }
 .sym-tnb-s:before {
-  content: "\f7c0";
+    content: "\f88c"
 }
 .sym-tnb:before {
-  content: "\f7c1";
+    content: "\f88d"
 }
 .sym-tnc-s:before {
-  content: "\f7c2";
+    content: "\f88e"
 }
 .sym-tnc:before {
-  content: "\f7c3";
+    content: "\f88f"
 }
 .sym-tnt-s:before {
-  content: "\f7c4";
+    content: "\f890"
 }
 .sym-tnt:before {
-  content: "\f7c5";
+    content: "\f891"
 }
 .sym-tomo-s:before {
-  content: "\f7c6";
+    content: "\f892"
 }
 .sym-tomo:before {
-  content: "\f7c7";
+    content: "\f893"
 }
 .sym-top-s:before {
-  content: "\f7c8";
+    content: "\f894"
 }
 .sym-top:before {
-  content: "\f7c9";
+    content: "\f895"
 }
 .sym-torn-s:before {
-  content: "\f7ca";
+    content: "\f896"
 }
 .sym-torn:before {
-  content: "\f7cb";
+    content: "\f897"
 }
 .sym-tpay-s:before {
-  content: "\f7cc";
+    content: "\f898"
 }
 .sym-tpay:before {
-  content: "\f7cd";
+    content: "\f899"
 }
 .sym-trac-s:before {
-  content: "\f7ce";
+    content: "\f89a"
 }
 .sym-trac:before {
-  content: "\f7cf";
+    content: "\f89b"
 }
 .sym-trb-s:before {
-  content: "\f7d0";
+    content: "\f89c"
 }
 .sym-trb:before {
-  content: "\f7d1";
+    content: "\f89d"
 }
 .sym-trig-s:before {
-  content: "\f7d2";
+    content: "\f89e"
 }
 .sym-trig:before {
-  content: "\f7d3";
+    content: "\f89f"
 }
 .sym-trio-s:before {
-  content: "\f7d4";
+    content: "\f8a0"
 }
 .sym-trio:before {
-  content: "\f7d5";
+    content: "\f8a1"
 }
 .sym-troy-s:before {
-  content: "\f7d6";
+    content: "\f8a2"
 }
 .sym-troy:before {
-  content: "\f7d7";
+    content: "\f8a3"
 }
 .sym-trst-s:before {
-  content: "\f7d8";
+    content: "\f8a4"
 }
 .sym-trst:before {
-  content: "\f7d9";
+    content: "\f8a5"
 }
 .sym-tru-s:before {
-  content: "\f7da";
+    content: "\f8a6"
 }
 .sym-tru:before {
-  content: "\f7db";
+    content: "\f8a7"
 }
 .sym-true-s:before {
-  content: "\f7dc";
+    content: "\f8a8"
 }
 .sym-true:before {
-  content: "\f7dd";
+    content: "\f8a9"
 }
 .sym-trx-s:before {
-  content: "\f7de";
+    content: "\f8aa"
 }
 .sym-trx:before {
-  content: "\f7df";
+    content: "\f8ab"
 }
 .sym-try-s:before {
-  content: "\f7e0";
+    content: "\f8ac"
 }
 .sym-try:before {
-  content: "\f7e1";
+    content: "\f8ad"
 }
 .sym-tryb-s:before {
-  content: "\f7e2";
+    content: "\f8ae"
 }
 .sym-tryb:before {
-  content: "\f7e3";
+    content: "\f8af"
 }
 .sym-tt-s:before {
-  content: "\f7e4";
+    content: "\f8b0"
 }
 .sym-tt:before {
-  content: "\f7e5";
+    content: "\f8b1"
 }
 .sym-ttc-s:before {
-  content: "\f7e6";
+    content: "\f8b2"
 }
 .sym-ttc:before {
-  content: "\f7e7";
+    content: "\f8b3"
 }
 .sym-ttt-s:before {
-  content: "\f7e8";
+    content: "\f8b4"
 }
 .sym-ttt:before {
-  content: "\f7e9";
+    content: "\f8b5"
 }
 .sym-ttu-s:before {
-  content: "\f7ea";
+    content: "\f8b6"
 }
 .sym-ttu:before {
-  content: "\f7eb";
+    content: "\f8b7"
 }
 .sym-tube-s:before {
-  content: "\f7ec";
+    content: "\f8b8"
 }
 .sym-tube:before {
-  content: "\f7ed";
+    content: "\f8b9"
 }
 .sym-tusd-s:before {
-  content: "\f7ee";
+    content: "\f8ba"
 }
 .sym-tusd:before {
-  content: "\f7ef";
+    content: "\f8bb"
 }
 .sym-twt-s:before {
-  content: "\f7f0";
+    content: "\f8bc"
 }
 .sym-twt:before {
-  content: "\f7f1";
+    content: "\f8bd"
 }
 .sym-uah-s:before {
-  content: "\f7f2";
+    content: "\f8be"
 }
 .sym-uah:before {
-  content: "\f7f3";
+    content: "\f8bf"
 }
 .sym-ubq-s:before {
-  content: "\f7f4";
+    content: "\f8c0"
 }
 .sym-ubq:before {
-  content: "\f7f5";
+    content: "\f8c1"
 }
 .sym-ubt-s:before {
-  content: "\f7f6";
+    content: "\f8c2"
 }
 .sym-ubt:before {
-  content: "\f7f7";
+    content: "\f8c3"
 }
 .sym-uft-s:before {
-  content: "\f7f8";
+    content: "\f8c4"
 }
 .sym-uft:before {
-  content: "\f7f9";
+    content: "\f8c5"
 }
 .sym-ugas-s:before {
-  content: "\f7fa";
+    content: "\f8c6"
 }
 .sym-ugas:before {
-  content: "\f7fb";
+    content: "\f8c7"
 }
 .sym-uip-s:before {
-  content: "\f7fc";
+    content: "\f8c8"
 }
 .sym-uip:before {
-  content: "\f7fd";
+    content: "\f8c9"
 }
 .sym-ukg-s:before {
-  content: "\f7fe";
+    content: "\f8ca"
 }
 .sym-ukg:before {
-  content: "\f7ff";
+    content: "\f8cb"
 }
 .sym-uma-s:before {
-  content: "\f800";
+    content: "\f8cc"
 }
 .sym-uma:before {
-  content: "\f801";
+    content: "\f8cd"
 }
 .sym-unfi-s:before {
-  content: "\f802";
+    content: "\f8ce"
 }
 .sym-unfi:before {
-  content: "\f803";
+    content: "\f8cf"
 }
 .sym-uni-s:before {
-  content: "\f804";
+    content: "\f8d0"
 }
 .sym-uni:before {
-  content: "\f805";
+    content: "\f8d1"
 }
 .sym-up-s:before {
-  content: "\f806";
+    content: "\f8d2"
 }
 .sym-up:before {
-  content: "\f807";
+    content: "\f8d3"
 }
 .sym-upp-s:before {
-  content: "\f808";
+    content: "\f8d4"
 }
 .sym-upp:before {
-  content: "\f809";
+    content: "\f8d5"
 }
 .sym-usd-s:before {
-  content: "\f80a";
+    content: "\f8d6"
 }
 .sym-usd:before {
-  content: "\f80b";
+    content: "\f8d7"
 }
 .sym-usdc-s:before {
-  content: "\f80c";
+    content: "\f8d8"
 }
 .sym-usdc:before {
-  content: "\f80d";
+    content: "\f8d9"
 }
 .sym-usds-s:before {
-  content: "\f80e";
+    content: "\f8da"
 }
 .sym-usds:before {
-  content: "\f80f";
+    content: "\f8db"
 }
 .sym-usk-s:before {
-  content: "\f810";
+    content: "\f8dc"
 }
 .sym-usk:before {
-  content: "\f811";
+    content: "\f8dd"
 }
 .sym-ust-s:before {
-  content: "\f812";
+    content: "\f8de"
 }
 .sym-ust:before {
-  content: "\f813";
+    content: "\f8df"
 }
 .sym-utk-s:before {
-  content: "\f814";
+    content: "\f8e0"
 }
 .sym-utk:before {
-  content: "\f815";
+    content: "\f8e1"
 }
 .sym-utnp-s:before {
-  content: "\f816";
+    content: "\f8e2"
 }
 .sym-utnp:before {
-  content: "\f817";
+    content: "\f8e3"
 }
 .sym-utt-s:before {
-  content: "\f818";
+    content: "\f8e4"
 }
 .sym-utt:before {
-  content: "\f819";
+    content: "\f8e5"
 }
 .sym-uuu-s:before {
-  content: "\f81a";
+    content: "\f8e6"
 }
 .sym-uuu:before {
-  content: "\f81b";
+    content: "\f8e7"
 }
 .sym-ux-s:before {
-  content: "\f81c";
+    content: "\f8e8"
 }
 .sym-ux:before {
-  content: "\f81d";
+    content: "\f8e9"
 }
 .sym-vai-s:before {
-  content: "\f81e";
+    content: "\f8ea"
 }
 .sym-vai:before {
-  content: "\f81f";
+    content: "\f8eb"
 }
 .sym-vbk-s:before {
-  content: "\f820";
+    content: "\f8ec"
 }
 .sym-vbk:before {
-  content: "\f821";
+    content: "\f8ed"
 }
 .sym-vdx-s:before {
-  content: "\f822";
+    content: "\f8ee"
 }
 .sym-vdx:before {
-  content: "\f823";
+    content: "\f8ef"
 }
 .sym-vee-s:before {
-  content: "\f824";
+    content: "\f8f0"
 }
 .sym-vee:before {
-  content: "\f825";
+    content: "\f8f1"
 }
 .sym-ven-s:before {
-  content: "\f826";
+    content: "\f8f2"
 }
 .sym-ven:before {
-  content: "\f827";
+    content: "\f8f3"
 }
 .sym-veo-s:before {
-  content: "\f828";
+    content: "\f8f4"
 }
 .sym-veo:before {
-  content: "\f829";
+    content: "\f8f5"
 }
 .sym-veri-s:before {
-  content: "\f82a";
+    content: "\f8f6"
 }
 .sym-veri:before {
-  content: "\f82b";
+    content: "\f8f7"
 }
 .sym-vex-s:before {
-  content: "\f82c";
+    content: "\f8f8"
 }
 .sym-vex:before {
-  content: "\f82d";
+    content: "\f8f9"
 }
 .sym-vgx-s:before {
-  content: "\f82e";
+    content: "\f8fa"
 }
 .sym-vgx:before {
-  content: "\f82f";
+    content: "\f8fb"
 }
 .sym-via-s:before {
-  content: "\f830";
+    content: "\f8fc"
 }
 .sym-via:before {
-  content: "\f831";
+    content: "\f8fd"
 }
 .sym-vib-s:before {
-  content: "\f832";
+    content: "\f8fe"
 }
 .sym-vib:before {
-  content: "\f833";
+    content: "\f8ff"
 }
 .sym-vibe-s:before {
-  content: "\f834";
+    content: "\f900"
 }
 .sym-vibe:before {
-  content: "\f835";
+    content: "\f901"
 }
 .sym-vid-s:before {
-  content: "\f836";
+    content: "\f902"
 }
 .sym-vid:before {
-  content: "\f837";
+    content: "\f903"
 }
 .sym-vidt-s:before {
-  content: "\f838";
+    content: "\f904"
 }
 .sym-vidt:before {
-  content: "\f839";
+    content: "\f905"
 }
 .sym-vidy-s:before {
-  content: "\f83a";
+    content: "\f906"
 }
 .sym-vidy:before {
-  content: "\f83b";
+    content: "\f907"
 }
 .sym-vitae-s:before {
-  content: "\f83c";
+    content: "\f908"
 }
 .sym-vitae:before {
-  content: "\f83d";
+    content: "\f909"
 }
 .sym-vite-s:before {
-  content: "\f83e";
+    content: "\f90a"
 }
 .sym-vite:before {
-  content: "\f83f";
+    content: "\f90b"
 }
 .sym-vlx-s:before {
-  content: "\f840";
+    content: "\f90c"
 }
 .sym-vlx:before {
-  content: "\f841";
+    content: "\f90d"
 }
 .sym-vox-s:before {
-  content: "\f842";
+    content: "\f90e"
 }
 .sym-vox:before {
-  content: "\f843";
+    content: "\f90f"
 }
 .sym-vra-s:before {
-  content: "\f844";
+    content: "\f910"
 }
 .sym-vra:before {
-  content: "\f845";
+    content: "\f911"
 }
 .sym-vrc-s:before {
-  content: "\f846";
+    content: "\f912"
 }
 .sym-vrc:before {
-  content: "\f847";
+    content: "\f913"
 }
 .sym-vrm-s:before {
-  content: "\f848";
+    content: "\f914"
 }
 .sym-vrm:before {
-  content: "\f849";
+    content: "\f915"
 }
 .sym-vsys-s:before {
-  content: "\f84a";
+    content: "\f916"
 }
 .sym-vsys:before {
-  content: "\f84b";
+    content: "\f917"
 }
 .sym-vtc-s:before {
-  content: "\f84c";
+    content: "\f918"
 }
 .sym-vtc:before {
-  content: "\f84d";
+    content: "\f919"
 }
 .sym-vtho-s:before {
-  content: "\f84e";
+    content: "\f91a"
 }
 .sym-vtho:before {
-  content: "\f84f";
+    content: "\f91b"
 }
 .sym-wabi-s:before {
-  content: "\f850";
+    content: "\f91c"
 }
 .sym-wabi:before {
-  content: "\f851";
+    content: "\f91d"
 }
 .sym-wan-s:before {
-  content: "\f852";
+    content: "\f91e"
 }
 .sym-wan:before {
-  content: "\f853";
+    content: "\f91f"
 }
 .sym-waves-s:before {
-  content: "\f854";
+    content: "\f920"
 }
 .sym-waves:before {
-  content: "\f855";
+    content: "\f921"
 }
 .sym-wax-s:before {
-  content: "\f856";
+    content: "\f922"
 }
 .sym-wax:before {
-  content: "\f857";
+    content: "\f923"
 }
 .sym-wbtc-s:before {
-  content: "\f858";
+    content: "\f924"
 }
 .sym-wbtc:before {
-  content: "\f859";
+    content: "\f925"
 }
 .sym-wet-s:before {
-  content: "\f85a";
+    content: "\f926"
 }
 .sym-wet:before {
-  content: "\f85b";
+    content: "\f927"
 }
 .sym-wib-s:before {
-  content: "\f85c";
+    content: "\f928"
 }
 .sym-wib:before {
-  content: "\f85d";
+    content: "\f929"
 }
 .sym-wicc-s:before {
-  content: "\f85e";
+    content: "\f92a"
 }
 .sym-wicc:before {
-  content: "\f85f";
+    content: "\f92b"
 }
 .sym-win-s:before {
-  content: "\f860";
+    content: "\f92c"
 }
 .sym-win:before {
-  content: "\f861";
+    content: "\f92d"
 }
 .sym-wing-s:before {
-  content: "\f862";
+    content: "\f92e"
 }
 .sym-wing:before {
-  content: "\f863";
+    content: "\f92f"
 }
 .sym-wings-s:before {
-  content: "\f864";
+    content: "\f930"
 }
 .sym-wings:before {
-  content: "\f865";
+    content: "\f931"
 }
 .sym-wnxm-s:before {
-  content: "\f866";
+    content: "\f932"
 }
 .sym-wnxm:before {
-  content: "\f867";
+    content: "\f933"
 }
 .sym-woo-s:before {
-  content: "\f868";
+    content: "\f934"
 }
 .sym-woo:before {
-  content: "\f869";
+    content: "\f935"
 }
 .sym-wpr-s:before {
-  content: "\f86a";
+    content: "\f936"
 }
 .sym-wpr:before {
-  content: "\f86b";
+    content: "\f937"
 }
 .sym-wrx-s:before {
-  content: "\f86c";
+    content: "\f938"
 }
 .sym-wrx:before {
-  content: "\f86d";
+    content: "\f939"
 }
 .sym-wtc-s:before {
-  content: "\f86e";
+    content: "\f93a"
 }
 .sym-wtc:before {
-  content: "\f86f";
+    content: "\f93b"
 }
 .sym-wtt-s:before {
-  content: "\f870";
+    content: "\f93c"
 }
 .sym-wtt:before {
-  content: "\f871";
+    content: "\f93d"
 }
 .sym-wwb-s:before {
-  content: "\f872";
+    content: "\f93e"
 }
 .sym-wwb:before {
-  content: "\f873";
+    content: "\f93f"
 }
 .sym-wxt-s:before {
-  content: "\f874";
+    content: "\f940"
 }
 .sym-wxt:before {
-  content: "\f875";
+    content: "\f941"
 }
 .sym-xas-s:before {
-  content: "\f876";
+    content: "\f942"
 }
 .sym-xas:before {
-  content: "\f877";
+    content: "\f943"
 }
 .sym-xaur-s:before {
-  content: "\f878";
+    content: "\f944"
 }
 .sym-xaur:before {
-  content: "\f879";
+    content: "\f945"
 }
 .sym-xaut-s:before {
-  content: "\f87a";
+    content: "\f946"
 }
 .sym-xaut:before {
-  content: "\f87b";
+    content: "\f947"
 }
 .sym-xbc-s:before {
-  content: "\f87c";
+    content: "\f948"
 }
 .sym-xbc:before {
-  content: "\f87d";
+    content: "\f949"
 }
 .sym-xcon-s:before {
-  content: "\f87e";
+    content: "\f94a"
 }
 .sym-xcon:before {
-  content: "\f87f";
+    content: "\f94b"
 }
 .sym-xcp-s:before {
-  content: "\f880";
+    content: "\f94c"
 }
 .sym-xcp:before {
-  content: "\f881";
+    content: "\f94d"
 }
 .sym-xdn-s:before {
-  content: "\f882";
+    content: "\f94e"
 }
 .sym-xdn:before {
-  content: "\f883";
+    content: "\f94f"
 }
 .sym-xel-s:before {
-  content: "\f884";
+    content: "\f950"
 }
 .sym-xel:before {
-  content: "\f885";
+    content: "\f951"
 }
 .sym-xem-s:before {
-  content: "\f886";
+    content: "\f952"
 }
 .sym-xem:before {
-  content: "\f887";
+    content: "\f953"
 }
 .sym-xes-s:before {
-  content: "\f888";
+    content: "\f954"
 }
 .sym-xes:before {
-  content: "\f889";
+    content: "\f955"
 }
 .sym-xhv-s:before {
-  content: "\f88a";
+    content: "\f956"
 }
 .sym-xhv:before {
-  content: "\f88b";
+    content: "\f957"
 }
 .sym-xin-s:before {
-  content: "\f88c";
+    content: "\f958"
 }
 .sym-xin:before {
-  content: "\f88d";
+    content: "\f959"
 }
 .sym-xlm-s:before {
-  content: "\f88e";
+    content: "\f95a"
 }
 .sym-xlm:before {
-  content: "\f88f";
+    content: "\f95b"
 }
 .sym-xmc-s:before {
-  content: "\f890";
+    content: "\f95c"
 }
 .sym-xmc:before {
-  content: "\f891";
+    content: "\f95d"
 }
 .sym-xmr-s:before {
-  content: "\f892";
+    content: "\f95e"
 }
 .sym-xmr:before {
-  content: "\f893";
+    content: "\f95f"
 }
 .sym-xmx-s:before {
-  content: "\f894";
+    content: "\f960"
 }
 .sym-xmx:before {
-  content: "\f895";
+    content: "\f961"
 }
 .sym-xmy-s:before {
-  content: "\f896";
+    content: "\f962"
 }
 .sym-xmy:before {
-  content: "\f897";
+    content: "\f963"
 }
 .sym-xnk-s:before {
-  content: "\f898";
+    content: "\f964"
 }
 .sym-xnk:before {
-  content: "\f899";
+    content: "\f965"
 }
 .sym-xns-s:before {
-  content: "\f89a";
+    content: "\f966"
 }
 .sym-xns:before {
-  content: "\f89b";
+    content: "\f967"
 }
 .sym-xor-s:before {
-  content: "\f89c";
+    content: "\f968"
 }
 .sym-xor:before {
-  content: "\f89d";
+    content: "\f969"
 }
 .sym-xos-s:before {
-  content: "\f89e";
+    content: "\f96a"
 }
 .sym-xos:before {
-  content: "\f89f";
+    content: "\f96b"
 }
 .sym-xpm-s:before {
-  content: "\f8a0";
+    content: "\f96c"
 }
 .sym-xpm:before {
-  content: "\f8a1";
+    content: "\f96d"
 }
 .sym-xpr-s:before {
-  content: "\f8a2";
+    content: "\f96e"
 }
 .sym-xpr:before {
-  content: "\f8a3";
+    content: "\f96f"
 }
 .sym-xrc-s:before {
-  content: "\f8a4";
+    content: "\f970"
 }
 .sym-xrc:before {
-  content: "\f8a5";
+    content: "\f971"
 }
 .sym-xrp-s:before {
-  content: "\f8a6";
+    content: "\f972"
 }
 .sym-xrp:before {
-  content: "\f8a7";
+    content: "\f973"
 }
 .sym-xrpx-s:before {
-  content: "\f8a8";
+    content: "\f974"
 }
 .sym-xrpx:before {
-  content: "\f8a9";
+    content: "\f975"
 }
 .sym-xrt-s:before {
-  content: "\f8aa";
+    content: "\f976"
 }
 .sym-xrt:before {
-  content: "\f8ab";
+    content: "\f977"
 }
 .sym-xst-s:before {
-  content: "\f8ac";
+    content: "\f978"
 }
 .sym-xst:before {
-  content: "\f8ad";
+    content: "\f979"
 }
 .sym-xtp-s:before {
-  content: "\f8ae";
+    content: "\f97a"
 }
 .sym-xtp:before {
-  content: "\f8af";
+    content: "\f97b"
 }
 .sym-xtz-s:before {
-  content: "\f8b0";
+    content: "\f97c"
 }
 .sym-xtz:before {
-  content: "\f8b1";
+    content: "\f97d"
 }
 .sym-xtzdown-s:before {
-  content: "\f8b2";
+    content: "\f97e"
 }
 .sym-xtzdown:before {
-  content: "\f8b3";
+    content: "\f97f"
 }
 .sym-xvc-s:before {
-  content: "\f8b4";
+    content: "\f980"
 }
 .sym-xvc:before {
-  content: "\f8b5";
+    content: "\f981"
 }
 .sym-xvg-s:before {
-  content: "\f8b6";
+    content: "\f982"
 }
 .sym-xvg:before {
-  content: "\f8b7";
+    content: "\f983"
 }
 .sym-xvs-s:before {
-  content: "\f8b8";
+    content: "\f984"
 }
 .sym-xvs:before {
-  content: "\f8b9";
+    content: "\f985"
 }
 .sym-xwc-s:before {
-  content: "\f8ba";
+    content: "\f986"
 }
 .sym-xwc:before {
-  content: "\f8bb";
+    content: "\f987"
 }
 .sym-xyo-s:before {
-  content: "\f8bc";
+    content: "\f988"
 }
 .sym-xyo:before {
-  content: "\f8bd";
+    content: "\f989"
 }
 .sym-xzc-s:before {
-  content: "\f8be";
+    content: "\f98a"
 }
 .sym-xzc:before {
-  content: "\f8bf";
+    content: "\f98b"
 }
 .sym-yam-s:before {
-  content: "\f8c0";
+    content: "\f98c"
 }
 .sym-yam:before {
-  content: "\f8c1";
+    content: "\f98d"
 }
 .sym-yee-s:before {
-  content: "\f8c2";
+    content: "\f98e"
 }
 .sym-yee:before {
-  content: "\f8c3";
+    content: "\f98f"
 }
 .sym-yeed-s:before {
-  content: "\f8c4";
+    content: "\f990"
 }
 .sym-yeed:before {
-  content: "\f8c5";
+    content: "\f991"
 }
 .sym-yfi-s:before {
-  content: "\f8c6";
+    content: "\f992"
 }
 .sym-yfi:before {
-  content: "\f8c7";
+    content: "\f993"
 }
 .sym-yfii-s:before {
-  content: "\f8c8";
+    content: "\f994"
 }
 .sym-yfii:before {
-  content: "\f8c9";
+    content: "\f995"
 }
 .sym-yoyow-s:before {
-  content: "\f8ca";
+    content: "\f996"
 }
 .sym-yoyow:before {
-  content: "\f8cb";
+    content: "\f997"
 }
 .sym-zar-s:before {
-  content: "\f8cc";
+    content: "\f998"
 }
 .sym-zar:before {
-  content: "\f8cd";
+    content: "\f999"
 }
 .sym-zcl-s:before {
-  content: "\f8ce";
+    content: "\f99a"
 }
 .sym-zcl:before {
-  content: "\f8cf";
+    content: "\f99b"
 }
 .sym-zcn-s:before {
-  content: "\f8d0";
+    content: "\f99c"
 }
 .sym-zcn:before {
-  content: "\f8d1";
+    content: "\f99d"
 }
 .sym-zco-s:before {
-  content: "\f8d2";
+    content: "\f99e"
 }
 .sym-zco:before {
-  content: "\f8d3";
+    content: "\f99f"
 }
 .sym-zec-s:before {
-  content: "\f8d4";
+    content: "\f9a0"
 }
 .sym-zec:before {
-  content: "\f8d5";
+    content: "\f9a1"
 }
 .sym-zen-s:before {
-  content: "\f8d6";
+    content: "\f9a2"
 }
 .sym-zen:before {
-  content: "\f8d7";
+    content: "\f9a3"
 }
 .sym-zil-s:before {
-  content: "\f8d8";
+    content: "\f9a4"
 }
 .sym-zil:before {
-  content: "\f8d9";
+    content: "\f9a5"
 }
 .sym-zks-s:before {
-  content: "\f8da";
+    content: "\f9a6"
 }
 .sym-zks:before {
-  content: "\f8db";
+    content: "\f9a7"
 }
 .sym-zla-s:before {
-  content: "\f8dc";
+    content: "\f9a8"
 }
 .sym-zla:before {
-  content: "\f8dd";
+    content: "\f9a9"
 }
 .sym-zlk:before {
-  content: "\f8de";
+    content: "\f9aa"
 }
 .sym-zpr-s:before {
-  content: "\f8df";
+    content: "\f9ab"
 }
 .sym-zpr:before {
-  content: "\f8e0";
+    content: "\f9ac"
 }
 .sym-zpt-s:before {
-  content: "\f8e1";
+    content: "\f9ad"
 }
 .sym-zpt:before {
-  content: "\f8e2";
+    content: "\f9ae"
 }
 .sym-zrc-s:before {
-  content: "\f8e3";
+    content: "\f9af"
 }
 .sym-zrc:before {
-  content: "\f8e4";
+    content: "\f9b0"
 }
 .sym-zrx-s:before {
-  content: "\f8e5";
+    content: "\f9b1"
 }
 .sym-zrx:before {
-  content: "\f8e6";
+    content: "\f9b2"
 }
 .sym-zsc-s:before {
-  content: "\f8e7";
+    content: "\f9b3"
 }
 .sym-zsc:before {
-  content: "\f8e8";
+    content: "\f9b4"
 }
 .sym-ztg-s:before {
-  content: "\f8e9";
+    content: "\f9b5"
 }
 .sym-ztg:before {
-  content: "\f8ea";
+    content: "\f9b6"
 }
 .cur-anct:before {
-  content: "\f1b8";
+    content: "\f270"
 }
 .cur-anct-s:before {
-  content: "\f1b7";
+    content: "\f26f"
 }
 .cur-aud:before {
-  content: "\f1e0";
+    content: "\f29a"
 }
 .cur-aud-s:before {
-  content: "\f1df";
+    content: "\f299"
 }
 .cur-bnb:before {
-  content: "\f243";
+    content: "\f2fd"
 }
 .cur-bnb-s:before {
-  content: "\f242";
+    content: "\f2fc"
 }
 .sym-xbt:before {
-  content: "\f267";
+    content: "\f321"
 }
 .cur-btc:before {
-  content: "\f267";
+    content: "\f321"
 }
 .sym-xbt-s:before {
-  content: "\f266";
+    content: "\f320"
 }
 .cur-btc-s:before {
-  content: "\f266";
+    content: "\f320"
 }
 .cur-busd:before {
-  content: "\f285";
+    content: "\f33f"
 }
 .cur-busd-s:before {
-  content: "\f284";
+    content: "\f33e"
 }
 .exc-bitz:before {
-  content: "\f289";
+    content: "\f343"
 }
 .cur-bz:before {
-  content: "\f289";
+    content: "\f343"
 }
 .exc-bitz-s:before {
-  content: "\f288";
+    content: "\f342"
 }
 .cur-bz-s:before {
-  content: "\f288";
+    content: "\f342"
 }
 .cur-cad:before {
-  content: "\f291";
+    content: "\f34d"
 }
 .cur-cad-s:before {
-  content: "\f290";
+    content: "\f34c"
 }
 .cur-chf:before {
-  content: "\f2b1";
+    content: "\f36d"
 }
 .cur-chf-s:before {
-  content: "\f2b0";
+    content: "\f36c"
 }
 .cur-cny:before {
-  content: "\f2d5";
+    content: "\f391"
 }
 .cur-cny-s:before {
-  content: "\f2d4";
+    content: "\f390"
 }
 .sym-cs:before {
-  content: "\f2e7";
+    content: "\f3a3"
 }
 .sym-cs-s:before {
-  content: "\f2e6";
+    content: "\f3a2"
 }
 .sym-crm:before {
-  content: "\f2fb";
+    content: "\f3b7"
 }
 .sym-crm-s:before {
-  content: "\f2fa";
+    content: "\f3b6"
 }
 .cur-dai:before {
-  content: "\f323";
+    content: "\f3df"
 }
 .cur-dai-s:before {
-  content: "\f322";
+    content: "\f3de"
 }
 .sym-xdg:before {
-  content: "\f35d";
+    content: "\f419"
 }
 .sym-xdg-s:before {
-  content: "\f35c";
+    content: "\f418"
 }
 .cur-eos:before {
-  content: "\f3a2";
+    content: "\f462"
 }
 .cur-eos-s:before {
-  content: "\f3a1";
+    content: "\f461"
 }
 .sym-eth2:before {
-  content: "\f3b2";
+    content: "\f472"
 }
 .sym-eth2s:before {
-  content: "\f3b2";
+    content: "\f472"
 }
 .sym-eth2\.s:before {
-  content: "\f3b2";
+    content: "\f472"
 }
 .sym-weth:before {
-  content: "\f3b2";
+    content: "\f472"
 }
 .cur-eth:before {
-  content: "\f3b2";
+    content: "\f472"
 }
 .sym-eth2-s:before {
-  content: "\f3b1";
+    content: "\f471"
 }
 .sym-eth2s-s:before {
-  content: "\f3b1";
+    content: "\f471"
 }
 .sym-eth2\.s-s:before {
-  content: "\f3b1";
+    content: "\f471"
 }
 .sym-weth-s:before {
-  content: "\f3b1";
+    content: "\f471"
 }
 .cur-eth-s:before {
-  content: "\f3b1";
+    content: "\f471"
 }
 .cur-eur:before {
-  content: "\f3ba";
+    content: "\f47a"
 }
 .cur-eur-s:before {
-  content: "\f3b9";
+    content: "\f479"
 }
 .cur-eurs:before {
-  content: "\f3bc";
+    content: "\f47c"
 }
 .cur-eurs-s:before {
-  content: "\f3bb";
+    content: "\f47b"
 }
 .sym-usdt:before {
-  content: "\f3be";
+    content: "\f47e"
 }
 .cur-usdt:before {
-  content: "\f3be";
+    content: "\f47e"
 }
 .sym-usdt-s:before {
-  content: "\f3bd";
+    content: "\f47d"
 }
 .cur-usdt-s:before {
-  content: "\f3bd";
+    content: "\f47d"
 }
 .exc-kraken:before {
-  content: "\f3d2";
+    content: "\f492"
 }
 .exc-kraken-futures:before {
-  content: "\f3d2";
+    content: "\f492"
 }
 .exc-kraken-s:before {
-  content: "\f3d1";
+    content: "\f491"
 }
 .exc-kraken-futures-s:before {
-  content: "\f3d1";
+    content: "\f491"
 }
 .cur-gbp:before {
-  content: "\f414";
+    content: "\f4d6"
 }
 .cur-gbp-s:before {
-  content: "\f413";
+    content: "\f4d5"
 }
 .exc-gemini:before {
-  content: "\f44e";
+    content: "\f510"
 }
 .cur-gusd:before {
-  content: "\f44e";
+    content: "\f510"
 }
 .exc-gemini-s:before {
-  content: "\f44d";
+    content: "\f50f"
 }
 .cur-gusd-s:before {
-  content: "\f44d";
+    content: "\f50f"
 }
 .cur-hkd:before {
-  content: "\f46c";
+    content: "\f52e"
 }
 .cur-hkd-s:before {
-  content: "\f46b";
+    content: "\f52d"
 }
 .sym-husd:before {
-  content: "\f486";
+    content: "\f548"
 }
 .exc-huobi:before {
-  content: "\f486";
+    content: "\f548"
 }
 .cur-ht:before {
-  content: "\f486";
+    content: "\f548"
 }
 .sym-husd-s:before {
-  content: "\f485";
+    content: "\f547"
 }
 .exc-huobi-s:before {
-  content: "\f485";
+    content: "\f547"
 }
 .cur-ht-s:before {
-  content: "\f485";
+    content: "\f547"
 }
 .cur-idr:before {
-  content: "\f4a4";
+    content: "\f566"
 }
 .cur-idr-s:before {
-  content: "\f4a3";
+    content: "\f565"
 }
 .sym-iota:before {
-  content: "\f4c4";
+    content: "\f586"
 }
 .sym-iota-s:before {
-  content: "\f4c3";
+    content: "\f585"
 }
 .cur-inr:before {
-  content: "\f4b8";
+    content: "\f57a"
 }
 .cur-inr-s:before {
-  content: "\f4b7";
+    content: "\f579"
 }
 .cur-jpy:before {
-  content: "\f4d4";
+    content: "\f596"
 }
 .cur-jpy-s:before {
-  content: "\f4d3";
+    content: "\f595"
 }
 .cur-krw:before {
-  content: "\f4fa";
+    content: "\f5bc"
 }
 .cur-krw-s:before {
-  content: "\f4f9";
+    content: "\f5bb"
 }
 .sym-medx:before {
-  content: "\f55a";
+    content: "\f61c"
 }
 .sym-medx-s:before {
-  content: "\f559";
+    content: "\f61b"
 }
 .cur-mxn:before {
-  content: "\f5a6";
+    content: "\f66a"
 }
 .cur-mxn-s:before {
-  content: "\f5a5";
+    content: "\f669"
 }
 .cur-myr:before {
-  content: "\f5a8";
+    content: "\f66c"
 }
 .cur-myr-s:before {
-  content: "\f5a7";
+    content: "\f66b"
 }
 .cur-ngn:before {
-  content: "\f5d2";
+    content: "\f696"
 }
 .cur-ngn-s:before {
-  content: "\f5d1";
+    content: "\f695"
 }
 .cur-pax:before {
-  content: "\f63c";
+    content: "\f702"
 }
 .cur-pax-s:before {
-  content: "\f63b";
+    content: "\f701"
 }
 .cur-php:before {
-  content: "\f650";
+    content: "\f716"
 }
 .cur-php-s:before {
-  content: "\f64f";
+    content: "\f715"
 }
 .cur-pln:before {
-  content: "\f666";
+    content: "\f72c"
 }
 .cur-pln-s:before {
-  content: "\f665";
+    content: "\f72b"
 }
 .cur-qash:before {
-  content: "\f692";
+    content: "\f75a"
 }
 .cur-qash-s:before {
-  content: "\f691";
+    content: "\f759"
 }
 .cur-rub:before {
-  content: "\f6f2";
+    content: "\f7ba"
 }
 .cur-rur:before {
-  content: "\f6f2";
+    content: "\f7ba"
 }
 .cur-rub-s:before {
-  content: "\f6f1";
+    content: "\f7b9"
 }
 .cur-rur-s:before {
-  content: "\f6f1";
+    content: "\f7b9"
 }
 .sym-steem:before {
-  content: "\f708";
+    content: "\f7d0"
 }
 .sym-steem-s:before {
-  content: "\f707";
+    content: "\f7cf"
 }
 .sym-xsc:before {
-  content: "\f70a";
+    content: "\f7d4"
 }
 .sym-xsc-s:before {
-  content: "\f709";
+    content: "\f7d3"
 }
 .cur-sgd:before {
-  content: "\f726";
+    content: "\f7f0"
 }
 .cur-sgd-s:before {
-  content: "\f725";
+    content: "\f7ef"
 }
 .sym-storj:before {
-  content: "\f73a";
+    content: "\f804"
 }
 .sym-storj-s:before {
-  content: "\f739";
+    content: "\f803"
 }
 .sym-tel:before {
-  content: "\f7a2";
+    content: "\f86e"
 }
 .cur-trx:before {
-  content: "\f7df";
+    content: "\f8ab"
 }
 .cur-trx-s:before {
-  content: "\f7de";
+    content: "\f8aa"
 }
 .cur-tusd:before {
-  content: "\f7ef";
+    content: "\f8bb"
 }
 .cur-tusd-s:before {
-  content: "\f7ee";
+    content: "\f8ba"
 }
 .cur-usd:before {
-  content: "\f80b";
+    content: "\f8d7"
 }
 .cur-usd-s:before {
-  content: "\f80a";
+    content: "\f8d6"
 }
 .cur-usdc:before {
-  content: "\f80d";
+    content: "\f8d9"
 }
 .cur-usdc-s:before {
-  content: "\f80c";
+    content: "\f8d8"
 }
 .sym-vet:before {
-  content: "\f827";
+    content: "\f8f3"
 }
 .sym-vet-s:before {
-  content: "\f826";
+    content: "\f8f2"
 }
 .sym-waxp:before {
-  content: "\f857";
+    content: "\f923"
 }
 .sym-waxp-s:before {
-  content: "\f856";
+    content: "\f922"
 }
 .cur-xlm:before {
-  content: "\f88f";
+    content: "\f95b"
 }
 .cur-xlm-s:before {
-  content: "\f88e";
+    content: "\f95a"
 }
 .cur-xmr:before {
-  content: "\f893";
+    content: "\f95f"
 }
 .cur-xmr-s:before {
-  content: "\f892";
+    content: "\f95e"
 }
 .cur-xrp:before {
-  content: "\f8a7";
+    content: "\f973"
 }
 .cur-xrp-s:before {
-  content: "\f8a6";
+    content: "\f972"
 }
 .cur-zar:before {
-  content: "\f8cd";
+    content: "\f999"
 }
 .cur-zar-s:before {
-  content: "\f8cc";
+    content: "\f998"
 }
 .exc-binance-us:before {
-  content: "\f1be";
+    content: "\f1be"
 }
 .exc-binance-us-s:before {
-  content: "\f1bd";
+    content: "\f1bd"
 }
 .exc-mexbt:before {
-  content: "\f1d4";
+    content: "\f1d4"
 }
 .exc-mexbt-s:before {
-  content: "\f1d3";
+    content: "\f1d3"
 }
 .exc-coinbase-pro:before {
-  content: "\f1de";
+    content: "\f1de"
 }
 .exc-gdax:before {
-  content: "\f1de";
+    content: "\f1de"
 }
 .exc-coinbase-pro-s:before {
-  content: "\f1dd";
+    content: "\f1dd"
 }
 .exc-gdax-s:before {
-  content: "\f1dd";
+    content: "\f1dd"
 }
 .exc-quadriga:before {
-  content: "\f202";
+    content: "\f202"
 }
 .exc-quadriga-s:before {
-  content: "\f201";
+    content: "\f201"
 }
 .cur-crc:before {
-  content: "\f2ef";
+    content: "\f3ab"
 }
 .cur-crc-s:before {
-  content: "\f2ee";
+    content: "\f3aa"
 }
 .cur-lak:before {
-  content: "\f504";
+    content: "\f5c6"
 }
 .cur-lak-s:before {
-  content: "\f503";
+    content: "\f5c5"
 }
 .cur-sek:before {
-  content: "\f716";
+    content: "\f7e0"
 }
 .cur-sek-s:before {
-  content: "\f715";
+    content: "\f7df"
 }
 .cur-thb:before {
-  content: "\f7af";
+    content: "\f87b"
 }
 .cur-thb-s:before {
-  content: "\f7ae";
+    content: "\f87a"
 }
 .cur-try:before {
-  content: "\f7e1";
+    content: "\f8ad"
 }
 .cur-try-s:before {
-  content: "\f7e0";
+    content: "\f8ac"
 }
 .cur-uah:before {
-  content: "\f7f3";
+    content: "\f8bf"
 }
 .cur-uah-s:before {
-  content: "\f7f2";
+    content: "\f8be"
 }
 .exc-ftx:before {
-  content: "\f3fc";
+    content: "\f4be"
 }
 .exc-ftx-s:before {
-  content: "\f3fb";
+    content: "\f4bd"
 }
 .exc-ftx-us:before {
-  content: "\f3fc";
+    content: "\f4be"
 }
 .exc-ftx-us-s:before {
-  content: "\f3fb";
+    content: "\f4bd"
 }
 .sym-cgld:before {
-  content: "\f2a1";
+    content: "\f35d"
 }
 .sym-cgld-s:before {
-  content: "\f2a0";
+    content: "\f35c"
 }
 .exc-uniswap-v2:before {
-  content: "\f805";
+    content: "\f8d1"
 }
 .exc-uniswap-v2-s:before {
-  content: "\f804";
+    content: "\f8d0"
 }
 .exc-comex:before {
-  content: "\f1dc";
+    content: "\f1dc"
 }
 .exc-comex-s:before {
-  content: "\f1db";
+    content: "\f1db"
 }
 .sym-kshib:before {
-  content: "\f72c";
+    content: "\f7f6"
 }
 .sym-kshib-s:before {
-  content: "\f72b";
+    content: "\f7f5"
 }
 .sym-easy-s:before {
-  content: "\f37a";
+    content: "\f436"
 }

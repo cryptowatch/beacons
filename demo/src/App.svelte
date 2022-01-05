@@ -152,7 +152,7 @@
   .container {
     max-width: 960px;
     margin: 0 auto;
-    padding-top: 16px;
+    padding: 16px 16px 0 16px;
     h1 {
       font-size: 16px;
       margin-block-start: 0;
