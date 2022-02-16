@@ -41,7 +41,6 @@
   "quadrigacx": "",
   "quoine": "Quoine",
   "rarible": "",
-  "superrare": "SuperRare",
   "totle": "",
   "upbit": "",
   "vaultofsatoshi": "",
@@ -762,6 +761,7 @@
   "r": "Revain",
   "rad": "Radicle",
   "rads": "Radium",
+  "rare": "SuperRare",
   "rari": "Rarible",
   "rating": "DPRating",
   "ray": "Raydium",
@@ -1094,5 +1094,6 @@
   "cgld": "",
   "uniswap-v2": "Uniswap V2",
   "comex": "COMEX (Beta)",
-  "kshib": "Kaiken Shiba"
+  "kshib": "Kaiken Shiba",
+  "srare": ""
 }
