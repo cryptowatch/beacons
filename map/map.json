@@ -170,5 +170,7 @@
   "exc-comex-s": "exc-cme-s",
   "sym-kshib": "sym-shib",
   "sym-kshib-s": "sym-shib-s",
-  "sym-easy-s": "sym-easy"
+  "sym-easy-s": "sym-easy",
+  "sym-srare": "sym-rare",
+  "sym-srare-s": "sym-rare-s"
 }
