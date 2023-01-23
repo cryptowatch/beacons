@@ -5480,7 +5480,7 @@ var app = (function () {
     	sub: sub,
     	sui: sui,
     	sun: sun,
-    	"super": "SuperFarm",
+    	"super": "SuperVerse",
     	susd: susd,
     	sushi: sushi,
     	swftc: swftc,
